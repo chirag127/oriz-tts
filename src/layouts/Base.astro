@@ -9,9 +9,23 @@ interface Props {
   description?: string
 }
 const {
-  title = 'oriz-tts — Text to Speech console',
-  description = 'Free, private text-to-speech in your browser. Pick a voice, dial in rate & pitch, watch words light up as they are spoken. 100% client-side — nothing uploaded.',
+  title = 'oriz-tts \u2014 free online text to speech, no signup',
+  description = 'Free online text-to-speech in your browser. Pick any system voice, dial in rate and pitch, watch words light up as they read aloud. No upload, no signup.',
 } = Astro.props
+
+const canonical = 'https://tts.oriz.in'
+const ogImage = `${canonical}/screenshots/desktop.png`
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'SoftwareApplication',
+  name: 'oriz Text to Speech',
+  applicationCategory: 'UtilitiesApplication',
+  operatingSystem: 'Web',
+  url: canonical,
+  description,
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+}
 ---
 
 <!doctype html>
@@ -24,11 +38,18 @@ const {
     <link rel="apple-touch-icon" href="/icons/icon-192.png" />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://tts.oriz.in" />
-    <link rel="canonical" href="https://tts.oriz.in" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:site_name" content="oriz.in" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+    <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} is:inline />
     {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
     <script src="/registerSW.js" is:inline></script>
   </head>
