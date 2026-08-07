@@ -1,0 +1,80 @@
+# oriz-tts — Text to Speech
+
+Free online text-to-speech in your browser. Live at https://tts.oriz.in
+
+100% client-side, no upload, no signup, no key. Runs entirely on the native `window.speechSynthesis` Web Speech API using the voices already installed on your device. No text ever leaves the browser.
+
+## Hero
+
+Give your text a voice.
+
+Free text to speech, right in your browser. Paste anything, pick a voice, press Speak — words light up as they're read aloud and the waveform pulses in time. Nothing uploaded, no signup.
+
+Badges: 100% client-side · No upload · No signup · System voices · AI rewrite.
+
+## The studio
+
+- Text area: type or paste text, or drop a `.txt` / `.md` file to load it.
+- Voice picker: choose from every voice installed on your device (system voices — dozens of languages and accents, no downloads).
+- Knobs (radio-console dials): rate, pitch, volume. Settings persist to `localStorage` on your device.
+- Transport: Speak, Pause, Resume, Stop.
+- Highlight-as-spoken: each sentence lights up as it is read, so you can follow along or proofread by ear.
+- Waveform: animated neon waveform synced to playback; respects `prefers-reduced-motion`.
+- Word/char count + estimated spoken duration.
+
+## Features
+
+### Every system voice
+Uses the voices installed on your device — dozens of languages and accents, no downloads.
+
+### Highlight as spoken
+Each sentence lights up as it's read, so you can follow along or proofread by ear.
+
+### Dial it in
+Radio-console knobs for rate, pitch and volume. Settings are saved on your device.
+
+### AI rewrite (optional)
+Reshape text for natural narration or a target reading level. Powered by `@chirag127/oz-ai` (g4f multi-provider failover, no key). The rewrite expands abbreviations, spells out symbols, fixes run-ons, and adds natural sentence breaks tuned for spoken delivery. If AI is busy, speech still works — the feature degrades gracefully and core TTS is never blocked.
+
+## How to use
+
+1. Open https://tts.oriz.in
+2. Type or paste text into the box, or drop a `.txt` / `.md` file.
+3. Pick a voice from the voice list.
+4. Adjust rate, pitch, and volume with the knobs (optional).
+5. Press Speak. Watch each sentence highlight as it's read; the waveform pulses in time.
+6. Use Pause / Resume / Stop to control playback.
+7. Optionally press AI rewrite to reshape the text for natural narration or a target reading level, then Speak again.
+
+## FAQ
+
+### Is it free?
+Yes. Free, no signup, no account, no key.
+
+### Does my text get uploaded?
+No. TTS runs 100% in your browser on the native Web Speech API. No text leaves the device. The optional AI rewrite is the only feature that sends text to an AI provider, and it is off unless you press it.
+
+### Which voices are available?
+Whatever voices are installed on your operating system / browser. The list varies by device.
+
+### Can I export an MP3?
+No — intentionally omitted. The browser SpeechSynthesis API exposes no audio stream, so reliable client-side audio capture isn't possible without a server. The tool stays 100% local instead.
+
+### Does it work offline?
+Yes. It's an installable PWA; core TTS works offline (AI rewrite needs a connection).
+
+## Tech
+
+- Astro (static output) + React 19 islands + Tailwind v4.
+- Native `window.speechSynthesis` Web Speech API for synthesis.
+- Optional AI rewrite via `@chirag127/oz-ai` (g4f multi-provider failover, no key).
+- Shared atomic `@chirag127/*` packages for mechanism (`oz-tokens-base`, `oz-chrome`, `oz-file`, `oz-ai`); bespoke "sound console" theme (deep indigo + neon cyan) for this site's identity.
+- PWA-installable, works offline.
+- MIT licensed. Source: https://github.com/chirag127/oriz-tts
+
+## Links
+
+- Live app: https://tts.oriz.in
+- About / info: https://chirag127.github.io/oriz-tts/
+- Source: https://github.com/chirag127/oriz-tts
+- More oriz tools: https://oriz.in
