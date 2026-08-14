@@ -1,0 +1,73 @@
+---
+title: "Hermes Agent: what it actually is in 2026 (not the LLM)"
+description: "Hermes Agent (NousResearch/hermes-agent) is a real terminal agent CLI with 210K stars, MCP support, and a skills system. It is completely separate from the NousResearch Hermes LLM series."
+pubDate: 2026-07-08
+category: "Tools"
+author: "Chirag Singhal"
+tags: ["ai-agents", "hermes", "nous-research", "coding-agents", "mcp"]
+canonicalUrl: "https://blog.oriz.in/blog/hermes-agent-what-is-it/"
+---
+
+I got this wrong in an earlier draft. Let me correct the record.
+
+**Hermes Agent** (`NousResearch/hermes-agent`) is a real, actively-maintained
+terminal agent CLI — 210K GitHub stars, last pushed 2026-07-07. It is completely
+separate from `NousResearch/Hermes-Function-Calling` (the Python LLM demo notebook
+with 1,416 stars). Same GitHub org, completely different projects.
+
+## What Hermes Agent is
+
+[`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent) is a
+general-purpose terminal agent with:
+
+- **MCP integration** — connect any MCP server for extended capabilities
+- **Skills system** — `/skills` command, agentskills.io compatibility
+- **Memory/learning loop** — Honcho dialectic user modeling, FTS5 session search
+- **Messaging channels** — Telegram, Discord, Slack, WhatsApp, Signal, Email
+- **Windows support** — PowerShell installer
+- **`hermes-cli-mcp`** — npm package (v1.0.1, 2026-05-22) that wraps the Hermes CLI
+  binary as an MCP server, confirming it ships a real standalone binary
+
+It is general-purpose first (assistant, memory, messaging) with coding agent
+capabilities alongside — not exclusively a coding agent like Claude Code.
+
+## Hermes Studio is separate
+
+[`EKKOLearnAI/hermes-studio`](https://github.com/EKKOLearnAI/hermes-studio) is a
+desktop app / web dashboard / Docker console for *managing* Hermes Agent. It
+supports "dedicated proxy routes for Codex and Claude Code integrations" — meaning
+it can launch Claude Code or Codex as coding agents from inside its UI. Hermes
+Studio is the management plane; Hermes Agent is the actual agent runtime.
+
+## What Hermes Agent is NOT
+
+It is not `NousResearch/Hermes-Function-Calling` — that repo is a Python
+Jupyter-notebook demo for structured function calling using Nous Hermes LLMs
+(stock prices, financial data). 1,416 stars, last commit 2025-12-22. A completely
+different project with the same organisation name and similar branding.
+
+The confusion is understandable. Both live under NousResearch. Neither Google
+searches nor AI roundups consistently disambiguate them.
+
+## Comparison to Claude Code and OpenCode
+
+| | Hermes Agent | Claude Code | OpenCode |
+|---|---|---|---|
+| **Type** | General-purpose agent + messaging | Coding agent CLI | Coding agent CLI |
+| **Stars** | 210K | 137K | 183K |
+| **MCP** | ✅ | ✅ native | ✅ native |
+| **Skills** | ✅ agentskills.io | ✅ `npx skills` | ✅ `npx skills` |
+| **Windows** | ✅ PowerShell | ✅ npm | ✅ npm binary |
+| **Coding focus** | General (coding is one capability) | Dedicated | Dedicated |
+| **Messaging** | ✅ Telegram/Discord/Slack/WhatsApp | ❌ | ❌ |
+| **Memory** | ✅ Honcho + FTS5 | ✅ auto-memory | ✅ |
+| **Free tier** | ✅ BYOK | ✅ with API key | ✅ free providers |
+
+Hermes Agent is genuinely comparable to Claude Code and OpenCode as a terminal
+agent — it just covers a wider surface (messaging + assistant + coding) rather
+than being coding-first.
+
+---
+
+*Next: [What is OpenClaw?](/posts/openclaw-what-is-it/)*
+*Series finale: [Hermes vs OpenClaw vs Claude Code vs OpenCode — the full comparison](/posts/hermes-openclaw-vs-claude-code-opencode/)*

@@ -1,0 +1,131 @@
+---
+title: "Hermes vs OpenClaw vs Claude Code vs OpenCode — the real comparison (2026)"
+description: "These four terminal agents appear in the same lists. Here is what each one is, verified from primary sources, and which to use for what job."
+pubDate: 2026-07-08
+category: "Tools"
+author: "Chirag Singhal"
+tags: ["ai-agents", "claude-code", "opencode", "hermes-agent", "openclaw", "comparison"]
+canonicalUrl: "https://blog.oriz.in/blog/hermes-openclaw-vs-claude-code-opencode/"
+---
+
+**Correction notice:** An earlier draft of this series incorrectly stated that
+"Hermes Agent" does not exist as a coding CLI and that it was only an LLM demo.
+The deep-research pass corrected this. `NousResearch/hermes-agent` (210K stars) is
+a real terminal agent CLI, completely separate from
+`NousResearch/Hermes-Function-Calling` (the Python LLM demo, 1.4K stars).
+The posts have been updated accordingly.
+
+---
+
+## What each one actually is (verified, 2026-07)
+
+### Hermes Agent
+
+- **Repo:** [`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent)
+- **Stars:** 210K — last pushed 2026-07-07
+- **Install:** PowerShell installer (Windows), also npm `hermes-cli-mcp` for MCP bridge
+- **Category:** General-purpose terminal agent (assistant + messaging + coding)
+- **MCP:** ✅ documented integration
+- **Skills:** ✅ agentskills.io compatible, `/skills` command
+- **Memory:** ✅ Honcho dialectic user modelling + FTS5 session search
+- **Messaging:** Telegram, Discord, Slack, WhatsApp, Signal, Email
+- **Coding:** ✅ but general-purpose first
+- **Windows:** ✅ PowerShell installer
+
+### OpenClaw
+
+- **Repo:** [`openclaw/openclaw`](https://github.com/openclaw/openclaw)
+- **npm:** `openclaw` v2026.6.11
+- **Category:** Personal AI assistant gateway — messaging-first, agent loop included
+- **Channels:** WhatsApp, Slack, Telegram, Discord, LINE, Matrix, 15+ more
+- **Skills:** ✅ (Hermes Agent can migrate from `~/.openclaw` via `hermes claw migrate`)
+- **Memory:** ✅ MEMORY.md, USER.md, SOUL.md
+- **MCP:** ⚠️ not prominently documented
+- **Terminal/TUI:** ✅ CLI binary + server mode
+- **Coding:** ❌ not primary; messaging-first architecture
+- **cc-switch listing:** ✅ treated as peer to Claude Code
+
+### Claude Code
+
+- **Repo:** [`anthropics/claude-code`](https://github.com/anthropics/claude-code)
+- **Stars:** 137K — v2.1.202, pushed 2026-07-06
+- **Install:** `npm install -g @anthropic-ai/claude-code`
+- **Category:** Dedicated terminal coding agent
+- **MCP:** ✅ native `.mcp.json`
+- **Skills:** ✅ `~/.claude/skills/` via `npx skills`
+- **Auth:** Anthropic-shape API (Bedrock, direct key)
+- **Coding:** ✅ dedicated
+- **Messaging:** ❌
+
+### OpenCode
+
+- **Repo:** [`anomalyco/opencode`](https://github.com/anomalyco/opencode) (was `sst/opencode`)
+- **Stars:** 183K — v1.17.14
+- **Install:** `npm install -g opencode-ai`
+- **Category:** Dedicated terminal coding agent
+- **MCP:** ✅ native `opencode.jsonc`
+- **Skills:** ✅ `~/.config/opencode/skills/` via same `npx skills`
+- **Auth:** OpenAI-compatible (Groq, Cerebras, OmniRoute, Ollama)
+- **Coding:** ✅ dedicated
+- **Messaging:** ❌
+
+---
+
+## Full comparison table
+
+| | Hermes Agent | OpenClaw | Claude Code | OpenCode |
+|---|---|---|---|---|
+| **Stars** | **210K** | moderate | 137K | **183K** |
+| **Last active** | 2026-07-07 | 2026-06 | 2026-07-06 | 2026-07 |
+| **Primary job** | General agent + messaging | Messaging gateway | Code editing | Code editing |
+| **Code editing** | ✅ (secondary) | ❌ | ✅ (primary) | ✅ (primary) |
+| **Messaging channels** | ✅ 6+ platforms | ✅ 20+ platforms | ❌ | ❌ |
+| **MCP** | ✅ | ⚠️ | ✅ native | ✅ native |
+| **Skills system** | ✅ agentskills.io | ✅ (openclaw skills) | ✅ npx skills | ✅ npx skills |
+| **Memory** | ✅ Honcho + FTS5 | ✅ MEMORY/USER/SOUL | ✅ auto-memory | ✅ |
+| **Windows** | ✅ PowerShell | ✅ Node | ✅ npm | ✅ binary |
+| **Free tier** | ✅ BYOK | ✅ BYOK | ✅ with key | ✅ free providers |
+| **npx skills compat** | ✅ agentskills.io | ⚠️ clawhub CLI | ✅ | ✅ |
+| **Anthropic-shape API** | ⚠️ | ⚠️ | ✅ native | ⚠️ adapter |
+| **OpenAI-compat API** | ✅ | ✅ | ⚠️ proxy | ✅ native |
+| **AionUi listed** | ❌ (not found) | ✅ | ✅ | ✅ |
+| **cc-switch listed** | ✅ | ✅ | ✅ | ✅ |
+
+---
+
+## When to use each
+
+**Claude Code** — you have corp Bedrock or an Anthropic key and want the most
+polished terminal TUI with deepest Claude/tool-use integration.
+
+**OpenCode** — you want free-tier providers (Groq, Cerebras, OmniRoute), or you
+want to run Hermes 3 / Llama / Gemma as the backend via Ollama. Best cost/coverage
+point for free-tier daily driving.
+
+**Hermes Agent** — you want a single agent that also handles Telegram/Discord/Slack
+messaging, has a persistent memory system, and covers coding as one of many
+capabilities. Larger surface, more setup, 210K stars suggests strong community.
+
+**OpenClaw** — you want your AI assistant in WhatsApp or Telegram on mobile.
+BYOK chat delivery over messaging apps. Not a dedicated coding tool.
+
+---
+
+## My current stack
+
+```
+Claude Code  →  hai :6655  →  corp Bedrock  (primary, coding)
+OpenCode     →  OmniRoute :20128  →  free providers  (failover, coding)
+```
+
+Hermes Agent is interesting — 210K stars is larger than both Claude Code and
+OpenCode, and the MCP + skills integration means it slots into the same ecosystem.
+Worth evaluating as a third agent for the messaging + memory use case.
+
+OpenClaw covers a different need (mobile AI chat) and has been superseded in
+several ways by Hermes Agent's migration path from it.
+
+---
+
+*Part 1: [What is Hermes Agent?](/posts/hermes-agent-what-is-it/)*
+*Part 2: [What is OpenClaw?](/posts/openclaw-what-is-it/)*
