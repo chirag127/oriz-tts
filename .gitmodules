@@ -1,3 +1,6 @@
 [submodule "repos/own/oriz-broker-compare"]
 	path = repos/own/oriz-broker-compare
 	url = https://github.com/chirag127/oriz-broker-compare.git
+[submodule "repos/own/oriz-screen-watch"]
+	path = repos/own/oriz-screen-watch
+	url = https://github.com/chirag127/oriz-screen-watch.git
