@@ -4,3 +4,6 @@
 [submodule "repos/own/oriz-screen-watch"]
 	path = repos/own/oriz-screen-watch
 	url = https://github.com/chirag127/oriz-screen-watch.git
+[submodule "repos/own/oriz-networth"]
+	path = repos/own/oriz-networth
+	url = https://github.com/chirag127/oriz-networth.git
