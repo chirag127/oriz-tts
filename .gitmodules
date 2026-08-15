@@ -7,3 +7,6 @@
 [submodule "repos/own/oriz-networth"]
 	path = repos/own/oriz-networth
 	url = https://github.com/chirag127/oriz-networth.git
+[submodule "repos/own/sms-txn-watch"]
+	path = repos/own/sms-txn-watch
+	url = https://github.com/chirag127/sms-txn-watch
