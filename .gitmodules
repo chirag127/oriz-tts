@@ -10,3 +10,15 @@
 [submodule "repos/own/sms-txn-watch"]
 	path = repos/own/sms-txn-watch
 	url = https://github.com/chirag127/sms-txn-watch
+[submodule "repos/own/oriz-convert"]
+	path = repos/own/oriz-convert
+	url = https://github.com/chirag127/oriz-convert.git
+[submodule "repos/own/oriz-hash"]
+	path = repos/own/oriz-hash
+	url = https://github.com/chirag127/oriz-hash.git
+[submodule "repos/own/oriz-pdf"]
+	path = repos/own/oriz-pdf
+	url = https://github.com/chirag127/oriz-pdf.git
+[submodule "repos/own/oriz-story-dice"]
+	path = repos/own/oriz-story-dice
+	url = https://github.com/chirag127/oriz-story-dice.git
