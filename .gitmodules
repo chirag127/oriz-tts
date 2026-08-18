@@ -22,3 +22,6 @@
 [submodule "repos/own/oriz-story-dice"]
 	path = repos/own/oriz-story-dice
 	url = https://github.com/chirag127/oriz-story-dice.git
+[submodule "repos/own/claude-cert-videos"]
+	path = repos/own/claude-cert-videos
+	url = https://github.com/chirag127/claude-cert-videos.git
