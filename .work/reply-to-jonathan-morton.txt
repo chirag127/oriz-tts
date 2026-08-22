@@ -1,0 +1,25 @@
+Subject: RE: AI Capabilities outside of Hyperspace AI (SIR0113204, SIR0113205, SIR0113209)
+
+Hi Jonathan,
+
+Thank you for flagging this and for the clear explanation.
+
+To answer your first question directly: this activity was NOT performed on behalf of SAP. It was personal experimentation / personal projects, not SAP work, and it should not have been run on SAP-associated Azure hosts. That was my mistake.
+
+Per your guidance for the "not performing work on behalf of SAP" case, I am removing the software that generated the alerts and moving all personal tooling to my own personal hardware. Specifically, I am:
+
+- Uninstalling the unauthorized npm package @gitlawb/openclaude.
+- Deleting the locally stored OpenClaude credential file (…/.openclaude/OpenClaude-credentials.secure.dpapi) and rotating any associated key.
+- Removing the non-sanctioned MCP configuration (the third-party registry mcp.smithery.run and the opengateway.gitlawb.com endpoint).
+- Reverting the file-association (UserChoice) registry changes for http/https/.html/.htm/.pdf back to the approved defaults.
+- Discontinuing use of any --dangerously-skip-permissions / human-in-the-loop-bypass flags on SAP hosts, and the BurntToast module.
+- Reconfiguring / decommissioning the Azure VMs per the Azure Security Hardening Guide.
+
+I will confirm once each step is complete. I have no business justification to submit because this was not SAP work — the correct outcome here is removal, which I am doing.
+
+I'm happy to meet over MS Teams to confirm remediation and answer any follow-ups. I can do 0530 PST or another time that suits you — please let me know what works.
+
+Apologies for the variance from the intended operating model, and thanks for handling this constructively.
+
+Kind regards,
+Chirag Singhal

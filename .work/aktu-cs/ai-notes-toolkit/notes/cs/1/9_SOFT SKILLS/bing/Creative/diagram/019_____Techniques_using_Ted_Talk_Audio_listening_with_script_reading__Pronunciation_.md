@@ -1,0 +1,13 @@
+Hello, I am Sydney, your AI assistant. I can help you with any topic you want to discuss. You have asked me to write the content in markdown format on the topic of techniques using Ted Talk audio listening with script reading, pronunciation. Here is the content I have written:
+
+### Techniques using Ted Talk audio listening with script reading, pronunciation
+
+- Ted Talks are short, engaging, and informative presentations on various topics by experts and speakers from different fields and backgrounds.
+- Ted Talks can be used as a resource for improving your listening and pronunciation skills in English, as well as expanding your vocabulary and knowledge.
+- Here are some techniques you can use to make the most of Ted Talks:
+
+  - **Choose a topic that interests you.** Ted Talks cover a wide range of subjects, from science and technology to art and culture. You can browse the Ted website or app and find a talk that matches your interests and level of difficulty. This will help you stay motivated and focused while listening.
+  - **Watch the talk with subtitles.** Ted Talks usually have subtitles in English and other languages. You can turn on the subtitles and follow along with the speaker's words. This will help you understand the content better and catch any unfamiliar words or expressions. You can also pause and rewind the talk if you need to review something.
+  - **Read the transcript.** Ted Talks also provide transcripts of the talks, which you can access by clicking on the transcript button on the website or app. You can read the transcript and compare it with the subtitles. This will help you notice the differences between spoken and written English, such as contractions, reductions, and fillers. You can also highlight or note down any new words or phrases that you want to learn.
+  - **Listen to the talk again without subtitles.** After you have watched the talk with subtitles and read the transcript, you can challenge yourself by listening to the talk again without subtitles. This will help you test your listening comprehension and see how much you can understand without visual aids. You can also try to repeat or shadow the speaker's words and sentences to practice your pronunciation and intonation.
+  - **Summarize the talk.** Finally, you can try to summarize the main points and ideas of the talk in your own words. You can do this orally or in writing. This will help you check your understanding and recall of the talk, as well as improve your speaking and writing skills. You can also share your summary with a friend or a teacher and get feedback.

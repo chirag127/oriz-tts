@@ -1,0 +1,24 @@
+# oriz-tts
+
+> Free, 100% client-side text-to-speech in the browser. Paste text, pick any system voice, dial in rate/pitch/volume, and hear it read aloud with each sentence highlighting as it is spoken. No upload, no signup, no key — runs on the native Web Speech API using the voices already on your device.
+
+Live app: https://tts.oriz.in
+
+## Pages
+
+- [Home / TTS studio](https://tts.oriz.in): the tool — text box, voice picker, rate/pitch/volume knobs, Speak/Pause/Resume/Stop transport, highlight-as-spoken, animated waveform, optional AI rewrite.
+- [About / info](https://chirag127.github.io/oriz-tts/): what oriz-tts is, feature list, tech stack, links.
+- [Source](https://github.com/chirag127/oriz-tts): MIT-licensed source on GitHub.
+
+## Features
+
+- [System voices](https://tts.oriz.in): every voice installed on your device — dozens of languages and accents, zero downloads.
+- [Highlight as spoken](https://tts.oriz.in): each sentence lights up as it is read, for follow-along reading or proofreading by ear.
+- [Rate / pitch / volume](https://tts.oriz.in): radio-console knobs, persisted to localStorage.
+- [File load](https://tts.oriz.in): drag-drop or open a .txt / .md file.
+- [AI rewrite (optional)](https://tts.oriz.in): reshape text for natural narration or a target reading level via @chirag127/oz-ai (g4f multi-provider, no key); degrades gracefully — core TTS always works.
+- [PWA](https://tts.oriz.in): installable, works offline.
+
+## Full text
+
+- [llms-full.txt](https://tts.oriz.in/llms-full.txt): full site content as clean markdown for LLM ingestion.

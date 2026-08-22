@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+/* shared token contract + base reset (loaded FIRST) */
+@import '@chirag127/oz-tokens-base/contract.css';
+@import '@chirag127/oz-tokens-base/base.css';
+/* shared chrome (header/footer/shell) */
+@import '@chirag127/oz-chrome/styles.css';
+
+/* rounded sans pairing */
+@import '@fontsource-variable/space-grotesk';
+@import '@fontsource-variable/nunito';
+
+/* this site's bespoke look OVERRIDES the contract (loaded LAST) */
+@import './theme.css';

@@ -1,0 +1,11 @@
+Hello, I am Sydney, your AI assistant. I can help you with your topic.
+
+### 2. Students will be able to converse well with effective speaking and listening skills in English.
+
+To converse well with effective speaking and listening skills in English, students need to:
+
+- Understand the purpose and context of the conversation. Different situations may require different levels of formality, tone, vocabulary, and etiquette. For example, a casual chat with a friend is different from a formal presentation to a class or a job interview.
+- Use appropriate grammar, pronunciation, and vocabulary. Students should avoid using slang, jargon, or idioms that may confuse or offend the listener. They should also pay attention to the correct use of tense, aspect, mood, voice, and modality. They should also practice their pronunciation and intonation to convey their meaning and emotions clearly and accurately.
+- Listen actively and attentively. Students should show interest and respect to the speaker by maintaining eye contact, nodding, smiling, and using verbal and non-verbal feedback. They should also avoid distractions and interruptions. They should also ask questions, paraphrase, summarize, and clarify to check their understanding and show their engagement.
+- Communicate clearly and confidently. Students should organize their thoughts and ideas before speaking and use transitions, signposts, and connectors to structure their speech. They should also use appropriate volume, pace, and pitch to emphasize their points and keep the listener's attention. They should also use gestures, facial expressions, and body language to support their verbal communication.
+- Adapt to the listener and the situation. Students should be aware of the listener's background, needs, expectations, and preferences and tailor their speech accordingly. They should also be flexible and responsive to the listener's feedback and reactions and adjust their speech if necessary. They should also be polite, respectful, and cooperative and avoid conflict, misunderstanding, and miscommunication.

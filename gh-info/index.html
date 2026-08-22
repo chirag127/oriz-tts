@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>About oriz-tts — Text to Speech</title>
+    <meta
+      name="description"
+      content="About oriz-tts: a free, 100% client-side text-to-speech web app. What it is, its features, and how it's built. This is the project info page — the live tool is at tts.oriz.in."
+    />
+    <link rel="canonical" href="https://chirag127.github.io/oriz-tts/" />
+    <style>
+      :root {
+        --bg: #fafaf9;
+        --fg: #1c1917;
+        --muted: #57534e;
+        --accent: #0f766e;
+        --card: #ffffff;
+        --border: #e7e5e4;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #1c1917;
+          --fg: #f5f5f4;
+          --muted: #a8a29e;
+          --accent: #5eead4;
+          --card: #292524;
+          --border: #44403c;
+        }
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--fg);
+        font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      main { max-width: 720px; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+      .tag {
+        display: inline-block;
+        font-size: 0.75rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--accent);
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        padding: 0.2rem 0.7rem;
+        margin-bottom: 1rem;
+      }
+      h1 { font-size: 2rem; margin: 0 0 0.5rem; }
+      h2 { font-size: 1.15rem; margin: 2.25rem 0 0.6rem; }
+      p { color: var(--fg); }
+      .lead { font-size: 1.1rem; color: var(--muted); }
+      ul { padding-left: 1.2rem; }
+      li { margin: 0.35rem 0; }
+      .cta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        margin: 1.5rem 0 0.5rem;
+      }
+      .btn {
+        display: inline-block;
+        padding: 0.6rem 1.1rem;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        border: 1px solid var(--border);
+        color: var(--fg);
+        background: var(--card);
+      }
+      .btn.primary { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+      .links { margin-top: 0.5rem; }
+      .links a { color: var(--accent); }
+      code {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        padding: 0.05rem 0.35rem;
+        font-size: 0.9em;
+      }
+      footer {
+        margin-top: 3rem;
+        padding-top: 1.25rem;
+        border-top: 1px solid var(--border);
+        color: var(--muted);
+        font-size: 0.85rem;
+      }
+      footer a { color: var(--accent); }
+    </style>
+  </head>
+  <body>
+    <main>
+      <span class="tag">Project info · about this page</span>
+      <h1>oriz-tts</h1>
+      <p class="lead">
+        A free, 100% client-side text-to-speech web app. Paste text, pick any
+        system voice, dial in rate and pitch, and hear it read aloud with each
+        sentence highlighting as it's spoken.
+      </p>
+
+      <div class="cta">
+        <a class="btn primary" href="https://tts.oriz.in">Open the live app →</a>
+        <a class="btn" href="https://github.com/chirag127/oriz-tts">Source on GitHub</a>
+        <a class="btn" href="https://tts.oriz.in/llms.txt">llms.txt</a>
+      </div>
+      <p class="links" style="color: var(--muted); font-size: 0.9rem;">
+        This is the <strong>about</strong> page for the project. The tool itself
+        lives at <a href="https://tts.oriz.in">tts.oriz.in</a>.
+      </p>
+
+      <h2>What it is</h2>
+      <p>
+        Text-to-speech in the browser — voice, rate and pitch controls, with
+        each sentence highlighting as it's spoken. It runs on the native Web
+        Speech API using the voices already installed on your device.
+      </p>
+
+      <h2>Key features</h2>
+      <ul>
+        <li>Every system voice — dozens of languages and accents, no downloads</li>
+        <li>Highlight-as-spoken sentence tracking, to follow along or proofread by ear</li>
+        <li>Rate, pitch and volume knobs, saved on your device</li>
+        <li>Drag-drop or load a <code>.txt</code> / <code>.md</code> file</li>
+        <li>Word/char count and estimated spoken duration</li>
+        <li>Animated waveform synced to playback (respects reduced-motion)</li>
+        <li>Optional AI rewrite for natural narration or a target reading level — degrades gracefully</li>
+        <li>Pause / resume / stop transport</li>
+      </ul>
+
+      <h2>How it's built</h2>
+      <ul>
+        <li>Client-only Astro (static) + React islands — no backend</li>
+        <li>Native <code>window.speechSynthesis</code> for synthesis</li>
+        <li>g4f AI (no key, multi-provider failover) via <code>@chirag127/oz-ai</code> for the optional rewrite</li>
+        <li>PWA-installable, works offline</li>
+        <li>100% in-browser — no upload, no signup, no server</li>
+      </ul>
+
+      <footer>
+        <p>
+          Live app: <a href="https://tts.oriz.in">tts.oriz.in</a> ·
+          Source: <a href="https://github.com/chirag127/oriz-tts">github.com/chirag127/oriz-tts</a> ·
+          LLM data: <a href="https://tts.oriz.in/llms.txt">llms.txt</a>
+        </p>
+        <p>MIT © 2026 Chirag Singhal</p>
+      </footer>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+# Element detection and identification of functional groups in organic compounds
+
+1. **Element detection**: The detection of elements in organic compounds involves the determination of the presence of certain elements such as carbon, hydrogen, nitrogen, sulfur, and halogens.
+2. **Carbon and hydrogen**: Carbon and hydrogen are usually detected by heating the compound with copper oxide. The carbon in the compound is oxidized to carbon dioxide and the hydrogen is oxidized to water. The carbon dioxide is then absorbed by a solution of calcium hydroxide, forming calcium carbonate, while the water is absorbed by anhydrous copper sulfate, turning it blue.
+3. **Nitrogen**: Nitrogen can be detected by the Lassaigne's test, which involves heating the compound with sodium metal. The nitrogen in the compound reacts with the sodium to form sodium cyanide, which can be detected by its reaction with iron(II) sulfate and sodium hydroxide, forming Prussian blue.
+4. **Sulfur**: Sulfur can be detected by heating the compound with sodium, forming sodium sulfide. The sodium sulfide can then be detected by its reaction with lead acetate, forming a black precipitate of lead sulfide.
+5. **Halogens**: Halogens can be detected by the Beilstein test, which involves heating the compound with copper wire. The halogens in the compound react with the copper to form copper halides, which can be detected by their characteristic flame colors.
+6. **Functional groups**: The identification of functional groups in organic compounds involves the determination of the presence of certain characteristic groups of atoms that determine the chemical behavior of the compound. Common functional groups include alcohols, aldehydes, ketones, carboxylic acids, esters, amines, and amides.
+7. **Alcohols**: Alcohols can be identified by their reaction with Lucas reagent, forming a cloudy solution, or by their reaction with sodium, forming hydrogen gas.
+8. **Aldehydes**: Aldehydes can be identified by their reaction with Tollens' reagent, forming a silver mirror, or by their reaction with Fehling's solution, forming a red precipitate.
+9. **Ketones**: Ketones can be identified by their reaction with 2,4-dinitrophenylhydrazine, forming a yellow or orange precipitate.
+10. **Carboxylic acids**: Carboxylic acids can be identified by their reaction with sodium bicarbonate, forming carbon dioxide gas, or by their reaction with litmus, turning it red.
+11. **Esters**: Esters can be identified by their characteristic fruity smell, or by their reaction with sodium hydroxide, forming a carboxylic acid and an alcohol.
+12. **Amines**: Amines can be identified by their reaction with nitrous acid, forming nitrogen gas, or by their reaction with litmus, turning it blue.
+13. **Amides**: Amides can be identified by their reaction with nitrous acid, forming nitrogen gas and a carboxylic acid, or by their reaction with litmus, having no effect.

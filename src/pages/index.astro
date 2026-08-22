@@ -1,0 +1,43 @@
+---
+import Base from '../layouts/Base.astro'
+import TtsStudio from '../components/TtsStudio.tsx'
+---
+
+<Base>
+  <section class="hero">
+    <h1>Give your text a voice</h1>
+    <p>
+      Free text to speech, right in your browser. Paste anything, pick a voice,
+      press Speak — words light up as they're read aloud and the waveform pulses
+      in time. Nothing uploaded, no signup.
+    </p>
+    <div class="hero__chips">
+      <span class="chip">100% client-side</span>
+      <span class="chip">No upload</span>
+      <span class="chip">No signup</span>
+      <span class="chip">System voices</span>
+      <span class="chip">AI rewrite</span>
+    </div>
+  </section>
+
+  <TtsStudio client:only="react" />
+
+  <section class="features">
+    <div class="feature">
+      <h3>Every system voice</h3>
+      <p>Uses the voices installed on your device — dozens of languages and accents, no downloads.</p>
+    </div>
+    <div class="feature">
+      <h3>Highlight as spoken</h3>
+      <p>Each sentence lights up as it's read, so you can follow along or proofread by ear.</p>
+    </div>
+    <div class="feature">
+      <h3>Dial it in</h3>
+      <p>Radio-console knobs for rate, pitch and volume. Settings are saved on your device.</p>
+    </div>
+    <div class="feature">
+      <h3>AI rewrite (optional)</h3>
+      <p>Reshape text for natural narration or a target reading level. If AI's busy, speech still works.</p>
+    </div>
+  </section>
+</Base>
