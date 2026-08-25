@@ -1,426 +1,661 @@
-[submodule "repos/own/agent-forge"]
-	path = repos/own/agent-forge
-	url = https://github.com/chirag127/agent-forge.git
-[submodule "repos/own/aktu-cs"]
-	path = repos/own/aktu-cs
-	url = https://github.com/chirag127/aktu-cs.git
-[submodule "repos/own/automation-scripts"]
-	path = repos/own/automation-scripts
-	url = https://github.com/chirag127/automation-scripts.git
-[submodule "repos/own/bookmark-mind-bs-ext"]
-	path = repos/own/bookmark-mind-bs-ext
-	url = https://github.com/chirag127/bookmark-mind.git
-[submodule "repos/own/chronokeep-bs-ext"]
-	path = repos/own/chronokeep-bs-ext
-	url = https://github.com/chirag127/chronokeep-bs-ext.git
-[submodule "repos/own/cinesense"]
-	path = repos/own/cinesense
-	url = https://github.com/chirag127/cinesense.git
-[submodule "repos/own/claude-cert-videos"]
-	path = repos/own/claude-cert-videos
-	url = https://github.com/chirag127/claude-cert-videos.git
-[submodule "repos/own/clear-thought-mcp-server"]
-	path = repos/own/clear-thought-mcp-server
+[submodule "repos/Clear-Thought-MCP-server"]
+	path = repos/Clear-Thought-MCP-server
 	url = https://github.com/chirag127/Clear-Thought-MCP-server.git
-[submodule "repos/own/cloud-automation"]
-	path = repos/own/cloud-automation
-	url = https://github.com/chirag127/cloud-automation.git
-[submodule "repos/own/contentsync-multiplatform-content-syndication-web-app"]
-	path = repos/own/contentsync-multiplatform-content-syndication-web-app
+
+[submodule "repos/ContentSync-MultiPlatform-Content-Syndication-Web-App"]
+	path = repos/ContentSync-MultiPlatform-Content-Syndication-Web-App
 	url = https://github.com/chirag127/ContentSync-MultiPlatform-Content-Syndication-Web-App.git
-[submodule "repos/own/deploy-kit"]
-	path = repos/own/deploy-kit
-	url = https://github.com/chirag127/deploy-kit.git
-[submodule "repos/own/design-system"]
-	path = repos/own/design-system
-	url = https://github.com/chirag127/design-system.git
-[submodule "repos/own/dns-filters"]
-	path = repos/own/dns-filters
-	url = https://github.com/chirag127/filter-lists.git
-[submodule "repos/own/envpact"]
-	path = repos/own/envpact
-	url = https://github.com/chirag127/envpact.git
-[submodule "repos/own/envpact-gh-action"]
-	path = repos/own/envpact-gh-action
-	url = https://github.com/chirag127/envpact-gh-action.git
-[submodule "repos/own/envpact-mcp-server"]
-	path = repos/own/envpact-mcp-server
-	url = https://github.com/chirag127/envpact-mcp-server.git
-[submodule "repos/own/envpact-npm-cli"]
-	path = repos/own/envpact-npm-cli
-	url = https://github.com/chirag127/envpact-npm-cli.git
-[submodule "repos/own/envpact-registry-publisher-npm-cli"]
-	path = repos/own/envpact-registry-publisher-npm-cli
-	url = https://github.com/chirag127/envpact-registry-publisher-npm-cli.git
-[submodule "repos/own/envpact-vscode-vsc-ext"]
-	path = repos/own/envpact-vscode-vsc-ext
-	url = https://github.com/chirag127/envpact-vscode-vsc-ext.git
-[submodule "repos/own/filter-report"]
-	path = repos/own/filter-report
-	url = https://github.com/chirag127/filter-report.git
-[submodule "repos/own/flow-fii-dii-activity"]
-	path = repos/own/flow-fii-dii-activity
-	url = https://github.com/chirag127/fii-dii-activity-api.git
-[submodule "repos/own/games"]
-	path = repos/own/games
-	url = https://github.com/chirag127/games.git
-[submodule "repos/own/ghosttyper-bs-ext"]
-	path = repos/own/ghosttyper-bs-ext
-	url = https://github.com/chirag127/ghosttyper-bs-ext.git
-[submodule "repos/own/gitanest"]
-	path = repos/own/gitanest
+
+[submodule "repos/Gitanest"]
+	path = repos/Gitanest
 	url = https://github.com/chirag127/Gitanest.git
-[submodule "repos/own/go-vault"]
-	path = repos/own/go-vault
-	url = https://github.com/chirag127/go-vault.git
-[submodule "repos/own/google-transparency-report-analysis"]
-	path = repos/own/google-transparency-report-analysis
-	url = https://github.com/chirag127/google-transparency-report-analysis.git
-[submodule "repos/own/i2i-portfolio-data"]
-	path = repos/own/i2i-portfolio-data
-	url = https://github.com/chirag127/i2i-portfolio-data.git
-[submodule "repos/own/i2i-yield-watch"]
-	path = repos/own/i2i-yield-watch
-	url = https://github.com/chirag127/i2i-yield-watch.git
-[submodule "repos/own/innercord-internship"]
-	path = repos/own/innercord-internship
-	url = https://github.com/chirag127/innercord-internship.git
-[submodule "repos/own/installation-instructions"]
-	path = repos/own/installation-instructions
+
+[submodule "repos/Installation-Instructions"]
+	path = repos/Installation-Instructions
 	url = https://github.com/chirag127/Installation-Instructions.git
-[submodule "repos/own/janaushadhi-astro"]
-	path = repos/own/janaushadhi-astro
-	url = https://github.com/chirag127/janaushadhi-ecommerce-astro.git
-[submodule "repos/own/janaushadhi-laravel"]
-	path = repos/own/janaushadhi-laravel
-	url = https://github.com/chirag127/janaushadhi-ecommerce-laravel.git
-[submodule "repos/own/janaushadhi-nextjs"]
-	path = repos/own/janaushadhi-nextjs
-	url = https://github.com/chirag127/janaushadhi-ecommerce-nextjs.git
-[submodule "repos/own/janaushadhi-wordpress"]
-	path = repos/own/janaushadhi-wordpress
-	url = https://github.com/chirag127/janaushadhi-ecommerce-wordpress.git
-[submodule "repos/own/kirtuclub-downloader"]
-	path = repos/own/kirtuclub-downloader
-	url = https://github.com/chirag127/kirtuclub-downloader.git
-[submodule "repos/own/knowledge-mcp"]
-	path = repos/own/knowledge-mcp
-	url = https://github.com/chirag127/knowledge-mcp.git
-[submodule "repos/own/leak-finder"]
-	path = repos/own/leak-finder
-	url = https://github.com/chirag127/leak-finder.git
-[submodule "repos/own/life-cli"]
-	path = repos/own/life-cli
-	url = https://github.com/chirag127/life-cli.git
-[submodule "repos/own/life-cli-secrets"]
-	path = repos/own/life-cli-secrets
-	url = https://github.com/chirag127/life-cli-secrets.git
-[submodule "repos/own/lyriclens"]
-	path = repos/own/lyriclens
+
+[submodule "repos/LyricLens-AI-Song-Meaning-Web-App"]
+	path = repos/LyricLens-AI-Song-Meaning-Web-App
 	url = https://github.com/chirag127/LyricLens-AI-Song-Meaning-Web-App.git
-[submodule "repos/own/mdv-mcp"]
-	path = repos/own/mdv-mcp
-	url = https://github.com/chirag127/mdv-mcp.git
-[submodule "repos/own/memoria-android"]
-	path = repos/own/memoria-android
-	url = https://github.com/chirag127/memoria-android.git
-[submodule "repos/own/mf-mailer"]
-	path = repos/own/mf-mailer
-	url = https://github.com/chirag127/mf-mailer.git
-[submodule "repos/own/ml-notebooks"]
-	path = repos/own/ml-notebooks
-	url = https://github.com/chirag127/ml-notebooks.git
-[submodule "repos/own/mmi-tickertape"]
-	path = repos/own/mmi-tickertape
-	url = https://github.com/chirag127/tickertape-mmi.git
-[submodule "repos/own/morphe-patches"]
-	path = repos/own/morphe-patches
-	url = https://github.com/chirag127/morphe-patches.git
-[submodule "repos/own/multisearchx"]
-	path = repos/own/multisearchx
-	url = https://github.com/chirag127/multisearchx.git
-[submodule "repos/own/ndns"]
-	path = repos/own/ndns
-	url = https://github.com/chirag127/ndns.git
-[submodule "repos/own/olivia"]
-	path = repos/own/olivia
-	url = https://github.com/chirag127/olivia.git
-[submodule "repos/own/omnidistribute"]
-	path = repos/own/omnidistribute
+
+[submodule "repos/NassCom-AI-Data-Analysis-And-Modeling-Notebooks"]
+	path = repos/NassCom-AI-Data-Analysis-And-Modeling-Notebooks
+	url = https://github.com/chirag127/NassCom-AI-Data-Analysis-And-Modeling-Notebooks.git
+
+[submodule "repos/OmniDistribute"]
+	path = repos/OmniDistribute
 	url = https://github.com/chirag127/OmniDistribute.git
-[submodule "repos/own/omnijournal"]
-	path = repos/own/omnijournal
-	url = https://github.com/chirag127/omnijournal.git
-[submodule "repos/own/omniroute-cookie-bridge"]
-	path = repos/own/omniroute-cookie-bridge
-	url = https://github.com/chirag127/omniroute-cookie-bridge.git
-[submodule "repos/own/oriz-auth-app"]
-	path = repos/own/oriz-auth-app
-	url = https://github.com/chirag127/oriz-auth-app.git
-[submodule "repos/own/oriz-blog-ai"]
-	path = repos/own/oriz-blog-ai
-	url = https://github.com/chirag127/oriz-blog-ai.git
-[submodule "repos/own/oriz-blog-arts"]
-	path = repos/own/oriz-blog-arts
-	url = https://github.com/chirag127/oriz-blog-arts.git
-[submodule "repos/own/oriz-blog-beauty"]
-	path = repos/own/oriz-blog-beauty
-	url = https://github.com/chirag127/oriz-blog-beauty.git
-[submodule "repos/own/oriz-blog-business"]
-	path = repos/own/oriz-blog-business
-	url = https://github.com/chirag127/oriz-blog-business.git
-[submodule "repos/own/oriz-blog-career"]
-	path = repos/own/oriz-blog-career
-	url = https://github.com/chirag127/oriz-blog-career.git
-[submodule "repos/own/oriz-blog-devtools"]
-	path = repos/own/oriz-blog-devtools
-	url = https://github.com/chirag127/oriz-blog-devtools.git
-[submodule "repos/own/oriz-blog-education"]
-	path = repos/own/oriz-blog-education
-	url = https://github.com/chirag127/oriz-blog-education.git
-[submodule "repos/own/oriz-blog-entertainment"]
-	path = repos/own/oriz-blog-entertainment
-	url = https://github.com/chirag127/oriz-blog-entertainment.git
-[submodule "repos/own/oriz-blog-finance"]
-	path = repos/own/oriz-blog-finance
-	url = https://github.com/chirag127/oriz-blog-finance.git
-[submodule "repos/own/oriz-blog-food"]
-	path = repos/own/oriz-blog-food
-	url = https://github.com/chirag127/oriz-blog-food.git
-[submodule "repos/own/oriz-blog-gaming"]
-	path = repos/own/oriz-blog-gaming
-	url = https://github.com/chirag127/oriz-blog-gaming.git
-[submodule "repos/own/oriz-blog-health"]
-	path = repos/own/oriz-blog-health
-	url = https://github.com/chirag127/oriz-blog-health.git
-[submodule "repos/own/oriz-blog-hobbies"]
-	path = repos/own/oriz-blog-hobbies
-	url = https://github.com/chirag127/oriz-blog-hobbies.git
-[submodule "repos/own/oriz-blog-home-diy"]
-	path = repos/own/oriz-blog-home-diy
-	url = https://github.com/chirag127/oriz-blog-home-diy.git
-[submodule "repos/own/oriz-blog-hub"]
-	path = repos/own/oriz-blog-hub
-	url = https://github.com/chirag127/oriz-blog.git
-[submodule "repos/own/oriz-blog-lifestyle"]
-	path = repos/own/oriz-blog-lifestyle
-	url = https://github.com/chirag127/oriz-blog-lifestyle.git
-[submodule "repos/own/oriz-blog-marketing"]
-	path = repos/own/oriz-blog-marketing
-	url = https://github.com/chirag127/oriz-blog-marketing.git
-[submodule "repos/own/oriz-blog-news"]
-	path = repos/own/oriz-blog-news
-	url = https://github.com/chirag127/oriz-blog-news.git
-[submodule "repos/own/oriz-blog-parenting"]
-	path = repos/own/oriz-blog-parenting
-	url = https://github.com/chirag127/oriz-blog-parenting.git
-[submodule "repos/own/oriz-blog-pets"]
-	path = repos/own/oriz-blog-pets
-	url = https://github.com/chirag127/oriz-blog-pets.git
-[submodule "repos/own/oriz-blog-relationships"]
-	path = repos/own/oriz-blog-relationships
-	url = https://github.com/chirag127/oriz-blog-relationships.git
-[submodule "repos/own/oriz-blog-remote-work"]
-	path = repos/own/oriz-blog-remote-work
-	url = https://github.com/chirag127/oriz-blog-remote-work.git
-[submodule "repos/own/oriz-blog-self-dev"]
-	path = repos/own/oriz-blog-self-dev
-	url = https://github.com/chirag127/oriz-blog-self-dev.git
-[submodule "repos/own/oriz-blog-sports"]
-	path = repos/own/oriz-blog-sports
-	url = https://github.com/chirag127/oriz-blog-sports.git
-[submodule "repos/own/oriz-blog-sustainability"]
-	path = repos/own/oriz-blog-sustainability
-	url = https://github.com/chirag127/oriz-blog-sustainability.git
-[submodule "repos/own/oriz-blog-tech"]
-	path = repos/own/oriz-blog-tech
-	url = https://github.com/chirag127/oriz-blog-tech.git
-[submodule "repos/own/oriz-blog-travel"]
-	path = repos/own/oriz-blog-travel
-	url = https://github.com/chirag127/oriz-blog-travel.git
-[submodule "repos/own/oriz-brain"]
-	path = repos/own/oriz-brain
-	url = https://github.com/chirag127/oriz-brain.git
-[submodule "repos/own/oriz-broker-compare"]
-	path = repos/own/oriz-broker-compare
-	url = https://github.com/chirag127/oriz-broker-compare.git
-[submodule "repos/own/oriz-cards"]
-	path = repos/own/oriz-cards
-	url = https://github.com/chirag127/oriz-cards.git
-[submodule "repos/own/oriz-case"]
-	path = repos/own/oriz-case
-	url = https://github.com/chirag127/oriz-case.git
-[submodule "repos/own/oriz-chat"]
-	path = repos/own/oriz-chat
-	url = https://github.com/chirag127/oriz-chat.git
-[submodule "repos/own/oriz-color"]
-	path = repos/own/oriz-color
-	url = https://github.com/chirag127/oriz-color.git
-[submodule "repos/own/oriz-convert"]
-	path = repos/own/oriz-convert
-	url = https://github.com/chirag127/oriz-convert.git
-[submodule "repos/own/oriz-diagram"]
-	path = repos/own/oriz-diagram
-	url = https://github.com/chirag127/oriz-diagram.git
-[submodule "repos/own/oriz-envpact-dashboard-app"]
-	path = repos/own/oriz-envpact-dashboard-app
-	url = https://github.com/chirag127/oriz-envpact-dashboard-app.git
-[submodule "repos/own/oriz-finance"]
-	path = repos/own/oriz-finance
-	url = https://github.com/chirag127/oriz-finance.git
-[submodule "repos/own/oriz-finance-compare"]
-	path = repos/own/oriz-finance-compare
-	url = https://github.com/chirag127/oriz-finance-compare.git
-[submodule "repos/own/oriz-hash"]
-	path = repos/own/oriz-hash
-	url = https://github.com/chirag127/oriz-hash.git
-[submodule "repos/own/oriz-home"]
-	path = repos/own/oriz-home
-	url = https://github.com/chirag127/oriz-home.git
-[submodule "repos/own/oriz-img"]
-	path = repos/own/oriz-img
-	url = https://github.com/chirag127/oriz-img.git
-[submodule "repos/own/oriz-invoice"]
-	path = repos/own/oriz-invoice
-	url = https://github.com/chirag127/oriz-invoice.git
-[submodule "repos/own/oriz-ipo"]
-	path = repos/own/oriz-ipo
-	url = https://github.com/chirag127/oriz-ipo.git
-[submodule "repos/own/oriz-json"]
-	path = repos/own/oriz-json
-	url = https://github.com/chirag127/oriz-json.git
-[submodule "repos/own/oriz-knowledge-site"]
-	path = repos/own/oriz-knowledge-site
-	url = https://github.com/chirag127/oriz-knowledge-site.git
-[submodule "repos/own/oriz-kt-search"]
-	path = repos/own/oriz-kt-search
-	url = https://github.com/chirag127/oriz-kt-search.git
-[submodule "repos/own/oriz-links-site"]
-	path = repos/own/oriz-links-site
-	url = https://github.com/chirag127/oriz-links-site.git
-[submodule "repos/own/oriz-lore"]
-	path = repos/own/oriz-lore
-	url = https://github.com/chirag127/oriz-lore.git
-[submodule "repos/own/oriz-me"]
-	path = repos/own/oriz-me
-	url = https://github.com/chirag127/oriz-me.git
-[submodule "repos/own/oriz-mmi"]
-	path = repos/own/oriz-mmi
-	url = https://github.com/chirag127/oriz-mmi.git
-[submodule "repos/own/oriz-muse"]
-	path = repos/own/oriz-muse
-	url = https://github.com/chirag127/oriz-muse.git
-[submodule "repos/own/oriz-name"]
-	path = repos/own/oriz-name
-	url = https://github.com/chirag127/oriz-name.git
-[submodule "repos/own/oriz-ncert"]
-	path = repos/own/oriz-ncert
-	url = https://github.com/chirag127/oriz-ncert.git
-[submodule "repos/own/oriz-networth"]
-	path = repos/own/oriz-networth
-	url = https://github.com/chirag127/oriz-networth.git
-[submodule "repos/own/oriz-nifty-signal"]
-	path = repos/own/oriz-nifty-signal
-	url = https://github.com/chirag127/oriz-nifty-signal.git
-[submodule "repos/own/oriz-palette-ai"]
-	path = repos/own/oriz-palette-ai
-	url = https://github.com/chirag127/oriz-palette-ai.git
-[submodule "repos/own/oriz-pdf"]
-	path = repos/own/oriz-pdf
-	url = https://github.com/chirag127/oriz-pdf.git
-[submodule "repos/own/oriz-persona"]
-	path = repos/own/oriz-persona
-	url = https://github.com/chirag127/oriz-persona.git
-[submodule "repos/own/oriz-portfolio-lab"]
-	path = repos/own/oriz-portfolio-lab
-	url = https://github.com/chirag127/oriz-portfolio-lab.git
-[submodule "repos/own/oriz-quiz"]
-	path = repos/own/oriz-quiz
-	url = https://github.com/chirag127/oriz-quiz.git
-[submodule "repos/own/oriz-resume"]
-	path = repos/own/oriz-resume
-	url = https://github.com/chirag127/oriz-resume.git
-[submodule "repos/own/oriz-screen-watch"]
-	path = repos/own/oriz-screen-watch
-	url = https://github.com/chirag127/oriz-screen-watch.git
-[submodule "repos/own/oriz-status"]
-	path = repos/own/oriz-status
-	url = https://github.com/chirag127/oriz-status.git
-[submodule "repos/own/oriz-story-dice"]
-	path = repos/own/oriz-story-dice
-	url = https://github.com/chirag127/oriz-story-dice.git
-[submodule "repos/own/oriz-text"]
-	path = repos/own/oriz-text
-	url = https://github.com/chirag127/oriz-text.git
-[submodule "repos/own/oz-ai"]
-	path = repos/own/oz-ai
-	url = https://github.com/chirag127/oz-ai.git
-[submodule "repos/own/oz-chrome"]
-	path = repos/own/oz-chrome
-	url = https://github.com/chirag127/oz-chrome.git
-[submodule "repos/own/oz-file"]
-	path = repos/own/oz-file
-	url = https://github.com/chirag127/oz-file.git
-[submodule "repos/own/oz-tokens-base"]
-	path = repos/own/oz-tokens-base
-	url = https://github.com/chirag127/oz-tokens-base.git
-[submodule "repos/own/packages"]
-	path = repos/own/packages
-	url = https://github.com/chirag127/packages.git
-[submodule "repos/own/peekinsight-bs-ext"]
-	path = repos/own/peekinsight-bs-ext
-	url = https://github.com/chirag127/peekinsight-bs-ext.git
-[submodule "repos/own/portable-toolkit"]
-	path = repos/own/portable-toolkit
-	url = https://github.com/chirag127/portable-toolkit.git
-[submodule "repos/own/prompts"]
-	path = repos/own/prompts
-	url = https://github.com/chirag127/prompts.git
-[submodule "repos/own/qbittorrent-bitsearch"]
-	path = repos/own/qbittorrent-bitsearch
-	url = https://github.com/chirag127/qbittorrent-bitsearch.git
-[submodule "repos/own/rag-lens"]
-	path = repos/own/rag-lens
-	url = https://github.com/chirag127/rag-lens.git
-[submodule "repos/own/sap-configurations"]
-	path = repos/own/sap-configurations
-	url = https://github.com/chirag127/sap-cpq-automation.git
-[submodule "repos/own/searxng-local"]
-	path = repos/own/searxng-local
-	url = https://github.com/chirag127/searxng-local.git
-[submodule "repos/own/sms-txn-watch"]
-	path = repos/own/sms-txn-watch
-	url = https://github.com/chirag127/sms-txn-watch.git
-[submodule "repos/own/sops-lens-vsc-ext"]
-	path = repos/own/sops-lens-vsc-ext
-	url = https://github.com/chirag127/sops-lens.git
-[submodule "repos/own/sound-scraper"]
-	path = repos/own/sound-scraper
-	url = https://github.com/chirag127/sound-scraper.git
-[submodule "repos/own/sponsorblock-ai"]
-	path = repos/own/sponsorblock-ai
-	url = https://github.com/chirag127/sponsorblock-ai.git
-[submodule "repos/own/stochastic-thinking-mcp-server"]
-	path = repos/own/stochastic-thinking-mcp-server
+
+[submodule "repos/OmniRoute"]
+	path = repos/OmniRoute
+	url = https://github.com/chirag127/OmniRoute.git
+
+[submodule "repos/Stochastic-Thinking-MCP-Server"]
+	path = repos/Stochastic-Thinking-MCP-Server
 	url = https://github.com/chirag127/Stochastic-Thinking-MCP-Server.git
-[submodule "repos/own/userscripts"]
-	path = repos/own/userscripts
-	url = https://github.com/chirag127/userscripts.git
-[submodule "repos/own/video-download"]
-	path = repos/own/video-download
-	url = https://github.com/chirag127/video-download.git
-[submodule "repos/own/witticismdo"]
-	path = repos/own/witticismdo
+
+[submodule "repos/Witticismdo"]
+	path = repos/Witticismdo
 	url = https://github.com/chirag127/Witticismdo.git
-[submodule "repos/own/workflows"]
-	path = repos/own/workflows
+
+[submodule "repos/agent-configs"]
+	path = repos/agent-configs
+	url = https://github.com/chirag127/agent-configs.git
+
+[submodule "repos/agent-forge"]
+	path = repos/agent-forge
+	url = https://github.com/chirag127/agent-forge.git
+
+[submodule "repos/aktu-cs"]
+	path = repos/aktu-cs
+	url = https://github.com/chirag127/aktu-cs.git
+
+[submodule "repos/automation-scripts"]
+	path = repos/automation-scripts
+	url = https://github.com/chirag127/automation-scripts.git
+
+[submodule "repos/bookmark-mind"]
+	path = repos/bookmark-mind
+	url = https://github.com/chirag127/bookmark-mind.git
+
+[submodule "repos/books"]
+	path = repos/books
+	url = https://github.com/chirag127/books.git
+
+[submodule "repos/chronokeep-bs-ext"]
+	path = repos/chronokeep-bs-ext
+	url = https://github.com/chirag127/chronokeep-bs-ext.git
+
+[submodule "repos/cinesense"]
+	path = repos/cinesense
+	url = https://github.com/chirag127/cinesense.git
+
+[submodule "repos/claude-cert-videos"]
+	path = repos/claude-cert-videos
+	url = https://github.com/chirag127/claude-cert-videos.git
+
+[submodule "repos/cloud-automation"]
+	path = repos/cloud-automation
+	url = https://github.com/chirag127/cloud-automation.git
+
+[submodule "repos/credit-disputes"]
+	path = repos/credit-disputes
+	url = https://github.com/chirag127/credit-disputes.git
+
+[submodule "repos/deploy-kit"]
+	path = repos/deploy-kit
+	url = https://github.com/chirag127/deploy-kit.git
+
+[submodule "repos/design-system"]
+	path = repos/design-system
+	url = https://github.com/chirag127/design-system.git
+
+[submodule "repos/email-blaster"]
+	path = repos/email-blaster
+	url = https://github.com/chirag127/email-blaster.git
+
+[submodule "repos/envpact"]
+	path = repos/envpact
+	url = https://github.com/chirag127/envpact.git
+
+[submodule "repos/envpact-gh-action"]
+	path = repos/envpact-gh-action
+	url = https://github.com/chirag127/envpact-gh-action.git
+
+[submodule "repos/envpact-mcp-server"]
+	path = repos/envpact-mcp-server
+	url = https://github.com/chirag127/envpact-mcp-server.git
+
+[submodule "repos/envpact-npm-cli"]
+	path = repos/envpact-npm-cli
+	url = https://github.com/chirag127/envpact-npm-cli.git
+
+[submodule "repos/envpact-registry-publisher-npm-cli"]
+	path = repos/envpact-registry-publisher-npm-cli
+	url = https://github.com/chirag127/envpact-registry-publisher-npm-cli.git
+
+[submodule "repos/envpact-secrets"]
+	path = repos/envpact-secrets
+	url = https://github.com/chirag127/envpact-secrets.git
+
+[submodule "repos/envpact-vscode-vsc-ext"]
+	path = repos/envpact-vscode-vsc-ext
+	url = https://github.com/chirag127/envpact-vscode-vsc-ext.git
+
+[submodule "repos/fii-dii-activity-api"]
+	path = repos/fii-dii-activity-api
+	url = https://github.com/chirag127/fii-dii-activity-api.git
+
+[submodule "repos/filter-lists"]
+	path = repos/filter-lists
+	url = https://github.com/chirag127/filter-lists.git
+
+[submodule "repos/filter-report"]
+	path = repos/filter-report
+	url = https://github.com/chirag127/filter-report.git
+
+[submodule "repos/freellmapi"]
+	path = repos/freellmapi
+	url = https://github.com/chirag127/freellmapi.git
+
+[submodule "repos/freellmpool"]
+	path = repos/freellmpool
+	url = https://github.com/chirag127/freellmpool.git
+
+[submodule "repos/games"]
+	path = repos/games
+	url = https://github.com/chirag127/games.git
+
+[submodule "repos/ghosttyper-bs-ext"]
+	path = repos/ghosttyper-bs-ext
+	url = https://github.com/chirag127/ghosttyper-bs-ext.git
+
+[submodule "repos/go-vault"]
+	path = repos/go-vault
+	url = https://github.com/chirag127/go-vault.git
+
+[submodule "repos/google-transparency-report-analysis"]
+	path = repos/google-transparency-report-analysis
+	url = https://github.com/chirag127/google-transparency-report-analysis.git
+
+[submodule "repos/hai-cli-setup"]
+	path = repos/hai-cli-setup
+	url = https://github.com/chirag127/hai-cli-setup.git
+
+[submodule "repos/i2i-portfolio-data"]
+	path = repos/i2i-portfolio-data
+	url = https://github.com/chirag127/i2i-portfolio-data.git
+
+[submodule "repos/i2i-yield-watch"]
+	path = repos/i2i-yield-watch
+	url = https://github.com/chirag127/i2i-yield-watch.git
+
+[submodule "repos/innercord-internship"]
+	path = repos/innercord-internship
+	url = https://github.com/chirag127/innercord-internship.git
+
+[submodule "repos/janaushadhi-ecommerce-astro"]
+	path = repos/janaushadhi-ecommerce-astro
+	url = https://github.com/chirag127/janaushadhi-ecommerce-astro.git
+
+[submodule "repos/janaushadhi-ecommerce-laravel"]
+	path = repos/janaushadhi-ecommerce-laravel
+	url = https://github.com/chirag127/janaushadhi-ecommerce-laravel.git
+
+[submodule "repos/janaushadhi-ecommerce-nextjs"]
+	path = repos/janaushadhi-ecommerce-nextjs
+	url = https://github.com/chirag127/janaushadhi-ecommerce-nextjs.git
+
+[submodule "repos/janaushadhi-ecommerce-wordpress"]
+	path = repos/janaushadhi-ecommerce-wordpress
+	url = https://github.com/chirag127/janaushadhi-ecommerce-wordpress.git
+
+[submodule "repos/kirtuclub-downloader"]
+	path = repos/kirtuclub-downloader
+	url = https://github.com/chirag127/kirtuclub-downloader.git
+
+[submodule "repos/knowledge-mcp"]
+	path = repos/knowledge-mcp
+	url = https://github.com/chirag127/knowledge-mcp.git
+
+[submodule "repos/kt-transcripts"]
+	path = repos/kt-transcripts
+	url = https://github.com/chirag127/kt-transcripts.git
+
+[submodule "repos/leak-finder"]
+	path = repos/leak-finder
+	url = https://github.com/chirag127/leak-finder.git
+
+[submodule "repos/life-cli"]
+	path = repos/life-cli
+	url = https://github.com/chirag127/life-cli.git
+
+[submodule "repos/life-cli-secrets"]
+	path = repos/life-cli-secrets
+	url = https://github.com/chirag127/life-cli-secrets.git
+
+[submodule "repos/mdv-mcp"]
+	path = repos/mdv-mcp
+	url = https://github.com/chirag127/mdv-mcp.git
+
+[submodule "repos/me-site-private-data"]
+	path = repos/me-site-private-data
+	url = https://github.com/chirag127/me-site-private-data.git
+
+[submodule "repos/memoria-android"]
+	path = repos/memoria-android
+	url = https://github.com/chirag127/memoria-android.git
+
+[submodule "repos/mf-mailer"]
+	path = repos/mf-mailer
+	url = https://github.com/chirag127/mf-mailer.git
+
+[submodule "repos/ml-notebooks"]
+	path = repos/ml-notebooks
+	url = https://github.com/chirag127/ml-notebooks.git
+
+[submodule "repos/morphe-patches"]
+	path = repos/morphe-patches
+	url = https://github.com/chirag127/morphe-patches.git
+
+[submodule "repos/multisearchx"]
+	path = repos/multisearchx
+	url = https://github.com/chirag127/multisearchx.git
+
+[submodule "repos/ndns"]
+	path = repos/ndns
+	url = https://github.com/chirag127/ndns.git
+
+[submodule "repos/olivia"]
+	path = repos/olivia
+	url = https://github.com/chirag127/olivia.git
+
+[submodule "repos/omnijournal"]
+	path = repos/omnijournal
+	url = https://github.com/chirag127/omnijournal.git
+
+[submodule "repos/omniroute-cookie-bridge"]
+	path = repos/omniroute-cookie-bridge
+	url = https://github.com/chirag127/omniroute-cookie-bridge.git
+
+[submodule "repos/oriz-auth-app"]
+	path = repos/oriz-auth-app
+	url = https://github.com/chirag127/oriz-auth-app.git
+
+[submodule "repos/oriz-blog"]
+	path = repos/oriz-blog
+	url = https://github.com/chirag127/oriz-blog.git
+
+[submodule "repos/oriz-blog-ai"]
+	path = repos/oriz-blog-ai
+	url = https://github.com/chirag127/oriz-blog-ai.git
+
+[submodule "repos/oriz-blog-arts"]
+	path = repos/oriz-blog-arts
+	url = https://github.com/chirag127/oriz-blog-arts.git
+
+[submodule "repos/oriz-blog-beauty"]
+	path = repos/oriz-blog-beauty
+	url = https://github.com/chirag127/oriz-blog-beauty.git
+
+[submodule "repos/oriz-blog-business"]
+	path = repos/oriz-blog-business
+	url = https://github.com/chirag127/oriz-blog-business.git
+
+[submodule "repos/oriz-blog-career"]
+	path = repos/oriz-blog-career
+	url = https://github.com/chirag127/oriz-blog-career.git
+
+[submodule "repos/oriz-blog-devtools"]
+	path = repos/oriz-blog-devtools
+	url = https://github.com/chirag127/oriz-blog-devtools.git
+
+[submodule "repos/oriz-blog-education"]
+	path = repos/oriz-blog-education
+	url = https://github.com/chirag127/oriz-blog-education.git
+
+[submodule "repos/oriz-blog-entertainment"]
+	path = repos/oriz-blog-entertainment
+	url = https://github.com/chirag127/oriz-blog-entertainment.git
+
+[submodule "repos/oriz-blog-finance"]
+	path = repos/oriz-blog-finance
+	url = https://github.com/chirag127/oriz-blog-finance.git
+
+[submodule "repos/oriz-blog-food"]
+	path = repos/oriz-blog-food
+	url = https://github.com/chirag127/oriz-blog-food.git
+
+[submodule "repos/oriz-blog-gaming"]
+	path = repos/oriz-blog-gaming
+	url = https://github.com/chirag127/oriz-blog-gaming.git
+
+[submodule "repos/oriz-blog-health"]
+	path = repos/oriz-blog-health
+	url = https://github.com/chirag127/oriz-blog-health.git
+
+[submodule "repos/oriz-blog-hobbies"]
+	path = repos/oriz-blog-hobbies
+	url = https://github.com/chirag127/oriz-blog-hobbies.git
+
+[submodule "repos/oriz-blog-home-diy"]
+	path = repos/oriz-blog-home-diy
+	url = https://github.com/chirag127/oriz-blog-home-diy.git
+
+[submodule "repos/oriz-blog-lifestyle"]
+	path = repos/oriz-blog-lifestyle
+	url = https://github.com/chirag127/oriz-blog-lifestyle.git
+
+[submodule "repos/oriz-blog-marketing"]
+	path = repos/oriz-blog-marketing
+	url = https://github.com/chirag127/oriz-blog-marketing.git
+
+[submodule "repos/oriz-blog-news"]
+	path = repos/oriz-blog-news
+	url = https://github.com/chirag127/oriz-blog-news.git
+
+[submodule "repos/oriz-blog-parenting"]
+	path = repos/oriz-blog-parenting
+	url = https://github.com/chirag127/oriz-blog-parenting.git
+
+[submodule "repos/oriz-blog-pets"]
+	path = repos/oriz-blog-pets
+	url = https://github.com/chirag127/oriz-blog-pets.git
+
+[submodule "repos/oriz-blog-relationships"]
+	path = repos/oriz-blog-relationships
+	url = https://github.com/chirag127/oriz-blog-relationships.git
+
+[submodule "repos/oriz-blog-remote-work"]
+	path = repos/oriz-blog-remote-work
+	url = https://github.com/chirag127/oriz-blog-remote-work.git
+
+[submodule "repos/oriz-blog-self-dev"]
+	path = repos/oriz-blog-self-dev
+	url = https://github.com/chirag127/oriz-blog-self-dev.git
+
+[submodule "repos/oriz-blog-sports"]
+	path = repos/oriz-blog-sports
+	url = https://github.com/chirag127/oriz-blog-sports.git
+
+[submodule "repos/oriz-blog-sustainability"]
+	path = repos/oriz-blog-sustainability
+	url = https://github.com/chirag127/oriz-blog-sustainability.git
+
+[submodule "repos/oriz-blog-tech"]
+	path = repos/oriz-blog-tech
+	url = https://github.com/chirag127/oriz-blog-tech.git
+
+[submodule "repos/oriz-blog-travel"]
+	path = repos/oriz-blog-travel
+	url = https://github.com/chirag127/oriz-blog-travel.git
+
+[submodule "repos/oriz-brain"]
+	path = repos/oriz-brain
+	url = https://github.com/chirag127/oriz-brain.git
+
+[submodule "repos/oriz-broker-compare"]
+	path = repos/oriz-broker-compare
+	url = https://github.com/chirag127/oriz-broker-compare.git
+
+[submodule "repos/oriz-cards"]
+	path = repos/oriz-cards
+	url = https://github.com/chirag127/oriz-cards.git
+
+[submodule "repos/oriz-case"]
+	path = repos/oriz-case
+	url = https://github.com/chirag127/oriz-case.git
+
+[submodule "repos/oriz-chat"]
+	path = repos/oriz-chat
+	url = https://github.com/chirag127/oriz-chat.git
+
+[submodule "repos/oriz-color"]
+	path = repos/oriz-color
+	url = https://github.com/chirag127/oriz-color.git
+
+[submodule "repos/oriz-convert"]
+	path = repos/oriz-convert
+	url = https://github.com/chirag127/oriz-convert.git
+
+[submodule "repos/oriz-diagram"]
+	path = repos/oriz-diagram
+	url = https://github.com/chirag127/oriz-diagram.git
+
+[submodule "repos/oriz-envpact-dashboard-app"]
+	path = repos/oriz-envpact-dashboard-app
+	url = https://github.com/chirag127/oriz-envpact-dashboard-app.git
+
+[submodule "repos/oriz-finance"]
+	path = repos/oriz-finance
+	url = https://github.com/chirag127/oriz-finance.git
+
+[submodule "repos/oriz-finance-compare"]
+	path = repos/oriz-finance-compare
+	url = https://github.com/chirag127/oriz-finance-compare.git
+
+[submodule "repos/oriz-hash"]
+	path = repos/oriz-hash
+	url = https://github.com/chirag127/oriz-hash.git
+
+[submodule "repos/oriz-home"]
+	path = repos/oriz-home
+	url = https://github.com/chirag127/oriz-home.git
+
+[submodule "repos/oriz-img"]
+	path = repos/oriz-img
+	url = https://github.com/chirag127/oriz-img.git
+
+[submodule "repos/oriz-invoice"]
+	path = repos/oriz-invoice
+	url = https://github.com/chirag127/oriz-invoice.git
+
+[submodule "repos/oriz-ipo"]
+	path = repos/oriz-ipo
+	url = https://github.com/chirag127/oriz-ipo.git
+
+[submodule "repos/oriz-json"]
+	path = repos/oriz-json
+	url = https://github.com/chirag127/oriz-json.git
+
+[submodule "repos/oriz-knowledge-site"]
+	path = repos/oriz-knowledge-site
+	url = https://github.com/chirag127/oriz-knowledge-site.git
+
+[submodule "repos/oriz-kt-search"]
+	path = repos/oriz-kt-search
+	url = https://github.com/chirag127/oriz-kt-search.git
+
+[submodule "repos/oriz-links-site"]
+	path = repos/oriz-links-site
+	url = https://github.com/chirag127/oriz-links-site.git
+
+[submodule "repos/oriz-lore"]
+	path = repos/oriz-lore
+	url = https://github.com/chirag127/oriz-lore.git
+
+[submodule "repos/oriz-me"]
+	path = repos/oriz-me
+	url = https://github.com/chirag127/oriz-me.git
+
+[submodule "repos/oriz-mmi"]
+	path = repos/oriz-mmi
+	url = https://github.com/chirag127/oriz-mmi.git
+
+[submodule "repos/oriz-muse"]
+	path = repos/oriz-muse
+	url = https://github.com/chirag127/oriz-muse.git
+
+[submodule "repos/oriz-name"]
+	path = repos/oriz-name
+	url = https://github.com/chirag127/oriz-name.git
+
+[submodule "repos/oriz-ncert"]
+	path = repos/oriz-ncert
+	url = https://github.com/chirag127/oriz-ncert.git
+
+[submodule "repos/oriz-networth"]
+	path = repos/oriz-networth
+	url = https://github.com/chirag127/oriz-networth.git
+
+[submodule "repos/oriz-nifty-signal"]
+	path = repos/oriz-nifty-signal
+	url = https://github.com/chirag127/oriz-nifty-signal.git
+
+[submodule "repos/oriz-palette-ai"]
+	path = repos/oriz-palette-ai
+	url = https://github.com/chirag127/oriz-palette-ai.git
+
+[submodule "repos/oriz-pdf"]
+	path = repos/oriz-pdf
+	url = https://github.com/chirag127/oriz-pdf.git
+
+[submodule "repos/oriz-persona"]
+	path = repos/oriz-persona
+	url = https://github.com/chirag127/oriz-persona.git
+
+[submodule "repos/oriz-portfolio-lab"]
+	path = repos/oriz-portfolio-lab
+	url = https://github.com/chirag127/oriz-portfolio-lab.git
+
+[submodule "repos/oriz-quiz"]
+	path = repos/oriz-quiz
+	url = https://github.com/chirag127/oriz-quiz.git
+
+[submodule "repos/oriz-resume"]
+	path = repos/oriz-resume
+	url = https://github.com/chirag127/oriz-resume.git
+
+[submodule "repos/oriz-screen-watch"]
+	path = repos/oriz-screen-watch
+	url = https://github.com/chirag127/oriz-screen-watch.git
+
+[submodule "repos/oriz-status"]
+	path = repos/oriz-status
+	url = https://github.com/chirag127/oriz-status.git
+
+[submodule "repos/oriz-story-dice"]
+	path = repos/oriz-story-dice
+	url = https://github.com/chirag127/oriz-story-dice.git
+
+[submodule "repos/oriz-text"]
+	path = repos/oriz-text
+	url = https://github.com/chirag127/oriz-text.git
+
+[submodule "repos/oz-ai"]
+	path = repos/oz-ai
+	url = https://github.com/chirag127/oz-ai.git
+
+[submodule "repos/oz-chrome"]
+	path = repos/oz-chrome
+	url = https://github.com/chirag127/oz-chrome.git
+
+[submodule "repos/oz-file"]
+	path = repos/oz-file
+	url = https://github.com/chirag127/oz-file.git
+
+[submodule "repos/oz-tokens-base"]
+	path = repos/oz-tokens-base
+	url = https://github.com/chirag127/oz-tokens-base.git
+
+[submodule "repos/packages"]
+	path = repos/packages
+	url = https://github.com/chirag127/packages.git
+
+[submodule "repos/peekinsight-bs-ext"]
+	path = repos/peekinsight-bs-ext
+	url = https://github.com/chirag127/peekinsight-bs-ext.git
+
+[submodule "repos/personal-vault"]
+	path = repos/personal-vault
+	url = https://github.com/chirag127/personal-vault.git
+
+[submodule "repos/portable-toolkit"]
+	path = repos/portable-toolkit
+	url = https://github.com/chirag127/portable-toolkit.git
+
+[submodule "repos/prompts"]
+	path = repos/prompts
+	url = https://github.com/chirag127/prompts.git
+
+[submodule "repos/qbittorrent-bitsearch"]
+	path = repos/qbittorrent-bitsearch
+	url = https://github.com/chirag127/qbittorrent-bitsearch.git
+
+[submodule "repos/rag-lens"]
+	path = repos/rag-lens
+	url = https://github.com/chirag127/rag-lens.git
+
+[submodule "repos/releases"]
+	path = repos/releases
+	url = https://github.com/chirag127/releases.git
+
+[submodule "repos/sap-cpq-automation"]
+	path = repos/sap-cpq-automation
+	url = https://github.com/chirag127/sap-cpq-automation.git
+
+[submodule "repos/screenpipe"]
+	path = repos/screenpipe
+	url = https://github.com/chirag127/screenpipe.git
+
+[submodule "repos/searxng-local"]
+	path = repos/searxng-local
+	url = https://github.com/chirag127/searxng-local.git
+
+[submodule "repos/servicenow-mcp"]
+	path = repos/servicenow-mcp
+	url = https://github.com/chirag127/servicenow-mcp.git
+
+[submodule "repos/sms-txn-watch"]
+	path = repos/sms-txn-watch
+	url = https://github.com/chirag127/sms-txn-watch.git
+
+[submodule "repos/sops-lens"]
+	path = repos/sops-lens
+	url = https://github.com/chirag127/sops-lens.git
+
+[submodule "repos/sound-scraper"]
+	path = repos/sound-scraper
+	url = https://github.com/chirag127/sound-scraper.git
+
+[submodule "repos/sponsorblock-ai"]
+	path = repos/sponsorblock-ai
+	url = https://github.com/chirag127/sponsorblock-ai.git
+
+[submodule "repos/tickertape-mmi"]
+	path = repos/tickertape-mmi
+	url = https://github.com/chirag127/tickertape-mmi.git
+
+[submodule "repos/userscripts"]
+	path = repos/userscripts
+	url = https://github.com/chirag127/userscripts.git
+
+[submodule "repos/video-download"]
+	path = repos/video-download
+	url = https://github.com/chirag127/video-download.git
+
+[submodule "repos/workflows"]
+	path = repos/workflows
 	url = https://github.com/chirag127/workflows.git
-[submodule "repos/own/youtube-ai-navigator-bs-ext"]
-	path = repos/own/youtube-ai-navigator-bs-ext
+
+[submodule "repos/youtube-ai-navigator-bs-ext"]
+	path = repos/youtube-ai-navigator-bs-ext
 	url = https://github.com/chirag127/youtube-ai-navigator-bs-ext.git
-[submodule "repos/own/youtube-content-automation"]
-	path = repos/own/youtube-content-automation
+
+[submodule "repos/youtube-content-automation"]
+	path = repos/youtube-content-automation
 	url = https://github.com/chirag127/youtube-content-automation.git
-[submodule "repos/own/zenfocus-bs-ext"]
-	path = repos/own/zenfocus-bs-ext
+
+[submodule "repos/zenfocus-bs-ext"]
+	path = repos/zenfocus-bs-ext
 	url = https://github.com/chirag127/zenfocus-bs-ext.git
+[submodule "repos/ncert-books"]
+	path = repos/ncert-books
+	url = https://github.com/chirag127/ncert-books.git
+[submodule "repos/si-units"]
+	path = repos/si-units
+	url = https://github.com/chirag127/si-units.git
+[submodule "repos/rbi-rates"]
+	path = repos/rbi-rates
+	url = https://github.com/chirag127/rbi-rates.git
+[submodule "repos/india-states"]
+	path = repos/india-states
+	url = https://github.com/chirag127/india-states.git
+[submodule "repos/india-districts"]
+	path = repos/india-districts
+	url = https://github.com/chirag127/india-districts.git
+[submodule "repos/india-pincode"]
+	path = repos/india-pincode
+	url = https://github.com/chirag127/india-pincode.git
+[submodule "repos/india-holidays"]
+	path = repos/india-holidays
+	url = https://github.com/chirag127/india-holidays.git
+[submodule "repos/http-status"]
+	path = repos/http-status
+	url = https://github.com/chirag127/http-status.git
+[submodule "repos/mime-types"]
+	path = repos/mime-types
+	url = https://github.com/chirag127/mime-types.git
+[submodule "repos/iso-codes"]
+	path = repos/iso-codes
+	url = https://github.com/chirag127/iso-codes.git
