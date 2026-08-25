@@ -1,0 +1,16 @@
+SUBJECT: Lendbox + MobiKwik Xtra data must reach Account Aggregator — join AA as an FIP
+
+Hi Lendbox team,
+
+I have exposure to Lendbox (directly and via MobiKwik Xtra, which runs on your NBFC-P2P). This investment is invisible in every net-worth aggregator I use because Lendbox exposes no machine-readable data. Given the well-documented user concerns about locked/delayed Xtra funds, transparency here is not optional.
+
+Requesting, firmly:
+
+1. Join the Account Aggregator (Sahamati) framework as an FIP so my Lendbox / Xtra balance, invested amount, outstanding principal, escrow funds, and repayments flow to any AA-enabled app with my consent.
+2. Ship a read-only, user-consented investor API (OAuth): invested amount, current outstanding, idle/escrow funds, repayments, active/closed/delayed/NPA loan counts, XIRR.
+3. Provide CSV + JSON export of full portfolio + transaction history in-app — including partner products like MobiKwik Xtra.
+4. Coordinate directly with aggregators (INDmoney, and others) to get Lendbox integrated.
+
+Real-time visibility into P2P principal, escrow, and repayment status is the minimum a lender should have. Please confirm your AA/FIP roadmap and timeline.
+
+Chirag Singhal

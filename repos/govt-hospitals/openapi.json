@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Government Hospitals",
+    "description": "Government hospitals with state, district, and bed count",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/govt-hospitals",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Government Hospitals data",
+        "description": "Government hospitals with state, district, and bed count",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hospitals": {
+      "get": {
+        "summary": "Government Hospitals",
+        "description": "Government hospitals with state, district, and bed count",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

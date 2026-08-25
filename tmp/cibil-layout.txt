@@ -1,0 +1,1476 @@
+CIBIL Score & Report                                                               CONTROL NUMBER: 11453135092
+                                                                             INDICATES SECTION IS UNDER DISPUTE
+
+ DATE: 2026-08-11                                       TIME : 14:44
+
+Score :                                                                      Value
+                                                                              764
+ CIBIL Score
+
+Personal Details      Name                              Date Of Birth                     Gender
+                                                        2002-08-11                         Male
+ MR CHIRAG SINGHAL
+
+Identification Details                       ID Number       Issue Date                   Expiry Date
+                                           OQVPS7357P             -                             -
+                      Identification Type
+ Income Tax ID Number (PAN)
+
+Consumer Address :                                                           Category     Residence    Date
+                                                                                             Code    Reported
+                                                     Address                   Office
+                                                                              Address           -     2025-07-
+ PLOT NO 35 SEZ ROAD CHANDAKA INDUSTRIAL ESTAT CHANDRASEKHARPUR INFOCITY                                 15
+ BHUBANES WAR ORISSA CHANDRASEKHARPUR KHORDHA, Odisha 751024                 Permanent    Owned
+                                                                              Address                 2025-07-
+ 11ASANJAY NAGAR SECTOR-23 JAGRITI VIHAR SANJAY NAGAR SECTOR-23 GHAZIABAD,                               15
+ Uttar Pradesh 201001                                                        Residence    Rented
+                                                                             Address                  2025-07-
+ PLOT NO 448 LANE NO 5 SECTOR 5 NILADRI V IHAR CHANDRASEKHARPUR BHUBANESWAR                              15
+ ORISSA KHORDHA, Odisha 751021                                               Residence    Rented
+                                                                             Address                  2025-06-
+ PLOT NO 448 LANE 05, NILADRI VIHAR CHANDRASEKHARPUR NEAR DIBYA GUEST HOUSE                              30
+ BHUBANESHWAR, Odisha 751021
+
+Contact Details :                          Telephone Number                  Telephone Extension
+                                             91917428449707                             -
+               Telephone Number Type            7428449707                              -
+                     Mobile Number              7065371443                              -
+                     Mobile Number
+                     Mobile Number
+
+Email Details :                            Email ID
+
+ CHIRAG.SINGHAL2@TCS.COM
+ CHIRAG.SINGHAL@TCS.COM
+ WHYISWHEN@GMAIL.COM
+ SINGHALCHIRAG1108@GMAIL.COM
+
+Employment Details :                       Details
+
+ Account Type                                                                Credit Card
+ Date Reported                                                                2026-07-31
+ Occupation                                                                   Salaried
+ Income                                                                       -
+ Monthly / Annual Income Indicator                                            -
+ Net / Gross Income Indicator                                                 -
+
+Account Details :
+
+                                          Accounts (Credit Card)
+
+Acct # 0007470510007609716                Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : RBL BANK                    Date Closed : -
+High Credit :  0                          Cash Limit :  25760
+Date Opened/Disbursed: 2026-04-25         Credit Limit :  92000
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : -
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,
+                                          End Date : 2026-04-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026
+                         May 2026
+                         Apr 2026
+
+                                          Accounts (Credit Card)
+
+Acct # 0001005160002052269                Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : YES BANK                    Date Closed : -
+High Credit :  0                          Cash Limit :  0
+Date Opened/Disbursed: 2026-01-05         Credit Limit :  0
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : -
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,
+                                          End Date : 2026-01-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026
+                         Feb 2026
+                         Jan 2026
+
+                                          Accounts (Credit Card)
+
+Acct # 0007943030003276898                Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : FEDERAL BANK                Date Closed : -
+High Credit :  0                          Cash Limit :  2000
+Date Opened/Disbursed: 2026-01-02         Credit Limit :  20000
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : -
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,
+                                          End Date : 2026-01-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026
+                         Feb 2026
+                         Jan 2026
+
+                                          Accounts (Credit Card)
+
+Acct # 3089487501202606                   Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : SNAPMINTFIN                 Date Closed : 2026-06-15
+High Sanction Amount :  1325              Cash Limit :  -
+Date Opened/Disbursed: 2026-01-02         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : 2026-06-15+05:30
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : No Collateral
+Repayment Tenure : -                      Date of Last Payment : 2026-02-10
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-06-30  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-06-01                                   Payment Status     Status Code: 0,
+                                          End Date : 2026-06-01
+                         Date                                                    Status Code
+                                                         Payment History
+                         Jun 2026                                                         0
+                                                     Accounts (Credit Card)
+
+Acct # 0001006070005042424                Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : YES BANK                    Date Closed : -
+High Credit :  2                          Cash Limit :  23400
+Date Opened/Disbursed: 2026-01-01         Credit Limit :  78000
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-01-17
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,
+                                          End Date : 2026-01-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                          Date                                                            0
+                                                                                          0
+                          Jul 2026                                                        0
+                         Jun 2026                                                         0
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026
+                         Feb 2026
+                         Jan 2026
+
+                                          Accounts (Credit Card)
+
+Acct # 2601010611473030WFKD3LIYF          Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : KOMINVEST                   Date Closed : 2026-05-27
+High Sanction Amount :  4000              Cash Limit :  -
+Date Opened/Disbursed: 2026-01-01         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : 2026-05-27+05:30
+Amount Overdue :  -                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-05-27
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-05-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-05-01                                   Payment Status     Status Code: STD,STD,STD,STD,STD,
+                                          End Date : 2026-01-01
+                          Date                                                   Status Code
+                                                         Payment History
+                         May 2026                                                        STD
+                         Apr 2026                    Accounts (Credit Card)              STD
+                         Mar 2026                                                        STD
+                         Feb 2026                                                        STD
+                         Jan 2026                                                        STD
+
+Acct # FIBELAI1011669565                  Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : EARLYSALARY                 Date Closed : 2026-06-27
+High Sanction Amount :  20000             Cash Limit :  -
+Date Opened/Disbursed: 2026-01-01         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : 2026-06-27+05:30
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : No Collateral
+Repayment Tenure : -                      Date of Last Payment : 2026-06-27
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  3697             Credit Facility Status : -
+Date Reported And Certified : 2026-06-30  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-06-01                                   Payment Status     Status Code: 0,0,0,0,0,0,
+                                          End Date : 2026-01-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                          Date                                                            0
+                                                                                          0
+                         Jun 2026                                                         0
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026
+                         Feb 2026
+                         Jan 2026
+
+                                          Accounts (Credit Card)
+
+Acct # LOA-G49VK5H4                       Account Type : Credit Card
+                                          EMI Amount :  3821
+Member Name : INNOFIN                     Date Closed : 2026-05-21
+High Sanction Amount :  16000             Cash Limit :  -
+Date Opened/Disbursed: 2026-01-01         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : 2026-05-21+05:30
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : 5                      Date of Last Payment : 2026-05-21
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-05-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-05-01                                   Payment Status     Status Code: 0,0,0,0,0,
+                                          End Date : 2026-01-01
+                          Date                                                   Status Code
+                                                         Payment History
+                         May 2026                                                         0
+                         Apr 2026                    Accounts (Credit Card)               0
+                         Mar 2026                                                         0
+                         Feb 2026                                                         0
+                         Jan 2026                                                         0
+
+Acct # 010014088043                       Account Type : Credit Card
+                                          EMI Amount :  1020
+Member Name : NAVI                        Date Closed : -
+High Sanction Amount :  15000             Cash Limit :  -
+Date Opened/Disbursed: 2025-12-31         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  10641                  Collateral Type : -
+Repayment Tenure : 18                     Date of Last Payment : 2026-07-01
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,
+                                          End Date : 2025-12-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                          Date                                                            0
+                                                                                          0
+                          Jul 2026                                                        0
+                         Jun 2026                                                         0
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026                                                         0
+                         Feb 2026
+                         Jan 2026
+                         Dec 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 206853533                          Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : FINCFRIEND                  Date Closed : 2026-06-25
+High Sanction Amount :  2000              Cash Limit :  -
+Date Opened/Disbursed: 2025-12-31         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : 2026-06-25+05:30
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-06-25
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-06-30  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-06-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,
+                                          End Date : 2025-12-01
+                          Date                                                   Status Code
+                                                         Payment History
+                         Jun 2026                                                         0
+                         May 2026                    Accounts (Credit Card)               0
+                         Apr 2026                                                         0
+                         Mar 2026                                                         0
+                         Feb 2026                                                         0
+                         Jan 2026                                                         0
+                         Dec 2025                                                         0
+
+Acct # KB251231BBHRX                      Account Type : Credit Card
+                                          EMI Amount :  831
+Member Name : KRAZYBEE                    Date Closed : -
+High Sanction Amount :  6000              Cash Limit :  -
+Date Opened/Disbursed: 2025-12-31         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  814                    Collateral Type : -
+Repayment Tenure : 8                      Date of Last Payment : 2026-07-29
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,
+                                          End Date : 2025-12-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                          Date                                                            0
+                                                                                          0
+                          Jul 2026                                                        0
+                         Jun 2026                                                         0
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026                                                         0
+                         Feb 2026
+                         Jan 2026
+                         Dec 2025
+
+                                          Accounts (Credit Card)
+
+Acct # MKV126269B3ID235819745             Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : MPOKKETFIN                  Date Closed : 2026-01-18
+High Sanction Amount :  1000              Cash Limit :  -
+Date Opened/Disbursed: 2025-12-31         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : 2026-01-18+05:30
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : 6                      Date of Last Payment : 2026-01-18
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  1061             Credit Facility Status : -
+Date Reported And Certified : 2026-01-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-01-01                                   Payment Status  Status Code: 0,0,
+                                          End Date : 2025-12-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+
+                         Jan 2026
+                         Dec 2025
+
+                                          Accounts (Credit Card)
+
+Acct # TBPL01-51231-7047904               Account Type : Credit Card
+                                          EMI Amount :  203
+Member Name : TRUE CREDITS                Date Closed : 2026-06-25
+High Sanction Amount :  1110              Cash Limit :  -
+Date Opened/Disbursed: 2025-12-31         Credit Limit :  -
+Rate Of Interrest : 41.76                 Loan Closed : 2026-06-25+05:30
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : No Collateral
+Repayment Tenure : 6                      Date of Last Payment : 2026-06-25
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  1244             Credit Facility Status : -
+Date Reported And Certified : 2026-06-30  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-06-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,
+                                          End Date : 2025-12-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026
+                         Jan 2026
+                         Dec 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 10261379096                        Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : IDFC FIRST BANK             Date Closed : -
+High Sanction Amount :  3034              Cash Limit :  -
+Date Opened/Disbursed: 2025-12-28         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  -200                   Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : -
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-08-07  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-08-01                                   Payment Status  Status Code: 0,0,0,XXX,XXX,XXX,XXX,0,0,
+                                          End Date : 2025-12-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                         Aug 2026                                                    XXX
+                          Jul 2026                                                   XXX
+                         Jun 2026                                                    XXX
+                         May 2026                                                    XXX
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026
+                         Jan 2026
+                         Dec 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 0001019040005089241                Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : HDFC BANK                   Date Closed : -
+High Sanction Amount :  125000            Cash Limit :  -
+Date Opened/Disbursed: 2025-12-18         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  -                       Payment Frequency : -
+Current Balance :  111955                 Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-08-02
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-08-02  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-08-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-12-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                         Aug 2026                                                      0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026
+                         Jan 2026
+                         Dec 2025
+
+                                          Accounts (Credit Card)
+
+Acct # ACC_104628750202136848
+Member Name : UTKARFIN                    Account Type : Credit Card
+High Sanction Amount :  1800              EMI Amount :  -
+Date Opened/Disbursed: 2025-11-04         Date Closed : -
+Rate Of Interrest : -                     Cash Limit :  -
+Amount Overdue :  0                       Credit Limit :  1800
+Current Balance :  0                      Loan Closed : -
+Repayment Tenure : -                      Payment Frequency : -
+Collateral Value : -                      Collateral Type : -
+Actual Payment amount :  -                Date of Last Payment : -
+Date Reported And Certified : 2026-07-31  Suit - Filed / Wilful Default : -
+Written-off Amount (Total) : -            Credit Facility Status : -
+Settlement Amount : -                     Written-off Amount (Principal) : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-11-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026                                                      0
+                         Jan 2026
+                         Dec 2025
+                         Nov 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 0000000033919949                   Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : ICICI BANK                  Date Closed : -
+High Credit :  8511                       Cash Limit :  8000
+Date Opened/Disbursed: 2025-08-14         Credit Limit :  80000
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-03-16
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-04-30  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-04-01                                   Payment Status  Status Code: 0,0,0,0,0,XXX,0,0,
+                                          End Date : 2025-09-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026                                                    XXX
+                         Jan 2026                                                      0
+                         Dec 2025                                                      0
+                         Nov 2025
+                         Oct 2025
+                         Sep 2025
+
+                                          Accounts (Credit Card)
+Acct # SBM-8-COD-34397-ONLH5P             Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : SBMBKINDIA                  Date Closed : -
+High Sanction Amount :  204               Cash Limit :  2250
+Date Opened/Disbursed: 2025-07-10         Credit Limit :  4500
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-03-15
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-07-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026                                                      0
+                         Jan 2026                                                      0
+                         Dec 2025                                                      0
+                         Nov 2025                                                      0
+                         Oct 2025                                                      0
+                         Sep 2025
+                         Aug 2025
+                          Jul 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 1699258909179200                   Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : AU SFB                      Date Closed : 2025-12-22
+High Sanction Amount :  1222              Cash Limit :  4000
+Date Opened/Disbursed: 2025-07-05         Credit Limit :  8000
+Rate Of Interrest : -                     Loan Closed : 2025-12-22+05:30
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : Saving Account and Fixed Deposit
+Repayment Tenure : -                      Date of Last Payment : 2025-12-19
+Collateral Value : 10000                  Suit - Filed / Wilful Default : -
+Actual Payment amount :  351              Credit Facility Status : -
+Date Reported And Certified : 2025-12-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2025-12-01                                   Payment Status     Status Code: 0,0,0,0,0,0,
+                                          End Date : 2025-07-01
+                          Date                                                   Status Code
+                                                         Payment History
+                         Dec 2025                                                         0
+                         Nov 2025                    Accounts (Credit Card)               0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025                                                         0
+                         Jul 2025                                                         0
+
+Acct # 3097526208892504039                Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : SBMBKINDIA                  Date Closed : -
+High Sanction Amount :  4500              Cash Limit :  0
+Date Opened/Disbursed: 2025-06-24         Credit Limit :  4500
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : Saving Account and Fixed Deposit
+Repayment Tenure : -                      Date of Last Payment : 2026-03-06
+Collateral Value : 4500                   Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-06-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                          Date                                                            0
+                                                                                          0
+                          Jul 2026                                                        0
+                         Jun 2026                                                         0
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026                                                         0
+                         Feb 2026                                                         0
+                         Jan 2026                                                         0
+                         Dec 2025                                                         0
+                         Nov 2025                                                         0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025
+                          Jul 2025
+                         Jun 2025
+
+                                          Accounts (Credit Card)
+
+Acct # SBM-6-CRE-34397-A5VVQY
+Member Name : SBMBKINDIA                  Account Type : Credit Card
+High Sanction Amount :  30                EMI Amount :  -
+Date Opened/Disbursed: 2025-06-24         Date Closed : -
+Rate Of Interrest : -                     Cash Limit :  2250
+Amount Overdue :  0                       Credit Limit :  4500
+Current Balance :  0                      Loan Closed : -
+Repayment Tenure : -                      Payment Frequency : -
+Collateral Value : -                      Collateral Type : -
+Actual Payment amount :  -                Date of Last Payment : 2025-08-01
+Date Reported And Certified : 2026-07-31  Suit - Filed / Wilful Default : -
+Written-off Amount (Total) : -            Credit Facility Status : -
+Settlement Amount : -                     Written-off Amount (Principal) : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-06-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026                                                      0
+                         Jan 2026                                                      0
+                         Dec 2025                                                      0
+                         Nov 2025                                                      0
+                         Oct 2025                                                      0
+                                                                                       0
+                         Sep 2025
+                         Aug 2025
+                          Jul 2025
+                         Jun 2025
+
+                                          Accounts (Credit Card)
+
+Acct # SPLN94664759                       Account Type : Credit Card
+                                          EMI Amount :  4043
+Member Name : KOTAK BANK                  Date Closed : 2025-12-18
+High Sanction Amount :  100000            Cash Limit :  -
+Date Opened/Disbursed: 2025-06-24         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : 2025-12-18+05:30
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : 36                     Date of Last Payment : 2025-12-18
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2025-12-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2025-12-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,
+                                          End Date : 2025-06-01
+                          Date                                                   Status Code
+                                                         Payment History
+                         Dec 2025                                                         0
+                         Nov 2025                    Accounts (Credit Card)               0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025                                                         0
+                         Jul 2025                                                         0
+                         Jun 2025                                                         0
+
+Acct # 306370                             Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : SURYOFIN                    Date Closed : -
+High Sanction Amount :  900               Cash Limit :  -
+Date Opened/Disbursed: 2025-06-21         Credit Limit :  900
+Rate Of Interrest : 2.95                  Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : Saving Account and Fixed Deposit
+Repayment Tenure : 1                      Date of Last Payment : 2026-01-14
+Collateral Value : 1000                   Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-06-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                          Date                                                            0
+                                                                                          0
+                          Jul 2026                                                        0
+                         Jun 2026                                                         0
+                                                                                          0
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026                                                         0
+                         Feb 2026                                                         0
+                         Jan 2026                                                         0
+                         Dec 2025                                                         0
+                         Nov 2025                                                         0
+                         Oct 2025                                                         0
+                         Sep 2025
+                         Aug 2025
+                          Jul 2025
+                         Jun 2025
+
+                                          Accounts (Credit Card)
+
+Acct # SBM-5-KPE-34397-K3P1AE
+Member Name : SBMBKINDIA                  Account Type : Credit Card
+High Sanction Amount :  65                EMI Amount :  -
+Date Opened/Disbursed: 2025-06-21         Date Closed : 2025-12-31
+Rate Of Interrest : -                     Cash Limit :  2250
+Amount Overdue :  0                       Credit Limit :  4500
+Current Balance :  0                      Loan Closed : 2025-12-31+05:30
+Repayment Tenure : -                      Payment Frequency : -
+Collateral Value : -                      Collateral Type : -
+Actual Payment amount :  -                Date of Last Payment : 2025-07-21
+Date Reported And Certified : 2025-12-31  Suit - Filed / Wilful Default : -
+Written-off Amount (Total) : -            Credit Facility Status : -
+Settlement Amount : -                     Written-off Amount (Principal) : -
+Ownership : -
+
+Start Date : 2025-12-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,
+                                          End Date : 2025-06-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                         Dec 2025                                                      0
+                         Nov 2025                                                      0
+                         Oct 2025                                                      0
+                         Sep 2025                                                      0
+                         Aug 2025
+                         Jul 2025
+                         Jun 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 0000000033544511                   Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : ICICI BANK                  Date Closed : -
+High Credit :  56309                      Cash Limit :  8000
+Date Opened/Disbursed: 2025-06-19         Credit Limit :  80000
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-03-16
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-04-30  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-04-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-07-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026                                                      0
+                         Jan 2026                                                      0
+                         Dec 2025                                                      0
+                         Nov 2025                                                      0
+                         Oct 2025                                                      0
+                         Sep 2025
+                         Aug 2025
+                         Jul 2025
+
+                                          Accounts (Credit Card)
+Acct # 20000009759768                     Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : IDFC FIRST BANK             Date Closed : -
+High Credit :  865                        Cash Limit :  2500
+Date Opened/Disbursed: 2025-06-17         Credit Limit :  25000
+Rate Of Interrest : 46.20                 Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : -
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-06-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026                                                      0
+                         Jan 2026                                                      0
+                         Dec 2025                                                      0
+                         Nov 2025                                                      0
+                         Oct 2025                                                      0
+                         Sep 2025                                                      0
+                         Aug 2025
+                          Jul 2025
+                         Jun 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 0001010410003321863                Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : HDFC BANK                   Date Closed : -
+High Credit :  141409                     Cash Limit :  -
+Date Opened/Disbursed: 2025-06-13         Credit Limit :  155000
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  -                       Payment Frequency : -
+Current Balance :  137319                 Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-08-02
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-08-07  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-08-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-06-01
+                             Date                                                Status Code
+                                                         Payment History
+                            Aug 2026                                                      0
+                             Jul 2026                Accounts (Credit Card)               0
+                            Jun 2026                                                      0
+                            May 2026                                                      0
+                            Apr 2026                                                      0
+                            Mar 2026                                                      0
+                            Feb 2026                                                      0
+                            Jan 2026                                                      0
+                            Dec 2025                                                      0
+                            Nov 2025                                                      0
+                            Oct 2025                                                      0
+                            Sep 2025                                                      0
+                            Aug 2025                                                      0
+                             Jul 2025                                                     0
+                            Jun 2025                                                      0
+
+Acct # SBM-7-MWK-34397-S0YQLA             Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : SBMBKINDIA                  Date Closed : 2026-01-01
+High Sanction Amount :  0                 Cash Limit :  1350
+Date Opened/Disbursed: 2025-05-27         Credit Limit :  4500
+Rate Of Interrest : -                     Loan Closed : 2026-01-01+05:30
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-01-01
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-01-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2026-01-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-05-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                             Date                                                         0
+                                                                                          0
+                            Jan 2026                                                      0
+                            Dec 2025                                                      0
+                            Nov 2025                                                      0
+                            Oct 2025                                                      0
+                            Sep 2025                                                      0
+                            Aug 2025                                                      0
+                             Jul 2025
+                            Jun 2025
+                            May 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 7227228020070577506
+Member Name : INDUSIND BANK               Account Type : Credit Card
+High Credit :  62753                      EMI Amount :  2199
+Date Opened/Disbursed: 2025-05-08         Date Closed : -
+Rate Of Interrest : -                     Cash Limit :  11800
+Amount Overdue :  0                       Credit Limit :  59000
+Current Balance :  48243                  Loan Closed : -
+Repayment Tenure : 36                     Payment Frequency : -
+Collateral Value : -                      Collateral Type : -
+Actual Payment amount :  2744             Date of Last Payment : 2026-07-22
+Date Reported And Certified : 2026-07-31  Suit - Filed / Wilful Default : -
+Written-off Amount (Total) : -            Credit Facility Status : -
+Settlement Amount : -                     Written-off Amount (Principal) : -
+Ownership : -
+
+Start Date : 2026-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2025-05-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2026                                                     0
+                         Jun 2026                                                      0
+                         May 2026                                                      0
+                         Apr 2026                                                      0
+                         Mar 2026                                                      0
+                         Feb 2026                                                      0
+                         Jan 2026                                                      0
+                         Dec 2025                                                      0
+                         Nov 2025                                                      0
+                         Oct 2025                                                      0
+                         Sep 2025                                                      0
+                         Aug 2025                                                      0
+                          Jul 2025
+                         Jun 2025
+                         May 2025
+
+                                          Accounts (Credit Card)
+
+Acct # 10041791440                        Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : LNTFIN                      Date Closed : -
+High Sanction Amount :  306000            Cash Limit :  -
+Date Opened/Disbursed: 2024-11-23         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2025-04-02
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-07-01                                   Payment Status     Status Code:
+                                          End Date : 2024-11-01
+                          Date                                                0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                                         Payment History
+                          Jul 2026                                               Status Code
+                         Jun 2026                    Accounts (Credit Card)
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026                                                         0
+                         Feb 2026                                                         0
+                         Jan 2026                                                         0
+                         Dec 2025                                                         0
+                         Nov 2025                                                         0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025                                                         0
+                          Jul 2025                                                        0
+                         Jun 2025                                                         0
+                         May 2025                                                         0
+                         Apr 2025                                                         0
+                         Mar 2025                                                         0
+                         Feb 2025                                                         0
+                         Jan 2025                                                         0
+                         Dec 2024                                                         0
+                         Nov 2024                                                         0
+                                                                                          0
+                                                                                          0
+
+Acct # CRED-NTP36049759                   Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : PARFAITFIN                  Date Closed : -
+High Sanction Amount :  34000             Cash Limit :  -
+Date Opened/Disbursed: 2024-11-23         Credit Limit :  -
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2025-04-02
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-07-01                                   Payment Status     Status Code:
+                                          End Date : 2024-11-01
+                          Date                                                0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                                         Payment History
+                          Jul 2026                                               Status Code
+                         Jun 2026                    Accounts (Credit Card)
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                                                                                          0
+                         Mar 2026                                                         0
+                         Feb 2026
+                         Jan 2026                                                         0
+                         Dec 2025                                                         0
+                         Nov 2025                                                         0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025                                                         0
+                          Jul 2025                                                        0
+                         Jun 2025                                                         0
+                         May 2025                                                         0
+                         Apr 2025                                                         0
+                         Mar 2025                                                         0
+                         Feb 2025                                                         0
+                         Jan 2025                                                         0
+                         Dec 2024                                                         0
+                         Nov 2024                                                         0
+                                                                                          0
+                                                                                          0
+
+Acct # 806A067C-7917-4632-9A92-5          Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : SBMBKINDIA                  Date Closed : 2025-12-14
+High Sanction Amount :  0                 Cash Limit :  4500
+Date Opened/Disbursed: 2024-11-13         Credit Limit :  9000
+Rate Of Interrest : -                     Loan Closed : 2025-12-14+05:30
+Amount Overdue :  0                       Payment Frequency : Fortnightly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2025-12-14
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2025-12-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2025-12-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2024-11-01
+                          Date                                                   Status Code
+                                                         Payment History
+                         Dec 2025                                                         0
+                         Nov 2025                    Accounts (Credit Card)               0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025                                                         0
+                          Jul 2025                                                        0
+                         Jun 2025                                                         0
+                         May 2025                                                         0
+                         Apr 2025                                                         0
+                         Mar 2025                                                         0
+                         Feb 2025                                                         0
+                         Jan 2025                                                         0
+                         Dec 2024                                                         0
+                         Nov 2024                                                         0
+
+Acct # U84A5M4N7UCJ2X2                    Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : SBMBKINDIA                  Date Closed : 2025-11-17
+High Sanction Amount :  0                 Cash Limit :  4050
+Date Opened/Disbursed: 2024-11-12         Credit Limit :  4500
+Rate Of Interrest : -                     Loan Closed : 2025-11-17+05:30
+Amount Overdue :  0                       Payment Frequency : Fortnightly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2024-11-14
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2025-12-15  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+
+Start Date : 2025-12-01                                   Payment Status     Status Code: 0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                          End Date : 2024-11-01
+                                                                                 Status Code
+                                                         Payment History
+                                                                                          0
+                          Date                                                            0
+                                                                                          0
+                         Dec 2025                                                         0
+                         Nov 2025                                                         0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025                                                         0
+                          Jul 2025                                                        0
+                         Jun 2025                                                         0
+                         May 2025                                                         0
+                         Apr 2025                                                         0
+                         Mar 2025                                                         0
+                         Feb 2025                                                         0
+                         Jan 2025
+                         Dec 2024
+                         Nov 2024
+
+                                          Accounts (Credit Card)
+
+Acct # U84A5JXEF6A42X5
+Member Name : SBMBKINDIA                  Account Type : Credit Card
+High Sanction Amount :  0                 EMI Amount :  -
+Date Opened/Disbursed: 2024-11-11         Date Closed : 2025-07-04
+Rate Of Interrest : -                     Cash Limit :  3375
+Amount Overdue :  0                       Credit Limit :  4500
+Current Balance :  0                      Loan Closed : 2025-07-04+05:30
+Repayment Tenure : -                      Payment Frequency : Fortnightly
+Collateral Value : -                      Collateral Type : -
+Actual Payment amount :  -                Date of Last Payment : 2025-07-04
+Date Reported And Certified : 2025-07-31  Suit - Filed / Wilful Default : -
+Written-off Amount (Total) : -            Credit Facility Status : -
+Settlement Amount : -                     Written-off Amount (Principal) : -
+Ownership : -
+
+Start Date : 2025-07-01                                   Payment Status  Status Code: 0,0,0,0,0,0,0,0,0,
+                                          End Date : 2024-11-01
+                                                                              Status Code
+                                                         Payment History
+                                                                                       0
+                          Date                                                         0
+                                                                                       0
+                          Jul 2025                                                     0
+                         Jun 2025                                                      0
+                         May 2025                                                      0
+                                                                                       0
+                         Apr 2025                                                      0
+                         Mar 2025                                                      0
+                         Feb 2025
+                         Jan 2025
+                         Dec 2024
+                         Nov 2024
+
+                                          Accounts (Credit Card)
+
+Acct # ACC_105170672654225387             Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : UTKARFIN                    Date Closed : -
+High Sanction Amount :  97                Cash Limit :  -
+Date Opened/Disbursed: 2024-11-08         Credit Limit :  97
+Rate Of Interrest : -                     Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  -90                    Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2026-01-18
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-07-01                                   Payment Status     Status Code:
+                                          End Date : 2024-12-01
+                          Date                                                0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                                         Payment History
+                          Jul 2026                                               Status Code
+                         Jun 2026                    Accounts (Credit Card)
+                         May 2026                                                         0
+                         Apr 2026                                                         0
+                         Mar 2026                                                         0
+                         Feb 2026                                                         0
+                         Jan 2026                                                         0
+                         Dec 2025                                                         0
+                         Nov 2025                                                         0
+                         Oct 2025                                                         0
+                         Sep 2025                                                         0
+                         Aug 2025                                                         0
+                          Jul 2025                                                        0
+                         Jun 2025                                                         0
+                         May 2025                                                         0
+                         Apr 2025                                                         0
+                         Mar 2025                                                         0
+                         Feb 2025                                                         0
+                         Jan 2025                                                         0
+                         Dec 2024                                                         0
+                                                                                          0
+                                                                                          0
+
+Acct # 9406420003525715                   Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : KOTAK BANK                  Date Closed : 2025-12-19
+High Sanction Amount :  21                Cash Limit :  4500
+Date Opened/Disbursed: 2023-09-18         Credit Limit :  5000
+Rate Of Interrest : -                     Loan Closed : 2025-12-19+05:30
+Amount Overdue :  0                       Payment Frequency : Monthly
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : 2025-11-07
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  500              Credit Facility Status : -
+Date Reported And Certified : 2025-12-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2025-12-01                                      Payment Status     Status Code:
+                                          End Date : 2023-09-01
+                          Date                                                   0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                                                            Payment History
+                         Dec 2025                                                         Status Code
+                         Nov 2025                       Accounts (Credit Card)
+                         Oct 2025                                                                   0
+                         Sep 2025                                                                   0
+                         Aug 2025                                                                   0
+                          Jul 2025                                                                  0
+                         Jun 2025                                                                   0
+                         May 2025                                                                   0
+                         Apr 2025                                                                   0
+                         Mar 2025                                                                   0
+                         Feb 2025                                                                   0
+                         Jan 2025                                                                   0
+                         Dec 2024                                                                   0
+                         Nov 2024                                                                   0
+                         Oct 2024                                                                   0
+                         Sep 2024                                                                   0
+                         Aug 2024                                                                   0
+                          Jul 2024                                                                  0
+                         Jun 2024                                                                   0
+                         May 2024                                                                   0
+                         Apr 2024                                                                   0
+                         Mar 2024                                                                   0
+                         Feb 2024                                                                   0
+                         Jan 2024                                                                   0
+                         Dec 2023                                                                   0
+                         Nov 2023                                                                   0
+                         Oct 2023                                                                   0
+                         Sep 2023                                                                   0
+                                                                                                    0
+                                                                                                    0
+
+Acct # 20300007521149                     Account Type : Credit Card
+                                          EMI Amount :  -
+Member Name : IDFC FIRST BANK             Date Closed : -
+High Sanction Amount :  539               Cash Limit :  2000
+Date Opened/Disbursed: 2023-06-15         Credit Limit :  2000
+Rate Of Interrest : 30.00                 Loan Closed : -
+Amount Overdue :  0                       Payment Frequency : -
+Current Balance :  0                      Collateral Type : -
+Repayment Tenure : -                      Date of Last Payment : -
+Collateral Value : -                      Suit - Filed / Wilful Default : -
+Actual Payment amount :  -                Credit Facility Status : -
+Date Reported And Certified : 2026-07-31  Written-off Amount (Principal) : -
+Written-off Amount (Total) : -
+Settlement Amount : -
+Ownership : -
+Start Date : 2026-07-01         End Date : 2023-08-01  Payment Status
+
+                          Date                                           Status Code:
+
+                          Jul 2026                                     0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+                         Jun 2026                      Payment History
+                         May 2026
+                         Apr 2026                                                                Status Code
+                         Mar 2026
+                         Feb 2026                                                                                 0
+                         Jan 2026                                                                                 0
+                         Dec 2025                                                                                 0
+                         Nov 2025                                                                                 0
+                         Oct 2025                                                                                 0
+                         Sep 2025                                                                                 0
+                         Aug 2025                                                                                 0
+                          Jul 2025                                                                                0
+                         Jun 2025                                                                                 0
+                         May 2025                                                                                 0
+                         Apr 2025                                                                                 0
+                         Mar 2025                                                                                 0
+                         Feb 2025                                                                                 0
+                         Jan 2025                                                                                 0
+                         Dec 2024                                                                                 0
+                         Nov 2024                                                                                 0
+                         Oct 2024                                                                                 0
+                         Sep 2024                                                                                 0
+                         Aug 2024                                                                                 0
+                          Jul 2024                                                                                0
+                         Jun 2024                                                                                 0
+                         May 2024                                                                                 0
+                         Apr 2024                                                                                 0
+                         Mar 2024                                                                                 0
+                         Feb 2024                                                                                 0
+                         Jan 2024                                                                                 0
+                         Dec 2023                                                                                 0
+                         Nov 2023                                                                                 0
+                         Oct 2023                                                                                 0
+                         Sep 2023                                                                                 0
+                         Aug 2023                                                                                 0
+                                                                                                                  0
+                                                                                                                  0
+                                                                                                                  0
+                                                                                                                  0
+                                                                                                                  0
+
+Enquiries :
+
+               Member Name                             Inquiry Type              Date
+                                                                     2026-08-11
+AXIS BANK                   Business Loan                            2026-08-06
+                                                                     2026-08-05
+CITY UNION                  Business Loan                            2026-08-05
+                                                                     2026-08-04
+INCRED FINANCE              Consumer Durable Loan                    2026-08-04
+                                                                     2026-08-04
+UNITYFIN                    Consumer Durable Loan                    2026-08-04
+
+TRUE CREDITS                Consumer Durable Loan                    2026-08-04
+                                                                     2026-07-31
+SAYYAMIN                    Consumer Durable Loan
+
+AXIS BANK                   Consumer Durable Loan
+
+BAJAJ FIN LTD               Consumer Durable Loan
+
+TCL                         Consumer Durable Loan
+HDFC BANK                   Consumer Durable Loan
+SBI CARD          Business Loan          2026-06-04
+HDFC BANK         Consumer Durable Loan  2026-05-21
+AU SFB            Business Loan          2026-04-30
+CITY UNION        Business Loan          2026-04-30
+RBL BANK          Business Loan          2026-04-21
+TCL               Consumer Durable Loan  2026-02-10
+HDFC BANK         Consumer Durable Loan  2026-02-05
+SMICC             Consumer Durable Loan  2026-01-21
+PNB               Business Loan          2026-01-06
+RBL BANK          Business Loan          2026-01-05
+KOTAK BANK        Business Loan          2026-01-05
+AXIS BANK         Business Loan          2026-01-02
+FEDERAL BANK      Business Loan          2026-01-02
+ACHFININDIA       Consumer Durable Loan  2026-01-01
+CHINFIN           Consumer Durable Loan  2026-01-01
+KOMINVEST         Consumer Durable Loan  2026-01-01
+TCL               Consumer Durable Loan  2026-01-01
+JIOCREDIT         Credit Card            2025-12-31
+IDFC FIRST BANK   Consumer Durable Loan  2025-12-31
+HERO FINCORP      Consumer Durable Loan  2025-12-31
+INCRED FINANCE    Consumer Durable Loan  2025-12-31
+VIVIFIN           Consumer Durable Loan  2025-12-31
+ICICI BANK        Consumer Durable Loan  2025-12-31
+SAYYAMIN          Consumer Durable Loan  2025-12-31
+TRUE CREDITS      Consumer Durable Loan  2025-12-31
+NAVI              Consumer Durable Loan  2025-12-31
+AU SFB            Business Loan          2025-12-31
+KRAZYBEE          Consumer Durable Loan  2025-12-31
+HDFC BANK         Consumer Durable Loan  2025-12-29
+RINGKISSHTSICREV  Consumer Durable Loan  2025-12-29
+BAJAJ FIN LTD     Consumer Durable Loan  2025-12-28
+BAJAJ FIN LTD     Consumer Durable Loan  2025-12-28
+YES BANK          Business Loan          2025-12-28
+YES BANK          Business Loan          2025-12-27
+IDFC FIRST BANK   Consumer Durable Loan  2025-12-24
+AXIS BANK         Business Loan          2025-12-20
+IDFC FIRST BANK   Credit Card            2025-12-19
+AXIS BANK         Business Loan          2025-11-20
+
+SBI CARD          Business Loan          2025-10-31
+BAJAJ FIN LTD     Education Loan         2025-10-31
+EARLYSALARY       Consumer Durable Loan  2025-10-25
+RBL BANK                                     Business Loan          2025-10-17
+HDFC BANK                                    Business Loan          2025-08-22
+WHIZDMFINANCE                                Consumer Durable Loan  2025-07-18
+SBI CARD                                     Business Loan          2025-07-17
+ICICI BANK                                   Business Loan          2025-07-15
+HDFC BANK                                    Business Loan          2025-07-01
+BAJAJ FIN LTD                                Education Loan         2025-06-30
+HSBC                                         Business Loan          2025-06-27
+UNITYFIN                                     Business Loan          2025-06-26
+BOBCARD                                      Business Loan          2025-06-26
+POONAFIN                                     Consumer Durable Loan  2025-06-24
+AKARACAPL                                    Consumer Durable Loan  2025-06-24
+INDUSIND BANK                                Consumer Durable Loan  2025-06-21
+YES BANK                                     Business Loan          2025-06-21
+EARLYSALARY                                  Consumer Durable Loan  2025-06-20
+ICICI BANK                                   Business Loan          2025-06-17
+RBL BANK                                     Business Loan          2025-06-16
+FEDERAL BANK                                 Business Loan          2025-06-16
+IDFC FIRST BANK                              Business Loan          2025-06-16
+YES BANK                                     Business Loan          2025-06-15
+HDFC BANK                                    Business Loan          2025-06-12
+HDFC BANK                                    Business Loan          2024-12-03
+INDUSIND BANK                                Consumer Durable Loan  2024-11-21
+INDUSIND BANK                                Business Loan          2024-07-01
+RBL BANK                                     Business Loan          2024-07-01
+AXIS BANK                                    Business Loan          2024-03-08
+AXIS BANK                                    Business Loan          2024-03-08
+AU SFB                                       Business Loan          2023-10-21
+INDUSIND BANK                                Consumer Durable Loan  2023-10-13
+
+     Code                       Description
+
+STD        Standard
+DBT        Doubtful
+###        Number of days
+SMA        Special Mention Account
+LSS        Loss
+XXX        Not Reported
+
+Disclaimer :
+
+All information contained in this credit report has been collated by TransUnion CIBIL Limited ( TU CIBIL) based on information provided/ submitted by its various members("Members"), as part of
+periodic data submission and Members are required to ensure accuracy, completeness and veracity of the information submitted. The credit report is generated usingthe proprietary search and match
+logic of TU CIBIL. TU CIBIL uses its best efforts to ensure accuracy, completeness and veracity of the information contained in the Report and shall only be liable and / or responsible if any
+discrepancies are directly attributable to TU CIBIL. The use of this report is governed by the terms and conditions of the OperatingRules for TU CIBIL and its Members.
+
+In case of any discrepancy in Personal / Account Information pertaining to Loan Accounts / Credit Cards, concerned Financial Institutions / Credit Card Company (CCC) may also please be contacted
+for required clarification.
+

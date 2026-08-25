@@ -1,0 +1,16 @@
+SUBJECT: Expose my Finzy holdings to Account Aggregator — join AA as an FIP
+
+Hi Finzy team,
+
+I invest on Finzy. My holdings are invisible in every net-worth aggregator (INDmoney and others) because Finzy exposes no machine-readable data. My capital and returns are real but untrackable alongside my banks, MFs, and stocks. Please fix this.
+
+Requesting, firmly:
+
+1. Join the Account Aggregator (Sahamati) framework as an FIP so my Finzy balance, invested amount, outstanding principal, and repayments flow to any AA-enabled app with my consent.
+2. Ship a read-only, user-consented investor API (OAuth): invested amount, current outstanding, idle/escrow funds, repayments, active/closed/delayed loan counts, XIRR.
+3. Provide CSV + JSON export of full portfolio + transactions in-app.
+4. Coordinate directly with aggregators (INDmoney, and others) to get Finzy integrated.
+
+Please confirm your AA/FIP roadmap and timeline.
+
+Chirag Singhal

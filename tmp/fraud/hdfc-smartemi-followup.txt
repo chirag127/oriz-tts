@@ -1,0 +1,20 @@
+Dear HDFC Bank Grievance / Nodal Officer,
+
+Follow-up to my complaint about force-bundled insurance converted into a SmartEMI on my HDFC loan/card.
+
+Account holder: Chirag Singhal. Mobile +91 74284-49707. PAN OQVPS7357P.
+HDFC accounts: a/c 0001019040005089241 (bal ~Rs 1,11,955) and a/c 0001010410003321863 (bal ~Rs 1,37,319).
+
+Additional specific evidence: The HDFC app currently shows a running SMARTEMI listed under my loans, which corresponds to the insurance premium that was converted into an EMI without my informed consent.
+
+Please, for this specific SmartEMI:
+1. Identify it exactly — SmartEMI reference/booking ID, the underlying insurance policy, principal converted, EMI amount, tenure, start date, and remaining outstanding.
+2. Produce my explicit consent for converting this insurance premium into a SmartEMI (recorded call / signed form / OTP e-consent). If none exists, treat it as mis-sold/force-bundled.
+3. CANCEL / unwind this SmartEMI and the underlying insurance, STOP further EMIs, and REFUND all EMIs already collected, with no foreclosure/cancellation penalty.
+4. Confirm the corrected outstanding and bureau reporting.
+
+Please reply on this thread with the SmartEMI details and the action taken. If unresolved I will escalate to the RBI Ombudsman (CMS portal) and IRDAI (Bima Bharosa / IGMS).
+
+Regards,
+Chirag Singhal
+Mobile +91 74284-49707 | PAN OQVPS7357P

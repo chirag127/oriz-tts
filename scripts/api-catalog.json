@@ -1,0 +1,1770 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "generatedAt": "2026-08-25T00:00:00Z",
+    "totalEntries": 155,
+    "policy": {
+      "naming": "lowercase-kebab-case",
+      "prefix": "repos/",
+      "visibility": "public",
+      "dataPolicy": "open/public/licensed sources only",
+      "playwrightPolicy": "One-time reverse-engineering to discover endpoints and capture fixtures; CI refreshes via direct HTTP using captured fixtures",
+      "refreshPolicy": "per-source cadence; last-known-good retained on failure; alert maintainer"
+    }
+  },
+  "pilot": [
+    "india-states",
+    "india-districts",
+    "india-pincode",
+    "india-holidays",
+    "http-status",
+    "mime-types",
+    "iso-codes",
+    "ncert-books",
+    "si-units",
+    "rbi-rates"
+  ],
+  "catalog": [
+    {
+      "id": "india-states",
+      "searchScore": 99,
+      "category": "india-geo",
+      "title": "India States and Union Territories",
+      "description": "All 28 states and 8 union territories with ISO codes, capitals, population, area, and districts count",
+      "cadence": "manual",
+      "source": "data.gov.in / Census open data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/states.json"
+      ],
+      "searchKeywords": [
+        "india",
+        "states",
+        "territories",
+        "districts",
+        "population",
+        "area",
+        "indian geography"
+      ]
+    },
+    {
+      "id": "india-districts",
+      "searchScore": 98,
+      "category": "india-geo",
+      "title": "India Districts",
+      "description": "All 780+ districts with state, division, area, population, and pincode range",
+      "cadence": "manual",
+      "source": "Census open data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/districts.json"
+      ],
+      "searchKeywords": [
+        "india",
+        "districts",
+        "tehsil",
+        "mandal",
+        "block"
+      ]
+    },
+    {
+      "id": "india-pincode",
+      "searchScore": 97,
+      "category": "india-geo",
+      "title": "India PIN Code Directory",
+      "description": "All 155000+ PIN codes with post office, district, state, and coordinates",
+      "cadence": "monthly",
+      "source": "India Post open data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/pincodes.json",
+        "/data/pincodes/{pin}.json"
+      ],
+      "searchKeywords": [
+        "pincode",
+        "pin code",
+        "post office",
+        "postal",
+        "zip code india",
+        "area code"
+      ]
+    },
+    {
+      "id": "india-holidays",
+      "searchScore": 96,
+      "category": "india-ref",
+      "title": "India Public Holidays",
+      "description": "Gazetted holidays, restricted holidays, and bank holidays for current and future years",
+      "cadence": "yearly",
+      "source": "Ministry of Personnel open notification",
+      "license": "public-domain",
+      "endpoints": [
+        "/data/holidays/{year}.json",
+        "/data/holidays/current.json"
+      ],
+      "searchKeywords": [
+        "india holidays",
+        "gazetted holidays",
+        "bank holidays",
+        "restricted holidays",
+        "public holidays india",
+        "sundays"
+      ]
+    },
+    {
+      "id": "india-pincodes-by-state",
+      "searchScore": 90,
+      "category": "india-geo",
+      "title": "PIN Codes Grouped by State",
+      "description": "PIN codes grouped by state with counts",
+      "cadence": "monthly",
+      "source": "India Post open data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/pincodes-by-state.json"
+      ],
+      "searchKeywords": [
+        "pincode by state",
+        "post offices by state"
+      ]
+    },
+    {
+      "id": "india-parliament",
+      "searchScore": 85,
+      "category": "india-ref",
+      "title": "Indian Parliamentary Constituencies",
+      "description": "Lok Sabha and Rajya Sabha constituency metadata",
+      "cadence": "manual",
+      "source": "Election Commission open data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/lok-sabha.json",
+        "/data/rajya-sabha.json"
+      ],
+      "searchKeywords": [
+        "parliament",
+        "lok sabha",
+        "rajya sabha",
+        "constituency",
+        "election"
+      ]
+    },
+    {
+      "id": "india-railway-stations",
+      "searchScore": 94,
+      "category": "india-ref",
+      "title": "Indian Railway Stations",
+      "description": "All 7000+ railway stations with code, zone, division, state, and coordinates",
+      "cadence": "monthly",
+      "source": "IRCTC / RailYatri open data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/stations.json"
+      ],
+      "searchKeywords": [
+        "railway station",
+        "train station",
+        "station code",
+        "IRCTC",
+        "railway zone"
+      ]
+    },
+    {
+      "id": "india-airports",
+      "searchScore": 92,
+      "category": "india-ref",
+      "title": "Indian Airports",
+      "description": "All airports and airstrips with IATA code, city, state, and coordinates",
+      "cadence": "manual",
+      "source": "AAI open data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/airports.json"
+      ],
+      "searchKeywords": [
+        "airport",
+        "iata code",
+        "domestic airport",
+        "international airport"
+      ]
+    },
+    {
+      "id": "india-isd-codes",
+      "searchScore": 80,
+      "category": "india-ref",
+      "title": "India ISD/STD Codes",
+      "description": "Country calling code and state-wise STD codes",
+      "cadence": "manual",
+      "source": "TRAI reference",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/country-code.json",
+        "/data/std-codes.json"
+      ],
+      "searchKeywords": [
+        "isd code",
+        "std code",
+        "country code",
+        "calling code"
+      ]
+    },
+    {
+      "id": "india-timezones",
+      "searchScore": 78,
+      "category": "india-ref",
+      "title": "India Time Zones",
+      "description": "IST timezone reference with state-wise local offsets",
+      "cadence": "manual",
+      "source": "IANA tz database",
+      "license": "public-domain",
+      "endpoints": [
+        "/data/timezones.json"
+      ],
+      "searchKeywords": [
+        "india timezone",
+        "IST",
+        "UTC+5:30"
+      ]
+    },
+    {
+      "id": "http-status",
+      "searchScore": 99,
+      "category": "dev-ref",
+      "title": "HTTP Status Codes",
+      "description": "All HTTP status codes with meaning, description, and typical use cases",
+      "cadence": "manual",
+      "source": "RFC 9110 / MDN",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/status-codes.json"
+      ],
+      "searchKeywords": [
+        "http status",
+        "status code",
+        "200",
+        "404",
+        "500",
+        "http response",
+        "error code"
+      ]
+    },
+    {
+      "id": "http-headers",
+      "searchScore": 85,
+      "category": "dev-ref",
+      "title": "HTTP Headers",
+      "description": "Standard HTTP request and response headers with descriptions and security notes",
+      "cadence": "manual",
+      "source": "MDN / RFC",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/headers.json"
+      ],
+      "searchKeywords": [
+        "http headers",
+        "content-type",
+        "authorization",
+        "cache-control"
+      ]
+    },
+    {
+      "id": "mime-types",
+      "searchScore": 95,
+      "category": "dev-ref",
+      "title": "MIME Types",
+      "description": "Complete MIME type to file extension mapping with categories",
+      "cadence": "yearly",
+      "source": "IANA media types",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/mime-types.json"
+      ],
+      "searchKeywords": [
+        "mime type",
+        "content type",
+        "file type",
+        "extension"
+      ]
+    },
+    {
+      "id": "file-extensions",
+      "searchScore": 90,
+      "category": "dev-ref",
+      "title": "File Extensions",
+      "description": "File extensions with associated applications, MIME types, and descriptions",
+      "cadence": "yearly",
+      "source": "IANA + public data",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/extensions.json"
+      ],
+      "searchKeywords": [
+        "file extension",
+        "file type",
+        ".pdf",
+        ".docx",
+        ".json"
+      ]
+    },
+    {
+      "id": "programming-languages",
+      "searchScore": 93,
+      "category": "dev-ref",
+      "title": "Programming Languages",
+      "description": "Major programming languages with paradigms, typing, versions, and extensions",
+      "cadence": "quarterly",
+      "source": "Public data",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/languages.json",
+        "/data/languages/{lang}.json"
+      ],
+      "searchKeywords": [
+        "programming language",
+        "python",
+        "javascript",
+        "rust",
+        "golang",
+        "typescript"
+      ]
+    },
+    {
+      "id": "git-commands",
+      "searchScore": 88,
+      "category": "dev-ref",
+      "title": "Git Commands",
+      "description": "Git commands with descriptions, examples, and common flags",
+      "cadence": "manual",
+      "source": "Git docs",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/commands.json"
+      ],
+      "searchKeywords": [
+        "git",
+        "git commands",
+        "git log",
+        "git push",
+        "git commit"
+      ]
+    },
+    {
+      "id": "linux-commands",
+      "searchScore": 87,
+      "category": "dev-ref",
+      "title": "Linux Commands",
+      "description": "Common Linux commands with descriptions and examples",
+      "cadence": "manual",
+      "source": "man pages / public docs",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/commands.json"
+      ],
+      "searchKeywords": [
+        "linux commands",
+        "bash",
+        "terminal",
+        "shell",
+        "unix"
+      ]
+    },
+    {
+      "id": "sql-functions",
+      "searchScore": 82,
+      "category": "dev-ref",
+      "title": "SQL Functions",
+      "description": "SQL aggregate, string, date, and math functions across major databases",
+      "cadence": "manual",
+      "source": "Public docs",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/functions.json"
+      ],
+      "searchKeywords": [
+        "sql",
+        "sql functions",
+        "SELECT",
+        "aggregate",
+        "database"
+      ]
+    },
+    {
+      "id": "unicode-blocks",
+      "searchScore": 75,
+      "category": "dev-ref",
+      "title": "Unicode Blocks",
+      "description": "Unicode blocks with ranges, script, and character counts",
+      "cadence": "yearly",
+      "source": "Unicode.org",
+      "license": "Unicode-DFS-2.1",
+      "endpoints": [
+        "/data/blocks.json"
+      ],
+      "searchKeywords": [
+        "unicode",
+        "unicode blocks",
+        "scripts",
+        "character encoding"
+      ]
+    },
+    {
+      "id": "emoji",
+      "searchScore": 92,
+      "category": "dev-ref",
+      "title": "Emoji Metadata",
+      "description": "Emoji with categories, keywords, versions, and skin tone support",
+      "cadence": "yearly",
+      "source": "Unicode.org emoji data",
+      "license": "Unicode-DFS-2.1",
+      "endpoints": [
+        "/data/emoji.json",
+        "/data/emoji/{code}.json"
+      ],
+      "searchKeywords": [
+        "emoji",
+        "emoticon",
+        "smiley",
+        "unicode emoji"
+      ]
+    },
+    {
+      "id": "iso-codes",
+      "searchScore": 91,
+      "category": "dev-ref",
+      "title": "ISO Country/Currency/Language Codes",
+      "description": "ISO 3166-1 (country), ISO 4217 (currency), ISO 639 (language) codes",
+      "cadence": "yearly",
+      "source": "ISO standards",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/countries.json",
+        "/data/currencies.json",
+        "/data/languages.json"
+      ],
+      "searchKeywords": [
+        "iso code",
+        "country code",
+        "currency code",
+        "language code",
+        "INR",
+        "Hindi"
+      ]
+    },
+    {
+      "id": "timezone-data",
+      "searchScore": 83,
+      "category": "dev-ref",
+      "title": "Timezone Data",
+      "description": "All IANA timezones with UTC offsets, DST rules, and country mapping",
+      "cadence": "yearly",
+      "source": "IANA tz database",
+      "license": "public-domain",
+      "endpoints": [
+        "/data/timezones.json"
+      ],
+      "searchKeywords": [
+        "timezone",
+        "time zone",
+        "UTC offset",
+        "DST"
+      ]
+    },
+    {
+      "id": "json-schema-ref",
+      "searchScore": 70,
+      "category": "dev-ref",
+      "title": "JSON Schema Keywords",
+      "description": "JSON Schema draft 2020-12 keywords with descriptions and examples",
+      "cadence": "manual",
+      "source": "json-schema.org",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/keywords.json"
+      ],
+      "searchKeywords": [
+        "json schema",
+        "json schema keywords",
+        "validation"
+      ]
+    },
+    {
+      "id": "css-properties",
+      "searchScore": 86,
+      "category": "dev-ref",
+      "title": "CSS Properties",
+      "description": "CSS properties with syntax, applicable elements, and browser support",
+      "cadence": "quarterly",
+      "source": "MDN / W3C",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/properties.json"
+      ],
+      "searchKeywords": [
+        "css",
+        "css properties",
+        "display",
+        "flexbox",
+        "grid"
+      ]
+    },
+    {
+      "id": "html-elements",
+      "searchScore": 84,
+      "category": "dev-ref",
+      "title": "HTML Elements",
+      "description": "HTML5 elements with attributes, descriptions, and semantic usage",
+      "cadence": "manual",
+      "source": "MDN / WHATWG",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/elements.json"
+      ],
+      "searchKeywords": [
+        "html",
+        "html elements",
+        "html5",
+        "tags",
+        "semantic"
+      ]
+    },
+    {
+      "id": "javascript-builtin",
+      "searchScore": 81,
+      "category": "dev-ref",
+      "title": "JavaScript Built-ins",
+      "description": "JavaScript built-in objects, methods, and properties",
+      "cadence": "yearly",
+      "source": "MDN / ECMA-262",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/builtins.json"
+      ],
+      "searchKeywords": [
+        "javascript",
+        "js",
+        "javascript builtins",
+        "Array",
+        "Promise"
+      ]
+    },
+    {
+      "id": "software-licenses",
+      "searchScore": 80,
+      "category": "dev-ref",
+      "title": "Software Licenses",
+      "description": "Open-source licenses with terms, compatibility, and SPDX identifiers",
+      "cadence": "yearly",
+      "source": "SPDX / public docs",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/licenses.json"
+      ],
+      "searchKeywords": [
+        "software license",
+        "open source license",
+        "MIT",
+        "Apache",
+        "GPL"
+      ]
+    },
+    {
+      "id": "regex-tokens",
+      "searchScore": 76,
+      "category": "dev-ref",
+      "title": "Regex Tokens",
+      "description": "Common regex patterns and tokens with descriptions",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/tokens.json",
+        "/data/patterns.json"
+      ],
+      "searchKeywords": [
+        "regex",
+        "regular expression",
+        "pattern matching"
+      ]
+    },
+    {
+      "id": "crypto-algorithms",
+      "searchScore": 72,
+      "category": "dev-ref",
+      "title": "Cryptographic Algorithms",
+      "description": "Hash, symmetric, and asymmetric algorithms with security levels",
+      "cadence": "manual",
+      "source": "NIST / public docs",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/algorithms.json"
+      ],
+      "searchKeywords": [
+        "cryptography",
+        "hashing",
+        "encryption",
+        "AES",
+        "SHA",
+        "RSA"
+      ]
+    },
+    {
+      "id": "si-units",
+      "searchScore": 89,
+      "category": "dev-ref",
+      "title": "SI Units and Measurements",
+      "description": "All SI units with symbols, dimensions, and conversion factors",
+      "cadence": "manual",
+      "source": "BIPM",
+      "license": "public-domain",
+      "endpoints": [
+        "/data/units.json"
+      ],
+      "searchKeywords": [
+        "si units",
+        "measurement",
+        "meter",
+        "kilogram",
+        "second",
+        "celsius"
+      ]
+    },
+    {
+      "id": "nav-units",
+      "searchScore": 71,
+      "category": "dev-ref",
+      "title": "Non-SI Accepted Units",
+      "description": "Non-SI units accepted for use with SI",
+      "cadence": "manual",
+      "source": "BIPM",
+      "license": "public-domain",
+      "endpoints": [
+        "/data/units.json"
+      ],
+      "searchKeywords": [
+        "units",
+        "minute",
+        "hour",
+        "liter",
+        "bar",
+        "electronvolt"
+      ]
+    },
+    {
+      "id": "ncert-books",
+      "searchScore": 96,
+      "category": "education",
+      "title": "NCERT Textbooks",
+      "description": "Complete NCERT book metadata from Class 1-12 across all subjects",
+      "cadence": "yearly",
+      "source": "ncert.nic.in",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/books.json",
+        "/data/books/{class}.json",
+        "/data/books/{class}/{subject}.json"
+      ],
+      "searchKeywords": [
+        "ncert",
+        "textbook",
+        "class 10",
+        "mathematics",
+        "science",
+        "cbse"
+      ]
+    },
+    {
+      "id": "ncert-chapters",
+      "searchScore": 88,
+      "category": "education",
+      "title": "NCERT Chapter Metadata",
+      "description": "Chapters for each NCERT textbook with titles, page counts, and topics",
+      "cadence": "yearly",
+      "source": "ncert.nic.in",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/chapters.json"
+      ],
+      "searchKeywords": [
+        "ncert chapters",
+        "textbook chapters",
+        "chapter list"
+      ]
+    },
+    {
+      "id": "jee-syllabus",
+      "searchScore": 85,
+      "category": "education",
+      "title": "JEE Syllabus",
+      "description": "JEE Main and Advanced syllabus with topics and weightage",
+      "cadence": "yearly",
+      "source": "NTA public notification",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/jee-main.json",
+        "/data/jee-advanced.json"
+      ],
+      "searchKeywords": [
+        "jee",
+        "jee main",
+        "jee advanced",
+        "engineering entrance",
+        "syllabus"
+      ]
+    },
+    {
+      "id": "neet-syllabus",
+      "searchScore": 84,
+      "category": "education",
+      "title": "NEET Syllabus",
+      "description": "NEET UG syllabus with Physics, Chemistry, Biology topics",
+      "cadence": "yearly",
+      "source": "NTA public notification",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/neet.json"
+      ],
+      "searchKeywords": [
+        "neet",
+        "medical entrance",
+        "biology",
+        "physics",
+        "chemistry"
+      ]
+    },
+    {
+      "id": "gate-syllabus",
+      "searchScore": 78,
+      "category": "education",
+      "title": "GATE Syllabus",
+      "description": "GATE exam syllabus across all papers with topic weightage",
+      "cadence": "yearly",
+      "source": "IIT public notification",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/gate.json"
+      ],
+      "searchKeywords": [
+        "gate",
+        "gate exam",
+        "postgraduate engineering",
+        "syllabus"
+      ]
+    },
+    {
+      "id": "upsc-syllabus",
+      "searchScore": 77,
+      "category": "education",
+      "title": "UPSC Civil Services Syllabus",
+      "description": "UPSC CSE prelims and mains syllabus with optional subjects",
+      "cadence": "yearly",
+      "source": "UPSC public notification",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/upsc.json"
+      ],
+      "searchKeywords": [
+        "upsc",
+        "civil services",
+        "ias",
+        "syllabus",
+        "prelims",
+        "mains"
+      ]
+    },
+    {
+      "id": "math-formulas",
+      "searchScore": 91,
+      "category": "education",
+      "title": "Mathematics Formulas",
+      "description": "Algebra, calculus, trigonometry, geometry, and statistics formulas",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/formulas.json"
+      ],
+      "searchKeywords": [
+        "math formulas",
+        "algebra",
+        "calculus",
+        "trigonometry",
+        "quadratic"
+      ]
+    },
+    {
+      "id": "physics-formulas",
+      "searchScore": 90,
+      "category": "education",
+      "title": "Physics Formulas",
+      "description": "Mechanics, thermodynamics, electromagnetism, optics, and modern physics formulas",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/formulas.json"
+      ],
+      "searchKeywords": [
+        "physics formulas",
+        "newton",
+        "gravity",
+        "ohm",
+        "velocity"
+      ]
+    },
+    {
+      "id": "chemistry-formulas",
+      "searchScore": 89,
+      "category": "education",
+      "title": "Chemistry Formulas",
+      "description": "Organic, inorganic, and physical chemistry formulas and reactions",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/formulas.json"
+      ],
+      "searchKeywords": [
+        "chemistry formulas",
+        "chemical equation",
+        "molecular",
+        "stoichiometry"
+      ]
+    },
+    {
+      "id": "periodic-table",
+      "searchScore": 94,
+      "category": "education",
+      "title": "Periodic Table",
+      "description": "All 118 elements with atomic number, mass, electronegativity, and groups",
+      "cadence": "manual",
+      "source": "IUPAC",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/elements.json",
+        "/data/elements/{symbol}.json"
+      ],
+      "searchKeywords": [
+        "periodic table",
+        "elements",
+        "atomic number",
+        "hydrogen",
+        "oxygen"
+      ]
+    },
+    {
+      "id": "programming-concepts",
+      "searchScore": 79,
+      "category": "education",
+      "title": "Programming Concepts",
+      "description": "Core programming concepts with definitions and examples",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/concepts.json"
+      ],
+      "searchKeywords": [
+        "programming concepts",
+        "oop",
+        "recursion",
+        "data structure",
+        "algorithm"
+      ]
+    },
+    {
+      "id": "rbi-rates",
+      "searchScore": 95,
+      "category": "finance",
+      "title": "RBI Policy Rates",
+      "description": "Current and historical RBI repo rate, reverse repo, CRR, SLR, and SDF",
+      "cadence": "monthly",
+      "source": "rbi.org.in",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/rates/current.json",
+        "/data/rates/history.json"
+      ],
+      "searchKeywords": [
+        "rbi",
+        "repo rate",
+        "reverse repo",
+        "crr",
+        "slr",
+        "sdf",
+        "interest rate",
+        "monetary policy"
+      ]
+    },
+    {
+      "id": "indian-banks",
+      "searchScore": 88,
+      "category": "finance",
+      "title": "Indian Banks Directory",
+      "description": "All scheduled commercial banks with IFSC prefix, headquarters, and type",
+      "cadence": "quarterly",
+      "source": "RBI public list",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/banks.json",
+        "/data/banks/{ifsc-prefix}.json"
+      ],
+      "searchKeywords": [
+        "indian banks",
+        "sbi",
+        "hdfc",
+        "icici",
+        "bank ifsc"
+      ]
+    },
+    {
+      "id": "fd-rates",
+      "searchScore": 90,
+      "category": "finance",
+      "title": "Fixed Deposit Interest Rates",
+      "description": "FD rates across major banks by tenure",
+      "cadence": "weekly",
+      "source": "Bank websites (public)",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/fd-rates.json"
+      ],
+      "searchKeywords": [
+        "fd rates",
+        "fixed deposit",
+        "fd interest",
+        "banking",
+        "term deposit"
+      ]
+    },
+    {
+      "id": "savings-rates",
+      "searchScore": 82,
+      "category": "finance",
+      "title": "Savings Account Interest Rates",
+      "description": "Savings account interest rates across banks",
+      "cadence": "monthly",
+      "source": "Bank websites (public)",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/savings-rates.json"
+      ],
+      "searchKeywords": [
+        "savings account",
+        "interest rate",
+        "savings rate"
+      ]
+    },
+    {
+      "id": "gst-rates",
+      "searchScore": 93,
+      "category": "finance",
+      "title": "GST Rates",
+      "description": "GST rate slabs with HSN codes and common items",
+      "cadence": "yearly",
+      "source": "CBIC public notification",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/gst.json",
+        "/data/gst/{hsn}.json"
+      ],
+      "searchKeywords": [
+        "gst",
+        "goods and services tax",
+        "hsn",
+        "gst rate",
+        "gst slabs"
+      ]
+    },
+    {
+      "id": "income-tax-slabs",
+      "searchScore": 94,
+      "category": "finance",
+      "title": "Income Tax Slabs",
+      "description": "Income tax slabs for old and new regime, by financial year",
+      "cadence": "yearly",
+      "source": "Income Tax Act / budget notification",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/income-tax/{fy}.json"
+      ],
+      "searchKeywords": [
+        "income tax",
+        "tax slabs",
+        "old regime",
+        "new regime",
+        "tax bracket"
+      ]
+    },
+    {
+      "id": "tds-rates",
+      "searchScore": 83,
+      "category": "finance",
+      "title": "TDS Rates",
+      "description": "TDS rates by section and payee type",
+      "cadence": "yearly",
+      "source": "Income Tax Act",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/tds.json"
+      ],
+      "searchKeywords": [
+        "tds",
+        "tax deducted at source",
+        "tds rate",
+        "section 194"
+      ]
+    },
+    {
+      "id": "ipo-calendar",
+      "searchScore": 87,
+      "category": "finance",
+      "title": "IPO Calendar",
+      "description": "Current and upcoming IPOs with dates, price bands, and lot sizes",
+      "cadence": "daily",
+      "source": "BSE/NSE public data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/ipo/current.json",
+        "/data/ipo/upcoming.json"
+      ],
+      "searchKeywords": [
+        "ipo",
+        "initial public offering",
+        "ipo calendar",
+        "ipo gmp",
+        "upcoming ipo"
+      ]
+    },
+    {
+      "id": "ipo-performance",
+      "searchScore": 80,
+      "category": "finance",
+      "title": "IPO Performance History",
+      "description": "Historical IPO listing performance and subscription data",
+      "cadence": "weekly",
+      "source": "BSE/NSE public data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/ipo/history.json"
+      ],
+      "searchKeywords": [
+        "ipo performance",
+        "ipo listing",
+        "ipo subscription"
+      ]
+    },
+    {
+      "id": "mutual-fund-categories",
+      "searchScore": 86,
+      "category": "finance",
+      "title": "Mutual Fund Categories",
+      "description": "AMFI mutual fund categories with sub-categories and descriptions",
+      "cadence": "yearly",
+      "source": "AMFI",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/categories.json"
+      ],
+      "searchKeywords": [
+        "mutual fund",
+        "mf",
+        "amfi",
+        "equity fund",
+        "debt fund",
+        "index fund"
+      ]
+    },
+    {
+      "id": "stock-exchanges",
+      "searchScore": 78,
+      "category": "finance",
+      "title": "Stock Exchange Metadata",
+      "description": "Indian stock exchanges (BSE, NSE) with indices and segment info",
+      "cadence": "manual",
+      "source": "BSE/NSE public",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/exchanges.json"
+      ],
+      "searchKeywords": [
+        "bse",
+        "nse",
+        "stock exchange",
+        "sensex",
+        "nifty"
+      ]
+    },
+    {
+      "id": "reit-data",
+      "searchScore": 76,
+      "category": "finance",
+      "title": "Indian REITs",
+      "description": "Listed REITs with NAV, distribution yield, and portfolio info",
+      "cadence": "quarterly",
+      "source": "SEBI/BSE public",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/reits.json"
+      ],
+      "searchKeywords": [
+        "reit",
+        "real estate investment trust",
+        "embassy reit"
+      ]
+    },
+    {
+      "id": "currency-rates",
+      "searchScore": 92,
+      "category": "finance",
+      "title": "Currency Exchange Rates",
+      "description": "INR exchange rates against major currencies",
+      "cadence": "daily",
+      "source": "RBI reference rate",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/rates.json",
+        "/data/rates/{code}.json"
+      ],
+      "searchKeywords": [
+        "exchange rate",
+        "currency",
+        "inr",
+        "usd",
+        "eur",
+        "forex"
+      ]
+    },
+    {
+      "id": "gsec-rates",
+      "searchScore": 74,
+      "category": "finance",
+      "title": "Government Securities Rates",
+      "description": "G-Sec yields by tenor",
+      "cadence": "weekly",
+      "source": "RBI public data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/gsec.json"
+      ],
+      "searchKeywords": [
+        "g-sec",
+        "government bond",
+        "yield",
+        "treasury"
+      ]
+    },
+    {
+      "id": "countries",
+      "searchScore": 90,
+      "category": "world-ref",
+      "title": "Countries of the World",
+      "description": "All 195 countries with ISO codes, capital, population, area, currency, language, and region",
+      "cadence": "yearly",
+      "source": "REST Countries / public data",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/countries.json",
+        "/data/countries/{code}.json"
+      ],
+      "searchKeywords": [
+        "countries",
+        "country",
+        "world",
+        "nation",
+        "population"
+      ]
+    },
+    {
+      "id": "currencies",
+      "searchScore": 85,
+      "category": "world-ref",
+      "title": "World Currencies",
+      "description": "All ISO 4217 currencies with name, symbol, and decimal digits",
+      "cadence": "yearly",
+      "source": "ISO 4217",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/currencies.json"
+      ],
+      "searchKeywords": [
+        "currency",
+        "money",
+        "dollar",
+        "euro",
+        "rupee",
+        "yen"
+      ]
+    },
+    {
+      "id": "languages",
+      "searchScore": 80,
+      "category": "world-ref",
+      "title": "World Languages",
+      "description": "ISO 639 languages with name, native name, and speakers count",
+      "cadence": "yearly",
+      "source": "ISO 639 / Ethnologue",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/languages.json"
+      ],
+      "searchKeywords": [
+        "language",
+        "programming language",
+        "human language",
+        "hindi",
+        "english"
+      ]
+    },
+    {
+      "id": "continents",
+      "searchScore": 72,
+      "category": "world-ref",
+      "title": "Continents",
+      "description": "7 continents with countries, area, and population",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/continents.json"
+      ],
+      "searchKeywords": [
+        "continents",
+        "asia",
+        "africa",
+        "europe"
+      ]
+    },
+    {
+      "id": "country-calling-codes",
+      "searchScore": 81,
+      "category": "world-ref",
+      "title": "Country Calling Codes",
+      "description": "International dialing codes for all countries",
+      "cadence": "manual",
+      "source": "ITU",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/calling-codes.json"
+      ],
+      "searchKeywords": [
+        "country code",
+        "calling code",
+        "phone code",
+        "dialing code"
+      ]
+    },
+    {
+      "id": "indian-foods",
+      "searchScore": 88,
+      "category": "food",
+      "title": "Indian Foods",
+      "description": "500+ Indian dishes with ingredients, calories, and dietary info",
+      "cadence": "quarterly",
+      "source": "Public nutrition data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/foods.json",
+        "/data/foods/{name}.json"
+      ],
+      "searchKeywords": [
+        "indian food",
+        "dosa",
+        "biryani",
+        "paneer",
+        "dal",
+        "roti"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "searchScore": 85,
+      "category": "food",
+      "title": "Nutrition Database",
+      "description": "Macronutrients, vitamins, and minerals for common foods",
+      "cadence": "yearly",
+      "source": "USDA / public data",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/nutrition.json"
+      ],
+      "searchKeywords": [
+        "nutrition",
+        "calories",
+        "protein",
+        "carbs",
+        "fat",
+        "vitamins"
+      ]
+    },
+    {
+      "id": "indian-spices",
+      "searchScore": 82,
+      "category": "food",
+      "title": "Indian Spices",
+      "description": "Indian spices with botanical name, flavor profile, and medicinal properties",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/spices.json"
+      ],
+      "searchKeywords": [
+        "spices",
+        "turmeric",
+        "cumin",
+        "coriander",
+        "cardamom"
+      ]
+    },
+    {
+      "id": "fruits",
+      "searchScore": 78,
+      "category": "food",
+      "title": "Fruits",
+      "description": "Fruits with nutrition, season, and origin data",
+      "cadence": "yearly",
+      "source": "Public data",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/fruits.json"
+      ],
+      "searchKeywords": [
+        "fruits",
+        "apple",
+        "banana",
+        "mango",
+        "seasonal fruit"
+      ]
+    },
+    {
+      "id": "vegetables",
+      "searchScore": 77,
+      "category": "food",
+      "title": "Vegetables",
+      "description": "Vegetables with nutrition and growing season data",
+      "cadence": "yearly",
+      "source": "Public data",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/vegetables.json"
+      ],
+      "searchKeywords": [
+        "vegetables",
+        "potato",
+        "tomato",
+        "onion",
+        "spinach"
+      ]
+    },
+    {
+      "id": "indian-crops",
+      "searchScore": 83,
+      "category": "agriculture",
+      "title": "Indian Crops",
+      "description": "Major Indian crops with season, soil type, and yield data",
+      "cadence": "yearly",
+      "source": "Ministry of Agriculture",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/crops.json"
+      ],
+      "searchKeywords": [
+        "crops",
+        "rice",
+        "wheat",
+        "maize",
+        "cotton",
+        "farming"
+      ]
+    },
+    {
+      "id": "crop-seasons",
+      "searchScore": 75,
+      "category": "agriculture",
+      "title": "Crop Seasons",
+      "description": "Rabi, Kharif, and Zaid crop calendar with states",
+      "cadence": "yearly",
+      "source": "Agricultural reference",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/seasons.json"
+      ],
+      "searchKeywords": [
+        "crop season",
+        "rabi",
+        "kharif",
+        "zaid",
+        "sowing",
+        "harvesting"
+      ]
+    },
+    {
+      "id": "colors",
+      "searchScore": 76,
+      "category": "general",
+      "title": "Colors",
+      "description": "Named colors with hex, RGB, HSL values and categories",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/colors.json"
+      ],
+      "searchKeywords": [
+        "colors",
+        "color",
+        "hex",
+        "rgb",
+        "red",
+        "blue"
+      ]
+    },
+    {
+      "id": "quotes",
+      "searchScore": 80,
+      "category": "general",
+      "title": "Famous Quotes",
+      "description": "Public-domain quotes from historical figures",
+      "cadence": "quarterly",
+      "source": "Public domain texts",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/quotes.json"
+      ],
+      "searchKeywords": [
+        "quotes",
+        "famous quotes",
+        "inspirational",
+        "einstein",
+        "gandhi"
+      ]
+    },
+    {
+      "id": "holiday-world",
+      "searchScore": 82,
+      "category": "general",
+      "title": "World Holidays",
+      "description": "Public holidays across 50+ countries",
+      "cadence": "yearly",
+      "source": "Public holiday calendars",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/holidays/{year}.json"
+      ],
+      "searchKeywords": [
+        "world holidays",
+        "public holidays",
+        "holiday calendar"
+      ]
+    },
+    {
+      "id": "typography-terms",
+      "searchScore": 65,
+      "category": "general",
+      "title": "Typography Terms",
+      "description": "Typographic terminology with definitions",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/terms.json"
+      ],
+      "searchKeywords": [
+        "typography",
+        "font",
+        "kerning",
+        "serif",
+        "sans-serif"
+      ]
+    },
+    {
+      "id": "smartphones",
+      "searchScore": 88,
+      "category": "tech",
+      "title": "Smartphone Specifications",
+      "description": "Major smartphone models with processor, RAM, camera, battery, and price",
+      "cadence": "monthly",
+      "source": "GSMArena / public",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/phones.json",
+        "/data/phones/{slug}.json"
+      ],
+      "searchKeywords": [
+        "smartphone",
+        "phone",
+        "mobile",
+        "processor",
+        "camera",
+        "battery"
+      ]
+    },
+    {
+      "id": "mobile-chipsets",
+      "searchScore": 80,
+      "category": "tech",
+      "title": "Mobile Chipsets",
+      "description": "Snapdragon, MediaTek, Exynos chipsets with specs and benchmark scores",
+      "cadence": "quarterly",
+      "source": "Public benchmarks",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/chipsets.json"
+      ],
+      "searchKeywords": [
+        "chipset",
+        "processor",
+        "snapdragon",
+        "mediatek",
+        "exynos"
+      ]
+    },
+    {
+      "id": "usb-standards",
+      "searchScore": 72,
+      "category": "tech",
+      "title": "USB Standards",
+      "description": "USB 2.0/3.x/4 with speeds, connector types, and power delivery",
+      "cadence": "manual",
+      "source": "USB-IF public",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/usb.json"
+      ],
+      "searchKeywords": [
+        "usb",
+        "usb type-c",
+        "usb 3.0",
+        "usb 4",
+        "power delivery"
+      ]
+    },
+    {
+      "id": "wifi-standards",
+      "searchScore": 74,
+      "category": "tech",
+      "title": "Wi-Fi Standards",
+      "description": "802.11 standards from legacy to Wi-Fi 7 with speeds and frequencies",
+      "cadence": "manual",
+      "source": "IEEE public",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/wifi.json"
+      ],
+      "searchKeywords": [
+        "wifi",
+        "wi-fi",
+        "802.11",
+        "wireless",
+        "router"
+      ]
+    },
+    {
+      "id": "android-versions",
+      "searchScore": 78,
+      "category": "tech",
+      "title": "Android Versions",
+      "description": "Android versions with API level, codename, and release date",
+      "cadence": "yearly",
+      "source": "Android developer docs",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/android.json"
+      ],
+      "searchKeywords": [
+        "android",
+        "android version",
+        "api level",
+        "android 14",
+        "android 15"
+      ]
+    },
+    {
+      "id": "gpus",
+      "searchScore": 75,
+      "category": "tech",
+      "title": "GPU Specifications",
+      "description": "Desktop and mobile GPU specs with VRAM and benchmark scores",
+      "cadence": "quarterly",
+      "source": "Public benchmarks",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/gpus.json"
+      ],
+      "searchKeywords": [
+        "gpu",
+        "graphics card",
+        "nvidia",
+        "amd",
+        "radeon"
+      ]
+    },
+    {
+      "id": "display-panels",
+      "searchScore": 68,
+      "category": "tech",
+      "title": "Display Panel Types",
+      "description": "LCD, OLED, AMOLED panel comparisons with specs",
+      "cadence": "manual",
+      "source": "Reference compilation",
+      "license": "CC0-1.0",
+      "endpoints": [
+        "/data/panels.json"
+      ],
+      "searchKeywords": [
+        "display",
+        "oled",
+        "amoled",
+        "lcd",
+        "screen",
+        "refresh rate"
+      ]
+    },
+    {
+      "id": "cricket-ipl",
+      "searchScore": 86,
+      "category": "sports",
+      "title": "IPL Teams and Players",
+      "description": "IPL team rosters with player stats, auction prices, and match records",
+      "cadence": "yearly",
+      "source": "IPL public data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/ipl/teams.json",
+        "/data/ipl/players.json"
+      ],
+      "searchKeywords": [
+        "ipl",
+        "cricket",
+        "ipl teams",
+        "ipl players",
+        "auction"
+      ]
+    },
+    {
+      "id": "cricket-world-cup",
+      "searchScore": 84,
+      "category": "sports",
+      "title": "Cricket World Cup",
+      "description": "World Cup tournament history, records, and team performances",
+      "cadence": "event-based",
+      "source": "ICC public data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/world-cup.json"
+      ],
+      "searchKeywords": [
+        "cricket world cup",
+        "world cup",
+        "odi",
+        "t20"
+      ]
+    },
+    {
+      "id": "olympics",
+      "searchScore": 80,
+      "category": "sports",
+      "title": "Olympics Medal History",
+      "description": "Olympic medal tally by country, year, and sport",
+      "cadence": "event-based",
+      "source": "IOC public data",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/olympics.json"
+      ],
+      "searchKeywords": [
+        "olympics",
+        "medals",
+        "olympic games",
+        "gold medal"
+      ]
+    },
+    {
+      "id": "govt-schemes",
+      "searchScore": 84,
+      "category": "india-govt",
+      "title": "Indian Government Schemes",
+      "description": "Central government welfare schemes with eligibility and benefits",
+      "cadence": "yearly",
+      "source": "India.gov.in",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/schemes.json"
+      ],
+      "searchKeywords": [
+        "government scheme",
+        "pm kisan",
+        "ayushman bharat",
+        "mudra",
+        "pmay"
+      ]
+    },
+    {
+      "id": "govt-colleges",
+      "searchScore": 76,
+      "category": "india-govt",
+      "title": "Government Colleges",
+      "description": "Government colleges and universities with state, type, and NAAC rating",
+      "cadence": "yearly",
+      "source": "UGC / public",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/colleges.json"
+      ],
+      "searchKeywords": [
+        "government college",
+        "university",
+        "naac",
+        "iit",
+        "nit"
+      ]
+    },
+    {
+      "id": "govt-hospitals",
+      "searchScore": 75,
+      "category": "india-govt",
+      "title": "Government Hospitals",
+      "description": "Government hospitals with state, district, and bed count",
+      "cadence": "yearly",
+      "source": "MoHFW / public",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/data/hospitals.json"
+      ],
+      "searchKeywords": [
+        "government hospital",
+        "hospital",
+        "medical college",
+        "phc",
+        "chc"
+      ]
+    },
+    {
+      "id": "india-states-api",
+      "searchScore": 99,
+      "category": "india-geo",
+      "title": "India States and Union Territories API",
+      "description": "All 28 states and 8 union territories with ISO codes, capitals, population, area, and districts count. Full OpenAPI, schema validation, search index, freshness metadata.",
+      "cadence": "manual",
+      "source": "data.gov.in / Census of India",
+      "license": "CC-BY-4.0",
+      "endpoints": [
+        "/api/v1/states.json",
+        "/api/v1/states/{id}.json",
+        "/api/v1/search.json",
+        "/api/v1/meta.json"
+      ],
+      "searchKeywords": [
+        "india",
+        "states",
+        "union territories",
+        "iso codes",
+        "capitals",
+        "population",
+        "area",
+        "districts",
+        "indian geography"
+      ]
+    }
+  ]
+}

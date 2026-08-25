@@ -1,0 +1,37 @@
+Hi INDmoney team,
+
+One consolidated request: please surface ALL the data that is already available to you but currently hidden. You have the aggregation backbone (AA/FIU, broking, MF, US); most of what I list below is data you can already fetch — you just don't display it. Show everything.
+
+=== Banks (via Account Aggregator) ===
+1. Full TRANSACTION history for every linked account (date, amount, debit/credit, narration, running balance) — not just the balance. The AA spec already delivers this.
+2. A unified passbook across ALL linked banks in one searchable timeline.
+3. All account types under one login/CIF — savings, current, FD, RD, OD, loan (today some accounts under the same bank/CIF are missing, e.g. not all my PNB accounts show).
+4. A dedicated CHARGES view — surface every fee each bank debits (minimum-balance penalty, SMS-alert fee, AMC, ATM, etc.) so I can see and dispute them.
+5. FD/RD with interest rate + maturity date + maturity calendar.
+6. Standing instructions, mandates, auto-debits, and upcoming EMIs.
+
+=== Investments (data you already hold or can fetch) ===
+7. Mutual funds: rolling returns, expense-ratio history, portfolio/stock overlap between funds, fund-manager tenure, AUM trend, full risk ratios (Sharpe/Sortino/alpha/beta/SD), downside capture, tracking error, category percentile over time.
+8. Indian stocks: promoter pledge + trend, FII/DII/MF holding trend, full historical shareholding, 3-statement financials incl. cash flow, ROCE/ROE trend, peer comparison, Piotroski/forensic score, credit rating, custom-formula screener, insider/bulk/block deals.
+9. US stocks: analyst consensus + estimates + revisions, 10-K/10-Q financials + SEC filings, insider trades (Form 4), 13F institutional holdings, earnings calendar + transcripts, ETF holdings depth + comparison, options chain, Level-2 quotes.
+
+=== Assets you don't yet aggregate ===
+10. P2P lending (i2iFunding, LendenClub, Lendbox, Faircent, IndiaP2P, LiquiLoans, Finzy, 1Finance P2P) — invested, outstanding, escrow, repayments, XIRR, active/closed/NPA counts. Coordinate with these platforms to join AA as FIPs or expose read APIs.
+11. Crypto (exchange API / wallet read), real estate, physical + digital gold, ESOPs/RSUs, unlisted equity.
+12. Full liability side: all loans, credit-card outstanding, BNPL — so net worth = assets minus liabilities.
+13. EPF/PPF/NPS auto-refresh across all sources.
+14. Insurance (term/ULIP/endowment) fund + surrender value.
+
+=== Cross-cutting ===
+15. Historical net-worth chart (contribution vs market-movement split).
+16. Consolidated capital-gains / ITR-ready report across equity/MF/P2P — free, not paywalled.
+17. Read-only personal API + full CSV/JSON export of holdings AND transactions.
+18. "Last synced" timestamp + manual refresh per source; granular per-FIP consent.
+19. Family/shared portfolio workspace.
+20. Alerts: bank charges debited, missed EMI, RBI P2P investment cap, allocation drift.
+
+The principle: if the data is reachable with my consent, show it. Right now INDmoney is a great balance+holdings aggregator but hides the transaction, charge, and analytics layers that are already within reach. Surfacing all of it would make INDmoney the single source of truth for my entire financial life.
+
+Happy to beta-test any of this.
+
+Chirag Singhal

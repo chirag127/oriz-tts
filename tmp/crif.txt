@@ -1,0 +1,852 @@
+                                                    CONSUMER CREDITTM REPORT                                                          CHM Ref #:           B2C-260107CR725691818
+                                                                                                                                      Date of Request:     07-01-2026
+                                                                      For CHIRAG SINGHAL                                              Date of Issue:       07-01-2026
+
+Inquiry Input Information                                                                                      Phone Numbers: 7428449707
+                                                                                                               Email ID(s): whyiswhen@gmail.com
+Name: Chirag Singhal
+ID(s): OQVPS7357P [PAN]                                                          RANGE                                         SCORE             DESCRIPTION
+                                                                                 300-900                                       751
+CRIF Credit Score
+
+  SCORE NAME
+  PERFORM CONSUMER 2.2
+
+Score Trend
+
+Retro Date  -                          -         -         -           -                   -                -               -         -          -            -              -
+
+Score       -                          -         -         -           -                   -                -               -         -          -            -              -
+
+Primary Account Summary                                                                         Tip: Only ACTIVE accounts consider Current Balance & Disbursed Amount, and all amounts are in INR.
+
+Number of     Active                   Overdue   Secured   UnSecured             Untagged         Total        Current           Current         Total         Total           Total
+Accounts    Accounts                   Accounts  Accounts   Accounts             Accounts       Current        Balance           Balance     Sanctioned    Disbursed         Amount
+                                                                                                Balance        Secured         UnSecured                                     Overdue
+24             21                         0         14            10                    0                                                      Amount        Amount
+                                                                                               1,65,587.00       594.00         1,64,993.00                                      0.00
+                                                                                                                                              3,60,487.00   3,60,487.00
+
+Secondary Account Summary                                                                       Tip: Only ACTIVE accounts consider Current Balance & Disbursed Amount, and all amounts are in INR.
+
+Number of     Active                   Overdue   Secured   UnSecured             Untagged       Total          Current           Current         Total        Total            Total
+Accounts    Accounts                   Accounts  Accounts   Accounts             Accounts     Current          Balance           Balance     Sanctioned    Disbursed         Amount
+                                                                                              Balance          Secured         UnSecured                                     Overdue
+0              0                          0         0               0            0                                                             Amount       Amount
+                                                                                                 0.00                0                 0                                         0.00
+                                                                                                                                                   0.00         0.00
+
+Group Account Summary                                                                           Tip: Only ACTIVE accounts consider Current Balance & Disbursed Amount, and all amounts are in INR.
+
+Number of     Active                   Overdue   Secured   UnSecured             Untagged       Total          Current           Current         Total        Total            Total
+Accounts    Accounts                   Accounts  Accounts   Accounts             Accounts     Current          Balance           Balance     Sanctioned    Disbursed         Amount
+                                                                                              Balance          Secured         UnSecured                                     Overdue
+0              0                          0             0          0                    0                                                      Amount       Amount
+                                                                                                 0.00                0                 0                                         0.00
+                                                                                                                                                    0.0         0.00
+
+Additional Summary                               NUM-GRANTORS-ACTIVE                          NUM-GRANTORS-DELINQ                            NUM-GRANTORS-PRIMARY
+                                                                             12                                            0                                             12
+NUM-GRANTORS
+                             13
+
+Personal Info Variations                            First Reported               Last Reported                              Type                           Source Indicator
+                                                    30/07/2023                   31/12/2025                                 Secured Credit                 FRB,PRB
+Name Variations                                     09/10/2025                   31/12/2025                                 Card,Personal Loan             NBF
+CHIRAG SINGHAL                                                                                                              Personal Loan
+MR CHIRAG SINGHAL                                   First Reported               Last Reported                                                             Source Indicator
+                                                    31/10/2023                   15/12/2025                                 Type                           PRB
+Email Variations                                    30/11/2024                   31/12/2025                                 Secured Credit Card            FRB,PRB
+singhalchirag1108@gmail.com                                                                                                 Secured Credit
+WHYISWHEN@GMAIL.COM                                 First Reported               Last Reported                              Card,Personal Loan             Source Indicator
+                                                    15/12/2025                   15/12/2025                                                                SFB
+DOB Variations                                      07/07/2025                   31/12/2025                                 Type                           SFB
+08/11/2002                                                                                                                  Secured Credit Card
+11/08/2002                                                                                                                  Secured Credit Card
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                                  CRIF High Mark Credit Information Services Pvt. Ltd                                                   Confidential
+Phone Variations                       First Reported  Last Reported                                        Type                   Source Indicator
+917428449707                           26/12/2024      15/12/2025                                           Secured Credit Card    FRB
+917428000000                           15/07/2025      15/07/2025                                           Secured Credit Card    SFB
+7428449707                             30/07/2023      31/12/2025                                           Personal Loan,Secured  PRB,SFB
+                                                       Last Reported                                        Credit Card
+Address Variations                     First Reported  31/07/2023                                                                  Source Indicator
+                                                       31/10/2025                                           Type                   PRB
+11A JAGRITI VIHAR SA NJAY              31/07/2023                                                           Secured Credit Card    PRB
+                                                       31/12/2025
+NAGARSECTOR-23 GHAZIABAD 201002                        15/12/2025                                           Credit Card
+
+PLOT NO 448 LANE NO 5 SECTOR 5         25/07/2025      15/12/2025
+NILADRI V IHAR CHANDRASEKHARPUR                        15/12/2025
+BHUBANESWAR ORISSA KHORDHA
+751021 OR                                              31/12/2025
+
+PLOT NO 448, LANE NO 5, SECTOR 5       31/12/2025      31/12/2025                                           Personal Loan          NBF
+BHUBANESWAR, ODISHA 751021 OR                          15/12/2025                                           Credit Card            PRB
+                                                       15/12/2025
+PLOT NO 448 LANE 05, NILADRI VIHAR     04/07/2025
+CHANDRASEKHARPUR NEAR DIBYA                            15/12/2025
+GUEST HOUSE BHUBANESHWAR                               31/10/2025
+751021 OR                                              15/12/2025
+                                                       31/12/2025
+11A JAGRITI VIHAR GHAZIABAD            26/12/2024                                                           Secured Credit Card    FRB
+GHAZIABAD 201001 UP                                    15/12/2025                                           Personal Loan          PRB
+
+11A JAGRITI VIHAR SANJAY NAGAR         09/07/2025      15/12/2025
+SECTOR-23 GHAZIABAD GHAZIABAD ,
+GHAZIABAD , UTTAR PRADESH , 201001                     15/12/2025
+201001 UP
+                                                       15/12/2025
+S/O: VIKAS SINGHAL, 11A, JAGRITI       27/12/2024      31/12/2025                                           Personal Loan          NBF
+VIHAR, , SANJAY NAGAR SECTOR- 23,                      30/11/2025
+GHAZIABAD, GHAZIABAD, GHAZIABAD,                       31/08/2023
+GHAZIAB AD, UTTAR PRADESH, INDIA,                      15/12/2025
+201001 201001 UP
+
+11A, JAGRITI VIHAR, SANJAY NAGAR       21/05/2025                                                           Credit Card            PRB
+SECTOR-23 GHAZIABADGHAZIABAD...                                                                             Secured Credit Card    FRB
+GHAZIABAD 201001 201001 UP                                                                                  Secured Credit Card    FRB
+
+S/O: VIKAS SINGHAL 11A JAGRITI VIHAR 09/06/2025
+SAN JAY NAGAR GHAZIABAD 201001 UP
+
+11A JAGRITI VIHAR SANJAY NAGAR         05/07/2025
+SANJAY NA GAR GHAZIABAD UTTAR
+PRADESH NEAR BHATI D AIRY AND BAL
+JAGAT PUBLIC SC DELHI NCR_E XT
+201002 UP
+
+11A, JAGRITI VIHAR, SANJAY NAGAR,      17/12/2024                                                           Secured Credit Card    SFB
+SECTOR-23, GHAZIABAD, GHAZIABAD,                                                                            Credit Card            PRB
+INDIA 201001 UP                                                                                             Credit Card            PRB
+                                                                                                            Personal Loan          NBF
+PLOT NO 448 LANE NO 5 SECTOR 5         24/09/2025                                                           Secured Credit Card    SFB
+NILADRI V CHANDRASEKHARPUR                                                                                  Credit Card            PRB
+BHUBANESWAR ORISSA 751021 OR
+
+11ASANJAY NAGAR SECTOR-23 JAGRITI 25/07/2025
+VIHAR SANJAY NAGAR SECTOR-23
+GHAZIABAD 201001 UP
+
+11A JAGRITI VIHAR SANJAY NAGAR         31/12/2025
+SECTOR 23GHAZIABAD GHAZIABAD
+GHAZIABAD, UTTAR_PRADESH, 201001
+201001 UP
+
+PLOT NO-448, SECTOR 5 LANE 5,          23/07/2025
+NEELADRI VIHAR , CHANDRASEKHAR
+PUR, NEAR HOTEL DIBYA
+BHUBANESWAR 751021 OR
+
+PLOT NO 35 SEZ ROAD CHANDAKA           25/07/2025
+INDUSTRIAL ESTAT
+CHANDRASEKHARPUR INFOCITY
+BHUBANES WAR ORISSA
+CHANDRASEKHARPUR KHORDHA
+751024 OR
+
+11A, JAGRITI VIHAR, SANJAY             05/07/2025                                                           Credit Card            PRB
+NAGARSECTOR-2 3, GHAZIABAD,
+GHAZIABADUTTAR PRADESH, 20 1001                                                                             Credit Card            PRB
+201001 UP                                                                                                   Secured Credit Card    SFB
+                                                                                                            Secured Credit Card    PRB
+11A JAGRITI VIHAR SANJAY NAGAR         15/12/2025                                                           Secured Credit Card    PRB
+SECTOR 23 201001 UP                                                                                         Secured Credit Card    FRB
+
+PLOT NO -448, LN 5, SEC-5NEELADRI      07/07/2025
+VIHAR, CHANDRASEKHARPUR, ..
+751021 OR
+
+11A JAGRITI VIHAR SANJAY NAGAR         31/10/2023
+SECTOR-23 GHAZIABAD GHAZIABAD
+GHAZIABAD 201001 UP
+
+11A JAGRITI VIHAR SA NJAY              30/07/2023
+NAGARSECTOR-23 GHAZIABAD 201002
+UP
+
+11A JAGRITI VIHAR GHAZIABAD 201001 26/12/2024
+UP
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                  CRIF High Mark Credit Information Services Pvt. Ltd                                           Confidential
+Address Variations                                      First Reported                  Last Reported                        Type                              Source Indicator
+                                                                                        15/12/2025                           Secured Credit Card               PRB
+11A, JAGRITI VIHAR, SANJAY                              30/07/2023
+NAGARSECTOR-2 3, GHAZIABAD,                                                             Last Reported
+GHAZIA BAD, UTTAR PRADESH, 2 01001                                                      31/12/2025
+201001 UP
+                                                                                        Last Reported
+PAN Variations                                          First Reported                  31/12/2025                           Type                              Source Indicator
+OQVPS7357P                                              30/07/2023                                                                                             FRB,PRB
+                                                                                                                             Secured Credit
+                                                                                                                             Card,Personal Loan
+
+CKYC Variations                                         First Reported                                                       Type                              Source Indicator
+60029422881699                                          22/11/2025                                                           Personal Loan,Credit Card         NBF,PRB
+
+Employment Details                                      First Reported                  Last Reported                        Type                              Source Indicator
+                                                        30/06/2025                      15/12/2025                           Personal Loan                     PRB
+Occupation                                              30/06/2025                      15/12/2025                           Credit Card                       PRB
+OTHERS                                                  31/07/2025                      15/12/2025                           Secured Credit Card               SFB
+SALARIED                                                31/05/2025                      31/12/2025                           Credit Card                       PRB
+SALARIED
+OTHERS
+
+Account Information
+
+        1 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED         Account #: SBM-7-MWK-34397- Lender Type: FRB                           As on: 15/12/2025
+               Card                                                                     S0YQLA                                                                     4,500
+                                                                                                                                                                   0
+Active  Ownership:                          Individual              Disbursed Date:              27/05/2025                           Disbd Amt/High Credit:
+        Credit Limit:                        4,500                  Last Payment Date:           %                                    Current Balance:             0
+        Cash Limit:                          1,350                  Closed Date:                                                      Last Paid Amt:
+        InstlAmt/Freq:                                              Tenure (month):                                                   Overdue Amt:                 0
+        Write off Date:                     Active                  Account in Dispute                                                Principal Writeoff Amt:
+        Status:                                                     Income/Frq:                                                       Total Writeoff Amt:
+        Settlement Amt:                                             Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb  Mar             Apr         May             Jun            Jul                   Aug      Sep         Oct          Nov               Dec
+
+        2025    -                      -    -               -           000/STD         000/STD        000/STD               000/STD  000/STD     000/STD      000/STD           000/STD
+
+        2 Account Type: Personal Loan Credit Grantor: KOTAK MAHINDRA BANK               Account #: SPLN94664759                        Lender Type: PRB        As on: 15/12/2025
+                                                                                                   24/06/2025                                                      1,00,000
+Active  Ownership:                          Individual              Disbursed Date:                05/12/2025                         Disbd Amt/High Credit:       87,207
+        Credit Limit:                                               Last Payment Date:             36                                 Current Balance:
+        Cash Limit:                          4,043/Monthly          Closed Date:                                                      Last Paid Amt:               0
+        InstlAmt/Freq:                      Active                  Tenure (month):                %                                  Overdue Amt:
+        Write off Date:                     Others                  Account in Dispute                                                Principal Writeoff Amt:      0
+        Status:                                                     Income/Frq:                                                       Total Writeoff Amt:
+        Settlement Amt:                                             Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb  Mar             Apr         May               Jun            Jul                   Aug      Sep         Oct          Nov               Dec
+                                                                          -             000/STD        000/STD               000/XXX  000/XXX     000/XXX      000/STD           000/STD
+        2025    -                      -    -               -
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                                   CRIF High Mark Credit Information Services Pvt. Ltd                                                      Confidential
+        3 Account Type: Secured Credit Credit Grantor: SURYODAY                       Account #: 306370                             Lender Type: SFB        As on: 31/12/2025
+               Card                                                                              21/06/2025
+                                                                                                 17/12/2025                        Disbd Amt/High Credit:       0
+Active  Ownership:                              Individual     Disbursed Date:                   1                                 Current Balance:             0
+        Credit Limit:                                          Last Payment Date:                                                  Last Paid Amt:
+        Cash Limit:                             Active         Closed Date:                      2.95%                             Overdue Amt:                 0
+        InstlAmt/Freq:                           0             Tenure (month):                                                     Principal Writeoff Amt:      0
+        Write off Date:                                        Account in Dispute                                                  Total Writeoff Amt:          0
+        Status:                                                Income/Frq:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb      Mar         Apr      May             Jun      Jul                           Aug      Sep      Oct             Nov            Dec
+                                                                       -           000/STD  000/STD                       000/STD  000/STD  000/STD         000/STD        000/STD
+        2025  -                        -        -           -
+
+Collateral / Security Details:                              Type of Charge                  Security Value                                                  Date Of Value
+                                                                      -                           40,000                                                             -
+                    Security Type
+                    Fixed Deposits
+
+        4 Account Type: Credit Card             Credit Grantor: ICICI BANK LTD        Account #: 0000000033544511 Lender Type: PRB                          As on: 15/12/2025
+                                                                                                                                                                56,309
+Active  Ownership:                              Individual     Disbursed Date:              19/06/2025                             Disbd Amt/High Credit:       -1,080
+        Credit Limit:                            80,000        Last Payment Date:           16/11/2025                             Current Balance:
+        Cash Limit:                              8,000         Closed Date:                                                        Last Paid Amt:               0
+        InstlAmt/Freq:                                         Tenure (month):              %                                      Overdue Amt:
+        Write off Date:                         Active         Account in Dispute                                                  Principal Writeoff Amt:      0
+        Status:                                                Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb      Mar         Apr      May           Jun      Jul                           Aug      Sep      Oct               Nov            Dec
+                                                                                                                                                            000/XXX        000/XXX
+        2025  -                        -        -           -                   -  -        000/XXX                       000/XXX  000/XXX  000/XXX
+
+        5 Account Type: Personal Loan Credit Grantor: NEWTAP FINANCE PRIVATE          Account #: CRED-                              Lender Type: NBF        As on: 15/12/2025
+                                                              LIMITED                 NTP36049759                                                               34,000
+                                                                                                                                   Disbd Amt/High Credit:       0
+Active  Ownership:                              Individual     Disbursed Date:                   23/11/2024                        Current Balance:
+        Credit Limit:                           Active         Last Payment Date:                02/04/2025                        Last Paid Amt:               0
+        Cash Limit:                                            Closed Date:                                                        Overdue Amt:
+        InstlAmt/Freq:                                         Tenure (month):                   %                                 Principal Writeoff Amt:      0
+        Write off Date:                                        Account in Dispute                                                  Total Writeoff Amt:
+        Status:                                                Income/Frq:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb      Mar           Apr      May           Jun      Jul                           Aug      Sep      Oct             Nov            Dec
+                                                            000/XXX  000/XXX       000/XXX  000/XXX                       000/XXX  000/XXX  000/XXX         000/XXX        000/XXX
+        2025  000/XXX                  000/XXX  000/XXX                                                                                                     000/XXX        000/XXX
+        2024       -                        -        -           -        -             -        -                             -        -        -
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                                CRIF High Mark Credit Information Services Pvt. Ltd                                                   Confidential
+        6 Account Type: Credit Card         Credit Grantor: ICICI BANK LTD            Account #: 0000000033919949 Lender Type: PRB                         As on: 15/12/2025
+                                                                                                                                                               8,511
+Active  Ownership:                          Individual         Disbursed Date:              14/08/2025                         Disbd Amt/High Credit:          -,759
+        Credit Limit:                        80,000            Last Payment Date:           26/09/2025                         Current Balance:
+        Cash Limit:                          8,000             Closed Date:                                                    Last Paid Amt:                  0
+        InstlAmt/Freq:                                         Tenure (month):              %                                  Overdue Amt:
+        Write off Date:                     Active             Account in Dispute                                              Principal Writeoff Amt:         0
+        Status:                                                Income/Frq:                                                     Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb  Mar             Apr  May               Jun      Jul                       Aug      Sep      Oct                Nov            Dec
+
+        2025  -                        -    -               -               -      -        -                         -        000/XXX  000/XXX            XXX/XXX        000/XXX
+
+        7 Account Type: Personal Loan Credit Grantor: NAVI FINSERV LIMITED            Account #: 010014088043                   Lender Type: NBF           As on: 31/12/2025
+                                                                                                 31/12/2025                                                    15,000
+Active  Ownership:                          Individual         Disbursed Date:                   31/12/2025                    Disbd Amt/High Credit:          15,000
+        Credit Limit:                                          Last Payment Date:                18                            Current Balance:
+        Cash Limit:                          1,020/Monthly     Closed Date:                                                    Last Paid Amt:                  0
+        InstlAmt/Freq:                      Active             Tenure (month):                   %                             Overdue Amt:
+        Write off Date:                                        Account in Dispute                                              Principal Writeoff Amt:         0
+        Status:                                                Income/Frq:                                                     Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb  Mar             Apr  May               Jun      Jul                       Aug      Sep      Oct                Nov              Dec
+                                                                                                                                                             -            000/STD
+        2025  -                        -    -               -               -      -        -                         -        -                        -
+
+        8 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED       Account #:                                Lender Type: FRB           As on: 15/12/2025
+               Card                                                                   3097526208892504039                                                      4,500
+                                                                                                                               Disbd Amt/High Credit:          215
+Active  Ownership:                          Individual         Disbursed Date:                   24/06/2025                    Current Balance:
+        Credit Limit:                        4,500             Last Payment Date:                06/12/2025                    Last Paid Amt:                  0
+        Cash Limit:                          0                 Closed Date:                                                    Overdue Amt:
+        InstlAmt/Freq:                                         Tenure (month):                   %                             Principal Writeoff Amt:         0
+        Write off Date:                     Active             Account in Dispute                                              Total Writeoff Amt:
+        Status:                                                Income/Frq:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb  Mar             Apr  May                 Jun      Jul                       Aug      Sep      Oct                Nov            Dec
+                                                                   -               000/STD  000/STD                   000/STD  000/STD  000/STD            000/STD        000/STD
+        2025  -                        -    -               -
+
+Collateral / Security Details:                              Type of Charge                     Security Value                                              Date Of Value
+                                                                      -                               4,500                                                         -
+                    Security Type
+                    Fixed Deposits
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                            CRIF High Mark Credit Information Services Pvt. Ltd                                                      Confidential
+        9 Account Type: Secured Credit Credit Grantor: IDFC                          Account #: 20300007521149 Lender Type: PRB                               As on: 15/12/2025
+               Card                                                                                                                                               539
+                                                                                                                                                                  -1
+Active  Ownership:                              Individual       Disbursed Date:              15/06/2023                             Disbd Amt/High Credit:
+        Credit Limit:                            2,000           Last Payment Date:           %                                      Current Balance:             0
+        Cash Limit:                              2,000           Closed Date:                                                        Last Paid Amt:
+        InstlAmt/Freq:                                           Tenure (month):                                                     Overdue Amt:                 0
+        Write off Date:                         Active           Account in Dispute                                                  Principal Writeoff Amt:
+        Status:                                                  Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                          Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb      Mar             Apr      May           Jun      Jul                           Aug      Sep      Oct             Nov      Dec
+                                                              000/STD  000/STD       000/STD  000/STD                       000/STD  000/STD  000/STD         000/STD  000/STD
+        2025        000/STD            000/STD  000/STD       000/STD  000/STD       000/STD  000/STD                       000/STD  000/STD  000/STD         000/STD  000/STD
+        2024        000/STD            000/STD  000/STD                              000/STD  000/STD                       000/STD  000/STD  000/STD         000/STD  000/STD
+        2023                                                       -        -
+                         -                  -        -
+
+        10 Account Type: Secured Credit Credit Grantor: UTKARSH SMALL FINANCE        Account #:                                       Lender Type: SFB        As on: 15/12/2025
+                                                                                     ACC_104628750202136848                                                       1,800
+              Card                              BANK LIMITED                                                                         Disbd Amt/High Credit:       0
+                                                                                                11/04/2025                           Current Balance:
+Active  Ownership:                              Individual       Disbursed Date:                                                     Last Paid Amt:               0
+        Credit Limit:                           Active           Last Payment Date:             %                                    Overdue Amt:
+        Cash Limit:                                              Closed Date:                                                        Principal Writeoff Amt:      0
+        InstlAmt/Freq:                                           Tenure (month):                                                     Total Writeoff Amt:
+        Write off Date:                                          Account in Dispute
+        Status:                                                  Income/Frq:
+        Settlement Amt:                                          Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb      Mar           Apr      May           Jun      Jul                           Aug      Sep      Oct             Nov      Dec
+
+        2025        -                  -        -             -        XXX/XXX XXX/XXX XXX/XXX XXX/XXX XXX/XXX XXX/XXX                                        000/XXX  000/XXX
+
+        11 Account Type: Credit Card            Credit Grantor: HDFC BANK LTD        Account #:                                       Lender Type: PRB        As on: 15/12/2025
+                                                                                     0001010410003321863                                                          48,863
+Active  Ownership:                              Individual       Disbursed Date:                                                     Disbd Amt/High Credit:       3,051
+        Credit Limit:                            1,55,000        Last Payment Date:             13/06/2025                           Current Balance:
+        Cash Limit:                                              Closed Date:                   14/12/2025                           Last Paid Amt:               0
+        InstlAmt/Freq:                          Active           Tenure (month):                                                     Overdue Amt:
+        Write off Date:                         Salaried         Account in Dispute             %                                    Principal Writeoff Amt:
+        Status:                                                  Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                          Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb      Mar           Apr      May             Jun      Jul                           Aug      Sep      Oct             Nov      Dec
+                                                                         -           000/XXX  000/XXX                       000/XXX  000/XXX  000/XXX         000/XXX  000/XXX
+        2025        -                  -        -             -
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                                  CRIF High Mark Credit Information Services Pvt. Ltd                                             Confidential
+        12 Account Type: Personal Loan Credit Grantor: TRUE CREDITS PRIVATE             Account #: TBPL01-51231-                      Lender Type: NBF           As on: 31/12/2025
+                                                              LIMITED                   7047904                                                                      1,110
+                                                                                                                                     Disbd Amt/High Credit:          1,110
+Active  Ownership:                              Individual       Disbursed Date:                   31/12/2025                        Current Balance:
+        Credit Limit:                           Active           Last Payment Date:                                                  Last Paid Amt:                  0
+        Cash Limit:                                              Closed Date:                      6                                 Overdue Amt:
+        InstlAmt/Freq:                                           Tenure (month):                                                     Principal Writeoff Amt:         0
+        Write off Date:                                          Account in Dispute                41.76%                            Total Writeoff Amt:
+        Status:                                                  Income/Frq:
+        Settlement Amt:                                          Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb      Mar           Apr      May           Jun      Jul                           Aug      Sep      Oct                Nov        Dec
+                                                                                                                                                                   -      000/XXX
+        2025        -                  -        -             -        -             -        -                             -        -                        -
+
+        13 Account Type: Secured Credit Credit Grantor: UTKARSH SMALL FINANCE           Account #:                                    Lender Type: SFB           As on: 15/12/2025
+                                                                                        ACC_105170672654225387                                                       97
+              Card                              BANK LIMITED                                                                         Disbd Amt/High Credit:          30
+                                                                                                   11/08/2024                        Current Balance:
+Active  Ownership:                              Individual       Disbursed Date:                   12/12/2025                        Last Paid Amt:                  0
+        Credit Limit:                           Active           Last Payment Date:                                                  Overdue Amt:
+        Cash Limit:                                              Closed Date:                      %                                 Principal Writeoff Amt:         0
+        InstlAmt/Freq:                                           Tenure (month):                                                     Total Writeoff Amt:
+        Write off Date:                                          Account in Dispute
+        Status:                                                  Income/Frq:
+        Settlement Amt:                                          Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb      Mar             Apr      May           Jun      Jul                           Aug      Sep       Oct               Nov      Dec
+                                                              000/XXX  000/XXX       000/XXX  000/XXX                       000/XXX  000/XXX  000/XXX            000/XXX  000/XXX
+        2025        000/XXX            000/XXX  000/XXX                                                                              XXX/XXX  XXX/XXX            000/XXX  000/XXX
+        2024             -                  -        -             -        -             -        -                             -
+
+        14 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED        Account #: 806A067C-7917-                     Lender Type: FRB           As on: 15/12/2025
+               Card                                                                     4632-9A92-5                                                                  9,000
+                                                                                                                                     Disbd Amt/High Credit:          0
+Active  Ownership:                              Individual       Disbursed Date:                   14/11/2024                        Current Balance:
+        Credit Limit:                            9,000           Last Payment Date:                                                  Last Paid Amt:                  0
+        Cash Limit:                              4,500           Closed Date:                      %                                 Overdue Amt:
+        InstlAmt/Freq:                                           Tenure (month):                                                     Principal Writeoff Amt:         0
+        Write off Date:                         Active           Account in Dispute                                                  Total Writeoff Amt:
+        Status:                                                  Income/Frq:
+        Settlement Amt:                                          Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb      Mar             Apr      May           Jun      Jul                           Aug      Sep      Oct                Nov      Dec
+                                                              000/STD  000/STD       000/STD  000/STD                       000/STD  000/STD  000/STD            000/STD  000/STD
+        2025        000/STD            000/STD  000/STD                                                                                                          000/STD  000/STD
+        2024             -                  -        -             -        -             -        -                             -        -        -
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                                  CRIF High Mark Credit Information Services Pvt. Ltd                                                Confidential
+        15 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED      Account #: SBM-5-KPE-34397- Lender Type: FRB                       As on: 15/12/2025
+               Card                                                                   K3P1AE                                                                 4,500
+                                                                                                                                                             0
+Active  Ownership:                          Individual            Disbursed Date:              21/06/2025                       Disbd Amt/High Credit:
+        Credit Limit:                        4,500                Last Payment Date:           22/07/2025                       Current Balance:             0
+        Cash Limit:                          2,250                Closed Date:                                                  Last Paid Amt:
+        InstlAmt/Freq:                                            Tenure (month):              %                                Overdue Amt:                 0
+        Write off Date:                     Active                Account in Dispute                                            Principal Writeoff Amt:
+        Status:                                                   Income/Frq:                                                   Total Writeoff Amt:
+        Settlement Amt:                                           Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb  Mar         Apr       May                   Jun      Jul                     Aug      Sep      Oct             Nov      Dec
+                                                                    -                 000/STD  000/STD                 000/STD  000/STD  000/STD         000/STD  000/STD
+        2025        -                  -    -           -
+
+        16 Account Type: Credit Card        Credit Grantor: IDFC                      Account #: 20000009759768                  Lender Type: PRB        As on: 15/12/2025
+                                                                                                 17/06/2025                                                  0
+Active  Ownership:                          Individual            Disbursed Date:                                               Disbd Amt/High Credit:       -1,051
+        Credit Limit:                        25,000               Last Payment Date:             %                              Current Balance:
+        Cash Limit:                          2,500                Closed Date:                                                  Last Paid Amt:               0
+        InstlAmt/Freq:                                            Tenure (month):                                               Overdue Amt:
+        Write off Date:                     Active                Account in Dispute                                            Principal Writeoff Amt:      0
+        Status:                                                   Income/Frq:                                                   Total Writeoff Amt:
+        Settlement Amt:                                           Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb  Mar         Apr       May                   Jun      Jul                     Aug      Sep      Oct             Nov      Dec
+                                                                    -                 000/STD  000/STD                 000/STD  000/STD  000/STD         000/STD  000/STD
+        2025        -                  -    -           -
+
+        17 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED      Account #: SBM-6-CRE-34397- Lender Type: FRB                       As on: 15/12/2025
+               Card                                                                   A5VVQY                                                                 4,500
+                                                                                                                                                             0
+Active  Ownership:                          Individual            Disbursed Date:              24/06/2025                       Disbd Amt/High Credit:
+        Credit Limit:                        4,500                Last Payment Date:           01/08/2025                       Current Balance:             0
+        Cash Limit:                          2,250                Closed Date:                                                  Last Paid Amt:
+        InstlAmt/Freq:                                            Tenure (month):              %                                Overdue Amt:                 0
+        Write off Date:                     Active                Account in Dispute                                            Principal Writeoff Amt:
+        Status:                                                   Income/Frq:                                                   Total Writeoff Amt:
+        Settlement Amt:                                           Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                    Jan                Feb  Mar         Apr       May                   Jun      Jul                     Aug      Sep      Oct             Nov      Dec
+                                                                    -                 000/STD  000/STD                 000/STD  000/STD  000/STD         000/STD  000/STD
+        2025        -                  -    -           -
+
+        18 Account Type: Secured Credit Credit Grantor: AU SMALL FINANCE BANK         Account #: 1699258909179200 Lender Type: SFB                       As on: 15/12/2025
+
+              Card                          LIMITED                                                                                                          1,222
+                                                                                                                                                             350
+Active  Ownership:                          Individual            Disbursed Date:              05/07/2025                       Disbd Amt/High Credit:       0
+        Credit Limit:                        8,000                Last Payment Date:           07/11/2025                       Current Balance:             0
+        Cash Limit:                          4,000                Closed Date:                                                  Last Paid Amt:
+        InstlAmt/Freq:                                            Tenure (month):               0                               Overdue Amt:                 0
+        Write off Date:                     Active                Account in Dispute           %                                Principal Writeoff Amt:
+        Status:                             Salaried              Income/Frq:                                                   Total Writeoff Amt:
+        Settlement Amt:                                           Interest Rate:
+        Occupation:
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                             CRIF High Mark Credit Information Services Pvt. Ltd                                             Confidential
+Payment History/Asset Classification:
+
+              Jan                      Feb      Mar         Apr      May           Jun      Jul                           Aug      Sep      Oct             Nov            Dec
+
+        2025  -                        -        -           -                  -   -        000/XXX                       000/XXX  000/XXX  000/XXX         000/XXX        000/XXX
+
+Collateral / Security Details:                              Type of Charge                  Security Value                                                  Date Of Value
+                                                                      -                           10,000                                                             -
+                    Security Type
+                    Fixed Deposits
+
+        19 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED      Account #: SBM-8-COD-34397- Lender Type: FRB                          As on: 15/12/2025
+               Card                                                                   ONLH5P                                                                    4,500
+                                                                                                                                                                0
+Active  Ownership:                              Individual     Disbursed Date:              10/07/2025                             Disbd Amt/High Credit:
+        Credit Limit:                            4,500         Last Payment Date:           08/10/2025                             Current Balance:             0
+        Cash Limit:                              2,250         Closed Date:                                                        Last Paid Amt:
+        InstlAmt/Freq:                                         Tenure (month):              %                                      Overdue Amt:                 0
+        Write off Date:                         Active         Account in Dispute                                                  Principal Writeoff Amt:
+        Status:                                                Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb      Mar         Apr      May           Jun      Jul                           Aug      Sep      Oct               Nov            Dec
+                                                                                                                                                            000/STD        000/STD
+        2025  -                        -        -           -                  -   -        000/STD                       000/STD  000/STD  000/STD
+
+        20 Account Type: Secured Credit Credit Grantor: KOTAK MAHINDRA BANK           Account #: 9406420003525715 Lender Type: PRB                          As on: 15/12/2025
+               Card
+                                                                                                                                                                21
+Active  Ownership:                              Individual     Disbursed Date:              18/09/2023                             Disbd Amt/High Credit:       0
+        Credit Limit:                            5,000         Last Payment Date:           07/11/2025                             Current Balance:             500
+        Cash Limit:                              4,500         Closed Date:                                                        Last Paid Amt:               0
+        InstlAmt/Freq:                                         Tenure (month):              %                                      Overdue Amt:
+        Write off Date:                         Active         Account in Dispute                                                  Principal Writeoff Amt:      0
+        Status:                                                Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+              Jan                      Feb      Mar           Apr      May           Jun      Jul                           Aug      Sep      Oct             Nov            Dec
+                                                            000/XXX  000/XXX       000/XXX  000/XXX                       000/XXX  000/XXX  000/XXX         000/XXX        000/XXX
+        2025  000/XXX                  000/XXX  000/XXX     000/XXX  000/XXX       XXX/XXX  000/XXX                       000/XXX  000/XXX  000/XXX         000/XXX        000/XXX
+        2024  000/XXX                  000/XXX  000/XXX                                                                            000/XXX  000/XXX         000/XXX        000/XXX
+        2023                                                     -        -             -        -                             -
+                   -                        -        -
+
+        21 Account Type: Credit Card            Credit Grantor: INDUSIND BANK         Account #:                                    Lender Type: PRB        As on: 31/12/2025
+                                                                                      7227228020070577506                                                       61,515
+Active  Ownership:                              Individual     Disbursed Date:                                                     Disbd Amt/High Credit:       61,515
+        Credit Limit:                            75,000        Last Payment Date:                08/05/2025                        Current Balance:
+        Cash Limit:                              15,000        Closed Date:                      16/08/2025                        Last Paid Amt:               0
+        InstlAmt/Freq:                           2,199         Tenure (month):                                                     Overdue Amt:
+        Write off Date:                                        Account in Dispute                36                                Principal Writeoff Amt:      0
+        Status:                                 Active         Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:                    %
+        Occupation:                             Others
+
+Payment History/Asset Classification:
+
+              Jan                      Feb      Mar         Apr      May           Jun      Jul                           Aug      Sep      Oct               Nov            Dec
+                                                                                                                                                            000/XXX        000/XXX
+        2025  -                        -        -           -        000/XXX       000/XXX  000/XXX                       000/XXX  000/XXX  000/XXX
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                                CRIF High Mark Credit Information Services Pvt. Ltd                                                   Confidential
+        22 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED      Account #:                                    Lender Type: FRB           As on: 15/12/2025
+               Card                                                                   U84A5M4N7UCJ2X2                                                              0
+                                                                                                                                   Disbd Amt/High Credit:          0
+Closed  Ownership:                              Individual     Disbursed Date:                   12/11/2024                        Current Balance:
+        Credit Limit:                            4,500         Last Payment Date:                14/11/2024                        Last Paid Amt:                  0
+        Cash Limit:                              4,050         Closed Date:                      17/11/2025                        Overdue Amt:
+        InstlAmt/Freq:                                         Tenure (month):                                                     Principal Writeoff Amt:         0
+        Write off Date:                         Closed         Account in Dispute                %                                 Total Writeoff Amt:
+        Status:                                                Income/Frq:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                Jan                    Feb      Mar           Apr      May           Jun      Jul                           Aug      Sep      Oct                Nov      Dec
+                                                            000/STD  000/STD       000/STD  000/STD                       000/STD  000/STD  000/STD            000/STD       -
+        2025  000/STD                  000/STD  000/STD                                                                                                        000/STD
+        2024       -                        -        -           -        -             -        -                             -        -        -                      000/STD
+
+        23 Account Type: Secured Credit Credit Grantor: SBM BANK (INDIA) LIMITED      Account #: U84A5JXEF6A42X5 Lender Type: FRB                              As on: 31/07/2025
+               Card                                                                                                                                                0
+                                                                                                                                                                   0
+Closed  Ownership:                              Individual     Disbursed Date:              11/11/2024                             Disbd Amt/High Credit:
+        Credit Limit:                            4,500         Last Payment Date:           04/07/2025                             Current Balance:                0
+        Cash Limit:                              3,375         Closed Date:                 04/07/2025                             Last Paid Amt:
+        InstlAmt/Freq:                                         Tenure (month):                                                     Overdue Amt:                    0
+        Write off Date:                         Closed         Account in Dispute           %                                      Principal Writeoff Amt:
+        Status:                                                Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                Jan                    Feb      Mar         Apr      May           Jun      Jul                           Aug      Sep      Oct                  Nov      Dec
+                                                                                                                                                                    -        -
+        2025  000/STD                  000/STD  000/STD     000/STD  000/STD       000/STD  000/STD                       -            -                    -
+                                                                                                                                                               000/STD  000/STD
+        2024    -                      -        -           -        -             -        -                             -            -                    -
+
+        24 Account Type: Personal Loan Credit Grantor: LNT FINANCE                    Account #: 10041791440                        Lender Type: NBF           As on: 31/12/2025
+                                                                                                 23/11/2024                                                        3,06,000
+Closed  Ownership:                              Individual     Disbursed Date:                   02/04/2025                        Disbd Amt/High Credit:          0
+        Credit Limit:                           Closed         Last Payment Date:                02/04/2025                        Current Balance:
+        Cash Limit:                                            Closed Date:                                                        Last Paid Amt:                  0
+        InstlAmt/Freq:                                         Tenure (month):                   %                                 Overdue Amt:
+        Write off Date:                                        Account in Dispute                                                  Principal Writeoff Amt:         0
+        Status:                                                Income/Frq:                                                         Total Writeoff Amt:
+        Settlement Amt:                                        Interest Rate:
+        Occupation:
+
+Payment History/Asset Classification:
+
+                Jan                    Feb      Mar         Apr      May           Jun      Jul                           Aug      Sep      Oct                  Nov      Dec
+                                                                                                                                                                    -        -
+        2025  000/XXX                  000/XXX  000/XXX     000/XXX  -             -        -                             -            -                    -
+                                                                                                                                                               000/XXX  000/XXX
+        2024    -                      -        -           -        -             -        -                             -            -                    -
+
+Inquiries in last 2 years
+
+Credit Grantor                         Type                 Date of Inquiry           Account Type                             Amount                          Remark
+                                                            01-01-2026                N/A                                      0                               Account Origination
+TALAZEN FINANACE                       PRIMARY              01-01-2026                PRE-DISB                                 0                               Account Origination
+
+APOLLO FINVEST INDIA                   PRIMARY
+LIMITED
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved                                CRIF High Mark Credit Information Services Pvt. Ltd                                                            Confidential
+NORTH EAST HIRE                        PRIMARY  01-01-2026                     PRE-DISB              1,000     Account Origination
+PURCHASE CO IN                         PRIMARY  01-01-2026                     PRE-DISB              0         OTHER
+                                       PRIMARY  01-01-2026                     PRE-DISB              10,000    OTHER
+UNIFINZ CAPITAL INDIA                  PRIMARY  31-12-2025                     PRE-DISB              0         OTHER
+LIMTED                                 PRIMARY  31-12-2025                     PRE-DISB              0         OTHER
+                                       PRIMARY  31-12-2025                     PRE-DISB              0         OTHER
+INNOFIN SOLUTIONS                      PRIMARY  31-12-2025                     PRE-DISB              10,000    OTHER
+PRIVATE LIMITED                        PRIMARY  31-12-2025                     N/A                   3,000     Account Origination
+                                       PRIMARY  29-12-2025                     PRE-SCREEN            1,00,000  OTHER
+FINCFRIENDS PRIVATE                    PRIMARY  25-12-2025                     PRE-DISB              15,000    OTHER
+LIMITED                                PRIMARY  04-11-2025                     PRE-DISB              0         OTHER
+                                       PRIMARY  22-08-2025                     PRE-SCREEN            10,000    OTHER
+VAIBHAV VYAPAAR                        PRIMARY  01-07-2025                     PRE-SCREEN            1,000     OTHER
+PRIVATE LIMITED                        PRIMARY  21-06-2025                     PRE-SCREEn            40,000    OTHER
+                                       PRIMARY  12-06-2025                     PRE-SCREEN            1,000     OTHER
+FDPL FINANCE PRIVATE                   PRIMARY  03-12-2024                     PRE-SCREEN            1,000     OTHER
+LIMITED                                PRIMARY  08-11-2024                     PRE-DISB              0         OTHER
+
+INNOFIN SOLUTIONS
+PRIVATE LIMITED
+
+KRAZYBEE SERVICES
+PRIVATE LIMITED
+
+HDFC BANK LTD
+
+LNT FINANCE
+
+UTKARSH SMALL
+FINANCE BANK LIMITED
+
+HDFC BANK LTD
+
+HDFC BANK LTD
+
+SURYODAY
+
+HDFC BANK LTD
+
+HDFC BANK LTD
+
+UTKARSH SMALL
+FINANCE BANK LIMITED
+
+                                                                               -END OF REPORT-
+
+Appendix                                        Code                           Description
+                                                Number of Delinquent Accounts  Indicates number of accounts that the applicant has defaulted on within the last 6 months
+Section                                         XXXX                           Name of grantor undisclosed as credit grantor is different from inquiring institution
+Account Summary                                 xxxx                           Account Number undisclosed as credit grantor is different from inquiring institution
+Account Information - Credit Grantor            XXX                            Data not reported by institution
+Account Information - Account #                 -                              Not applicable
+Payment History / Asset Classification          STD                            Account Reported as STANDARD Asset
+Payment History / Asset Classification          SUB                            Account Reported as SUB-STANDARD Asset
+Payment History / Asset Classification          DBT                            Account Reported as DOUBTFUL Asset
+Payment History / Asset Classification          LOS                            Account Reported as LOSS Asset
+Payment History / Asset Classification          SMA                            Account Reported as SPECIAL MENTION
+Payment History / Asset Classification          PERFORM-Consumer               Score has reckoned from credit history, pursuit of new credit, payment history, type of credit in use and
+Payment History / Asset Classification                                         outstanding debt.
+CRIF HIGHMARK SCORE (S)                         CI-Ceased/Membership           Credit Institution has Ceased to Operate or Membership Terminated
+                                                Terminated
+Account Information - Account #
+
+Appendix
+
+Source Indicator                                                               Kind of Business
+SHG                                                                            SHG
+TSR                                                                            TRUST
+NBF                                                                            NBFC
+MFI                                                                            NGO-MFI
+MFI                                                                            NBFC-MFI
+PRB                                                                            PRIVATE BANK
+FRB                                                                            FOREIGN BANK
+SBR                                                                            STOCK BROKER
+COP                                                                            CO-OPERATIVE BANK
+NAB                                                                            NATIONALIZED BANK
+NAB                                                                            SBI AND ASSOCIATES
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved           CRIF High Mark Credit Information Services Pvt. Ltd                                 Confidential
+INS                                    INSURANCE COMPANY
+TEL                                    TELECOM COMPANY
+TRD                                    TRADING MEMBER
+CCC                                    CREDIT CARD COMPANY
+CRA                                    CREDIT RATING AGENCY
+HFC                                    HOUSING FINANCE COMPANY
+SFC                                    STATE FINANCIAL CORPORATION
+CCC                                    CREDIT CARD COMPANY
+RRB                                    REGIONAL RURAL BANK
+ARC                                    Asset Reconstruction Company
+OFI                                    Other Financial Institutions
+NHB                                    National Housing Bank
+DTC                                    DIRECT TO CONSUMER
+SFB                                    Small Finance Bank
+P2P                                    Non-Banking Financial Company-Peer-2-Peer Lending
+PMB                                    Payments Bank
+SUJ                                    Specified User
+
+Disclaimer: This document is prepared based on the data submitted by member institutions of CRIF High Mark Credit Information Services Private Limited (CRIF High Mark) and by using the proprietary match logic of CRIF High Mark.
+No alterations are made to the data submitted by member institutions and the same is up to date as well as accurate to the best of its knowledge. By using data contained in this document, the user acknowledges that CRIF High Mark is
+not responsible for errors/omissions resulting from submission of erroneous data from Members to CRIF High Mark. This document may not be used or disclosed to others, except with the written permission of CRIF High Mark. Any
+paper copy of this document will be considered uncontrolled. If you are not the intended recipient, you are not authorized to read, print, retain, copy, disseminate, distribute or use this information or any part thereof. PERFORM score
+provided in this document is joint work of CRIF SPA (Italy) and CRIF High Mark (India). For any assistance related to this report, please contact us at customerservice@crifhighmark.com. To raise a dispute, you can use the following
+link: Raise Dispute.
+
+© Copyright 2025. All rights reserved  CRIF High Mark Credit Information Services Pvt. Ltd  Confidential
+

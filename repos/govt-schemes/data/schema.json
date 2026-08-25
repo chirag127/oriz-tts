@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chirag127.github.io/govt-schemes/data/schema.json",
+  "title": "Indian Government Schemes",
+  "description": "Central government welfare schemes with eligibility and benefits",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Unique identifier"
+      },
+      "name": {
+        "type": "string",
+        "description": "Display name"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+SUBJECT: My US account — please confirm my US broker/custodian + full fee schedule in writing
+
+Hi INDmoney team,
+
+I have a US-investing account with INDmoney. Please confirm, in writing, for MY account specifically:
+
+1. Who is the underlying US broker / custodian holding my US securities — DriveWealth LLC, Alpaca Securities LLC, or another? Please state the exact entity and my account number with them.
+2. Are my US holdings SIPC-insured, and up to what limit?
+3. My full, current fee schedule:
+   - Per-trade brokerage (% and per-order cap in USD)
+   - Any FX / forex-conversion markup charged by INDmoney on INR→USD and USD→INR
+   - The bank/remittance partner used for my LRS transfers and its forex spread
+   - Withdrawal / wire-out fees (INDmoney + custodian)
+   - Account opening and annual maintenance (confirm ₹0)
+   - Applicable TCS on my LRS remittances
+
+4. How do I download a consolidated US-account statement (holdings + transactions + fees) as CSV/PDF?
+
+Please reply in this thread with the specifics for my account.
+
+Thanks,
+Chirag Singhal

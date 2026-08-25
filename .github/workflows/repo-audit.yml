@@ -1,0 +1,67 @@
+name: Repository audit
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.gitmodules'
+      - 'scripts/repo-audit.mjs'
+      - 'package.json'
+      - '.github/workflows/repo-audit.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: repo-audit-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout umbrella repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          submodules: false
+
+      - name: Workspace preflight
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -d .git || { echo '::error::Missing umbrella .git directory'; exit 1; }
+          test -s .gitmodules || { echo '::error::Missing or empty .gitmodules'; exit 1; }
+          test -d repos/i2i-yield-watch || { echo '::error::Missing repos/i2i-yield-watch'; exit 1; }
+          git diff --exit-code -- .gitmodules || { echo '::error::Checkout has unexpected .gitmodules changes'; exit 1; }
+
+      - name: Setup pnpm for the umbrella project
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install umbrella dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Generate repository inventory
+        run: pnpm audit:repos
+
+      - name: Validate inventory is non-empty
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s repo-inventory.json
+          node -e "const x=require('./repo-inventory.json'); if (!x.repositories.length) process.exit(1); console.log('repositories:', x.repositories.length)"
+
+      - name: Secret scan tracked content
+        uses: gitleaks/gitleaks-action@v2
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

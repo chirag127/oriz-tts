@@ -1,0 +1,7 @@
+transport invoke timed out after 60000ms (data: {"type":"custom","event":"vite:invoke","data":{"name":"fetchModule","id":"send:zMFNXJPhS7s6uDyKTSNBi","data":["/node_modules/astro/dist/core/cookies/cookies.js","C:/g/ws/node_modules/astro/dist/core/cookies/index.js",{"cached":false,"startOffset":2}]}})
+  [1mStack trace:[22m
+[2m    at reviveInvokeError (file:///C:/g/ws/node_modules/astro/node_modules/vite/dist/node/module-runner.js:475:14)
+    at async ModuleRunner.getModuleInformation (file:///C:/g/ws/node_modules/astro/node_modules/vite/dist/node/module-runner.js:1086:7)
+    at async eval (C:\g\ws\node_modules\astro\dist\core\cookies\index.js:1:1)
+    at async ModuleRunner.directRequest (file:///C:/g/ws/node_modules/astro/node_modules/vite/dist/node/module-runner.js:1146:59)
+    at async eval (C:\g\ws\node_modules\astro\dist\core\fetch\fetch-state.js:9:1)[22m

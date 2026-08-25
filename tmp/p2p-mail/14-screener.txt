@@ -1,0 +1,14 @@
+SUBJECT: Feature request: expose a read/export API so Screener data flows into aggregators
+
+Hi Screener.in team,
+
+I use Screener.in for deep fundamental analysis — promoter pledge, ROCE/ROE trends, cash-flow, custom screens. It's the best at this. One gap: this data is locked inside Screener. I can't pull my watchlist/analysis into my net-worth aggregator or my own tools.
+
+Requesting:
+1. A read-only, user-consented API (OAuth or API key) exposing my watchlists, custom screens, and a company's core fundamentals (the ratios your company pages already compute).
+2. Structured export (CSV/JSON) of any screen result and a company's financials from the UI.
+3. Optionally, an Account-Aggregator-style feed or partnership so aggregators (e.g. INDmoney) can surface Screener's fundamental data points alongside holdings.
+
+Screener already computes all this — an external, consented surface would make it far more useful. Please confirm if an API is on the roadmap.
+
+Chirag Singhal

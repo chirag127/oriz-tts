@@ -1,0 +1,30 @@
+Hi Groww team,
+
+I invest through Groww (stocks + mutual funds) and want to share prioritised feedback. Groww's UX is the cleanest in the market; these are the gaps that would make it a genuine one-stop platform, roughly in order of impact.
+
+Mutual-fund analytics (biggest gap):
+1. Fund overlap / portfolio X-ray — show how much my funds overlap in underlying holdings. Kuvera's signature feature; Groww has nothing equivalent.
+2. Rolling returns — not just point-to-point + XIRR. Rolling-return analysis over 1/3/5yr windows is essential for judging consistency.
+3. Deeper MF insights — expense-ratio history, AUM trend, fund-manager tenure, category rank/percentile over time, downside capture.
+
+Portfolio + net worth:
+4. Cross-broker + external-asset aggregation — Groww is broker-locked. Please bring back / expand external MF + holdings tracking so I see my full portfolio, not just what's bought on Groww.
+5. Net-worth view including FDs, gold, US stocks, and other assets Groww already offers — one consolidated wealth number.
+6. Family / household accounts — track a spouse's/parent's portfolio in one place with consent.
+
+Data + reporting:
+7. CSV / JSON export of holdings AND full transaction history (per-asset + consolidated). Currently hard to get my own data out.
+8. Charges transparency — a clear per-transaction + monthly breakdown of every fee (brokerage, DP charges, GST, etc.) in one place.
+9. Free consolidated capital-gains / ITR-ready report across stocks + MF + F&O.
+
+Trading + platform:
+10. Advanced order types + options tools — bracket/cover orders and deeper options analytics (payoff, Greeks, strategy builder). GTT is live now — thank you.
+11. Advanced charting — closer to TradingView/Kite depth for those who want it.
+12. A read-only personal API — even a token-scoped read API for holdings/transactions would let users build their own trackers.
+
+Support:
+13. Faster escalation than manual email-with-ticket — an in-app tracked-ticket flow with SLAs.
+
+Happy to beta-test any of these. Thanks for building genuinely the most usable investing app in India.
+
+Chirag Singhal

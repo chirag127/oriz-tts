@@ -1,0 +1,73 @@
+AXIS BANK                   Business Loan                            2026-08-06
+CITY UNION                  Business Loan                            2026-08-05
+INCRED FINANCE              Consumer Durable Loan                    2026-08-04
+UNITYFIN                    Consumer Durable Loan                    2026-08-04
+TRUE CREDITS                Consumer Durable Loan                    2026-08-04
+HDFC BANK         Consumer Durable Loan  2026-05-21
+AU SFB            Business Loan          2026-04-30
+CITY UNION        Business Loan          2026-04-30
+RBL BANK          Business Loan          2026-04-21
+TCL               Consumer Durable Loan  2026-02-10
+HDFC BANK         Consumer Durable Loan  2026-02-05
+SMICC             Consumer Durable Loan  2026-01-21
+PNB               Business Loan          2026-01-06
+RBL BANK          Business Loan          2026-01-05
+KOTAK BANK        Business Loan          2026-01-05
+AXIS BANK         Business Loan          2026-01-02
+FEDERAL BANK      Business Loan          2026-01-02
+ACHFININDIA       Consumer Durable Loan  2026-01-01
+CHINFIN           Consumer Durable Loan  2026-01-01
+KOMINVEST         Consumer Durable Loan  2026-01-01
+TCL               Consumer Durable Loan  2026-01-01
+JIOCREDIT         Credit Card            2025-12-31
+IDFC FIRST BANK   Consumer Durable Loan  2025-12-31
+HERO FINCORP      Consumer Durable Loan  2025-12-31
+INCRED FINANCE    Consumer Durable Loan  2025-12-31
+VIVIFIN           Consumer Durable Loan  2025-12-31
+ICICI BANK        Consumer Durable Loan  2025-12-31
+SAYYAMIN          Consumer Durable Loan  2025-12-31
+TRUE CREDITS      Consumer Durable Loan  2025-12-31
+NAVI              Consumer Durable Loan  2025-12-31
+AU SFB            Business Loan          2025-12-31
+KRAZYBEE          Consumer Durable Loan  2025-12-31
+HDFC BANK         Consumer Durable Loan  2025-12-29
+RINGKISSHTSICREV  Consumer Durable Loan  2025-12-29
+BAJAJ FIN LTD     Consumer Durable Loan  2025-12-28
+BAJAJ FIN LTD     Consumer Durable Loan  2025-12-28
+YES BANK          Business Loan          2025-12-28
+YES BANK          Business Loan          2025-12-27
+IDFC FIRST BANK   Consumer Durable Loan  2025-12-24
+AXIS BANK         Business Loan          2025-12-20
+IDFC FIRST BANK   Credit Card            2025-12-19
+AXIS BANK         Business Loan          2025-11-20
+SBI CARD          Business Loan          2025-10-31
+BAJAJ FIN LTD     Education Loan         2025-10-31
+EARLYSALARY       Consumer Durable Loan  2025-10-25
+HDFC BANK                                    Business Loan          2025-08-22
+WHIZDMFINANCE                                Consumer Durable Loan  2025-07-18
+SBI CARD                                     Business Loan          2025-07-17
+ICICI BANK                                   Business Loan          2025-07-15
+HDFC BANK                                    Business Loan          2025-07-01
+BAJAJ FIN LTD                                Education Loan         2025-06-30
+HSBC                                         Business Loan          2025-06-27
+UNITYFIN                                     Business Loan          2025-06-26
+BOBCARD                                      Business Loan          2025-06-26
+POONAFIN                                     Consumer Durable Loan  2025-06-24
+AKARACAPL                                    Consumer Durable Loan  2025-06-24
+INDUSIND BANK                                Consumer Durable Loan  2025-06-21
+YES BANK                                     Business Loan          2025-06-21
+EARLYSALARY                                  Consumer Durable Loan  2025-06-20
+ICICI BANK                                   Business Loan          2025-06-17
+RBL BANK                                     Business Loan          2025-06-16
+FEDERAL BANK                                 Business Loan          2025-06-16
+IDFC FIRST BANK                              Business Loan          2025-06-16
+YES BANK                                     Business Loan          2025-06-15
+HDFC BANK                                    Business Loan          2025-06-12
+HDFC BANK                                    Business Loan          2024-12-03
+INDUSIND BANK                                Consumer Durable Loan  2024-11-21
+INDUSIND BANK                                Business Loan          2024-07-01
+RBL BANK                                     Business Loan          2024-07-01
+AXIS BANK                                    Business Loan          2024-03-08
+AXIS BANK                                    Business Loan          2024-03-08
+AU SFB                                       Business Loan          2023-10-21
+INDUSIND BANK                                Consumer Durable Loan  2023-10-13

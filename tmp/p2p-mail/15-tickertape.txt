@@ -1,0 +1,14 @@
+SUBJECT: Feature request: read/export API for Tickertape data (scorecard, financials, MF analytics)
+
+Hi Tickertape team,
+
+I use Tickertape for stock scorecards, financials, peer comparison, and MF analytics (rolling returns, risk ratios, overlap). It's excellent. Gap: the data is locked in the app — I can't pull it into my net-worth aggregator or my own analysis tools.
+
+Requesting:
+1. A read-only, user-consented API exposing my watchlists/portfolios and a security's scorecard + financials + MF analytics that Tickertape already computes.
+2. Structured CSV/JSON export from the UI (holdings, screens, a fund's risk ratios/rolling returns/overlap).
+3. Optionally, coordinate with aggregators (e.g. INDmoney) to surface Tickertape's analytics alongside holdings.
+
+You already compute all of this — an external consented surface would multiply its value. Is an API on the roadmap?
+
+Chirag Singhal

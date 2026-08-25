@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://chirag127.github.io/govt-colleges/data/schema.json",
+  "title": "Government Colleges",
+  "description": "Government colleges and universities with state, type, and NAAC rating",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "Unique identifier"
+      },
+      "name": {
+        "type": "string",
+        "description": "Display name"
+      }
+    }
+  }
+}

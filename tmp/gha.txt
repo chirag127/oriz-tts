@@ -1,0 +1,16 @@
+REALFAIL  oriz-envpact-dashboard-app → CI
+DEPNOISE  oriz-cards → Dependabot Updates
+DEPNOISE  morphe-patches → Dependabot Updates
+REALFAIL  oriz-me → Deploy to Cloudflare Pages
+DEPNOISE  janaushadhi-ecommerce-nextjs → Dependabot Updates
+REALFAIL  workflows → self-ci
+DEPNOISE  automation-scripts → Dependabot Updates
+DEPNOISE  portable-toolkit → Dependabot Updates
+DEPNOISE  youtube-content-automation → Dependabot Updates
+DEPNOISE  oriz-resume → Dependabot Updates
+DEPNOISE  oriz-case → Dependabot Updates
+DEPNOISE  oriz-quiz → Dependabot Updates
+DEPNOISE  ws → Dependabot Updates
+REALFAIL  bookmark-mind → ci
+DEPNOISE  oz-tokens-base → Dependabot Updates
+DEPNOISE  happy → Dependabot Updates

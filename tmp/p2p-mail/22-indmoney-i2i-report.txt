@@ -1,0 +1,23 @@
+Hi INDmoney team,
+
+Concrete example of the P2P net-worth gap I raised earlier, with my real numbers.
+
+I lend on i2iFunding (RBI-registered NBFC-P2P, RNVP Technology Pvt Ltd). My current position there:
+- Total lent: ₹6,21,627 across 155 borrowers (134 active, 21 closed)
+- Outstanding principal (still to be repaid to me): ₹4,30,380.86
+- Escrow current balance: ₹3,873
+- So my recoverable P2P asset value is roughly ₹4,34,000.
+
+NONE of this shows up in my INDmoney net worth. It is a real, five-figure asset that is completely invisible in your app, so my net worth is understated by ~₹4.3 lakh.
+
+Two things:
+
+1. WHERE do I add this today? Is there ANY existing way in INDmoney to add a P2P lending investment manually — as an "other asset", a custom holding, a manual net-worth entry, anything? If a manual-add path exists, please point me to the exact screen. If it does not exist, please confirm that.
+
+2. Please build proper P2P support: a "P2P Lending" asset type with fields for invested amount, outstanding principal, escrow balance, XIRR, and active/closed/delayed loan counts — ideally via direct integration with platforms like i2iFunding (they have an escrow + reporting system), or at minimum a manual/CSV add.
+
+My i2iFunding lender ID is 1304413 if that helps you scope an integration.
+
+Please reply with the manual-add path (if any) and whether P2P support is on the roadmap.
+
+Chirag Singhal

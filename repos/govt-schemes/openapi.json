@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Indian Government Schemes",
+    "description": "Central government welfare schemes with eligibility and benefits",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/govt-schemes",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Indian Government Schemes data",
+        "description": "Central government welfare schemes with eligibility and benefits",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/schemes": {
+      "get": {
+        "summary": "Indian Government Schemes",
+        "description": "Central government welfare schemes with eligibility and benefits",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

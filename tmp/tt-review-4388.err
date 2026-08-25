@@ -1,0 +1,14 @@
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module 'C:\g\ws\node_modules\astro\dist\cli\throw-and-exit.js' imported from C:\g\ws\node_modules\astro\dist\cli\index.js
+    at finalizeResolution (node:internal/modules/esm/resolve:271:11)
+    at moduleResolve (node:internal/modules/esm/resolve:865:10)
+    at defaultResolve (node:internal/modules/esm/resolve:992:11)
+    at #cachedDefaultResolve (node:internal/modules/esm/loader:701:20)
+    at #resolveAndMaybeBlockOnLoaderThread (node:internal/modules/esm/loader:721:38)
+    at nextStep (node:internal/modules/customization_hooks:189:26)
+    at Ie (file:///C:/g/ws/node_modules/@tailwindcss/node/dist/index.mjs:1:539)
+    at nextStep (node:internal/modules/customization_hooks:189:26)
+    at customizationHookResolve (file:///C:/g/ws/node_modules/astro/node_modules/vite/dist/node/module-runner.js:937:9)
+    at nextStep (node:internal/modules/customization_hooks:189:26) {
+  code: 'ERR_MODULE_NOT_FOUND',
+  url: 'file:///C:/g/ws/node_modules/astro/dist/cli/throw-and-exit.js'
+}

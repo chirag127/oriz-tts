@@ -1,0 +1,19 @@
+SUBJECT: Account Aggregator: PNB exposes only some of my accounts — please surface ALL accounts under my CIF
+
+Dear PNB Grievance/Nodal team,
+
+I link my Punjab National Bank accounts to finance aggregators via the Account Aggregator (AA) framework. Problem: only SOME of my PNB accounts are exposed — a subset appears, but other PNB accounts under the same customer ID (CIF) never show up, even after linking/consent.
+
+Details:
+- Issue: AA fetch returns only a partial set of my PNB accounts; remaining PNB accounts under the same CIF are not discoverable/linkable.
+- Impact: incomplete net-worth aggregation; I can't see all my PNB balances in one place.
+- This looks like a PNB-side FIP account-discovery gap (not exposing all accounts under a CIF to the AA).
+
+Requesting:
+1. Ensure PNB's FIP integration discovers and exposes ALL accounts under a customer's CIF to the Account Aggregator (with consent), not a subset.
+2. Confirm PNB's AA/FIP account-discovery is complete for savings + current + deposit accounts.
+
+Please confirm receipt and a resolution timeline.
+
+Regards,
+Chirag Singhal

@@ -1,0 +1,17 @@
+PNB|care@pnb.co.in|XX7701, XX1433, XX2196, XX1957
+Axis Bank|nodal.officer@axis.bank.in,pno@axis.bank.in|XX6741
+Canara Bank|hocss1@canarabank.com|XX0684
+Bank of India|cgro.boi@bankofindia.co.in|XX5202
+Bank of Baroda|gm.ops.ho@bankofbaroda.com,cs.ho@bankofbaroda.com|XX5461
+Union Bank of India|customercare@unionbankofindia.bank.in|XX0001
+ICICI Bank|customer.care@icici.bank.in,headservicequality@icicibank.com|XX0131
+Kotak Mahindra Bank|nodalofficer@kotak.com|XX5999
+HDFC Bank|support@hdfc.bank.in,grievance.redressal@hdfc.bank.in|XX1111
+Yes Bank|yestouch@yes.bank.in,head.grievanceredressal@yes.bank.in|XX3102
+Federal Bank|contact@federalbank.co.in,support@federalbank.co.in|XX7185, XX2841, XX3299
+IDFC First Bank|pno@idfcfirstbank.com,banker@idfcfirstbank.com|XX2112
+Indian Overseas Bank|gm-csd@iob.in|XX0777
+Indian Bank|nodalofficer@indianbank.bank.in|XX3249
+AU Small Finance Bank|pno@aubank.in|XX7671, XX2823
+Suryoday Small Finance Bank|pno@suryodaybank.com,nodalofficer@suryodaybank.com|XX9539
+Slice Small Finance Bank|customergrievance@slicebank.com,principal.nodalofficer@slicebank.com|XX3475

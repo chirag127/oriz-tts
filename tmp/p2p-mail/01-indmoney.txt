@@ -1,0 +1,42 @@
+SUBJECT: Feature request: aggregate ALL P2P lending platforms in Net Worth + broader ideas
+
+Hi INDmoney team,
+
+I use INDmoney to track my full net worth across 19 linked banks and my broking/MF holdings via the Account Aggregator. It works well. One large gap: my P2P lending investments (i2iFunding, LendenClub, Lendbox, Faircent, IndiaP2P, LiquiLoans, Finzy, 1Finance P2P) are invisible in net worth, even though they are a real, significant asset class held with RBI-registered NBFC-P2P platforms.
+
+Requesting these, ordered by impact.
+
+P2P coverage (primary ask):
+1. Add "P2P Lending" as a first-class asset type in Net Worth, not just "Other".
+2. Direct integrations with major RBI NBFC-P2P platforms (i2iFunding, LendenClub, Lendbox, Faircent, IndiaP2P, LiquiLoans, Finzy, 1Finance P2P) to pull invested amount, current outstanding, escrow/idle funds, and repayments.
+3. Actively coordinate with these platforms to expose read APIs / statement exports, and push for them to join the Account Aggregator (Sahamati) framework as FIPs so P2P balances flow through AA like bank/MF data does today.
+4. Until integrations land: manual-add + CSV/PDF statement import for P2P holdings (most platforms give monthly statements).
+5. Show P2P income (interest received) separately in the income/XIRR view; blended XIRR across P2P + equity + MF.
+6. P2P risk metrics: active vs closed vs delayed/NPA loans, principal at risk, platform-wise concentration.
+7. Track escrow/idle un-lent funds sitting on P2P platforms as a distinct line (cash drag).
+8. Alerts: RBI per-lender investment cap (Rs 50L aggregate across all P2P), missed EMIs, high-NPA platforms.
+
+Broader net-worth / aggregation ideas:
+9. Unlisted/private assets: employee ESOPs/RSUs, startup equity, angel investments.
+10. Real estate + gold (physical + SGB + digital gold) as tracked asset lines with value updates.
+11. Crypto holdings via exchange API / wallet-address read.
+12. PF/EPF, PPF, NPS auto-refresh (some already there — extend coverage).
+13. Full liability side: loans, credit-card outstanding, BNPL — net worth = assets minus liabilities.
+14. FDs/RDs across banks pulled via AA, with maturity calendar.
+15. Insurance (term + ULIP + endowment) surrender/fund value tracking.
+
+Analytics + UX:
+16. Historical net-worth chart (daily/monthly) with contribution vs market-movement split.
+17. Asset allocation vs target, with drift alerts and rebalance suggestions.
+18. Consolidated capital-gains + tax report across equity/MF/P2P for ITR.
+19. Read-only "family view" to aggregate a spouse's/parent's portfolio with consent.
+20. Export everything (holdings + transactions) as CSV/JSON via a personal read-only API token.
+21. Passbook-style unified transaction feed across all linked accounts.
+
+Data + privacy:
+22. Let users pick which asset classes sync (granular AA consent per FIP).
+23. Clear "last synced" timestamp per source; manual refresh button per account.
+
+Happy to beta-test any of this. Thanks for building a genuinely useful aggregator.
+
+Chirag Singhal

@@ -1,0 +1,1536 @@
+{
+  "note": "Seeded from INDmoney (real portfolio) — MF holdings; add stocks/FD/EPF etc manually or via CAS import",
+  "holdings": [
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Value Fund - Direct Plan - Growth Option",
+      "units": 0.4,
+      "unitPrice": 250.7837,
+      "invested": 100,
+      "currentValue": 100.31,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "SBI Gold Fund Direct Plan Growth",
+      "units": 11.96,
+      "unitPrice": 46.7175,
+      "invested": 499.98,
+      "currentValue": 558.74,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Gold Savings Fund - Direct Plan - Growth",
+      "units": 1.78,
+      "unitPrice": 60.9399,
+      "invested": 100,
+      "currentValue": 108.47,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "DSP India T.I.G.E.R. Fund - Direct Plan - Growth",
+      "units": 0.3,
+      "unitPrice": 399.666,
+      "invested": 100,
+      "currentValue": 119.9,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Mahindra Manulife Short Duration Fund Direct Growth",
+      "units": 0.11,
+      "unitPrice": 14.3019,
+      "invested": 1.31,
+      "currentValue": 1.57,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Technology Fund Direct Plan Growth",
+      "units": 0.43,
+      "unitPrice": 208.45,
+      "invested": 100,
+      "currentValue": 89.63,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Nifty Midcap 150 Momentum 50 Index Fund Direct Growth",
+      "units": 8.4,
+      "unitPrice": 19.0395,
+      "invested": 149.99,
+      "currentValue": 159.93,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Aditya Birla Sun Life Gold Fund Direct Plan Growth",
+      "units": 2.36,
+      "unitPrice": 46.0965,
+      "invested": 100,
+      "currentValue": 108.79,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss US Value Equity Offshore Fund Direct Growth",
+      "units": 2.4,
+      "unitPrice": 49.8487,
+      "invested": 100,
+      "currentValue": 119.64,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Helios Flexi Cap Fund Direct Growth",
+      "units": 25.36,
+      "unitPrice": 16.25,
+      "invested": 395.15,
+      "currentValue": 412.1,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "DSP Business Cycle Fund Direct Growth",
+      "units": 9.58,
+      "unitPrice": 10.773,
+      "invested": 100,
+      "currentValue": 103.21,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Invesco India Technology Fund Direct Growth",
+      "units": 50.2,
+      "unitPrice": 10.24,
+      "invested": 499.98,
+      "currentValue": 514.05,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Quant Flexi Cap Fund Growth Option Direct Plan",
+      "units": 2.33,
+      "unitPrice": 123.6702,
+      "invested": 249.99,
+      "currentValue": 288.15,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Direct Growth",
+      "units": 0.93,
+      "unitPrice": 13.6047,
+      "invested": 10.15,
+      "currentValue": 12.65,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Axis Nifty500 Value 50 Index Fund Direct Growth",
+      "units": 43.48,
+      "unitPrice": 11.6571,
+      "invested": 489.75,
+      "currentValue": 506.85,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Quant Teck Fund Direct Growth",
+      "units": 33.56,
+      "unitPrice": 12.0026,
+      "invested": 392.99,
+      "currentValue": 402.81,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "LIC MF Gold ETF FOF Direct Growth",
+      "units": 5.18,
+      "unitPrice": 41.6091,
+      "invested": 199.99,
+      "currentValue": 215.54,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Baroda BNP Paribas Money Market Fund Direct Growth",
+      "units": 0.01,
+      "unitPrice": 1504.082,
+      "invested": 10.92,
+      "currentValue": 15.04,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Nifty Smallcap 250 Index Fund Dir Gr",
+      "units": 3.12,
+      "unitPrice": 36.3695,
+      "invested": 100,
+      "currentValue": 113.47,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bajaj Arbitrage Fund Direct Growth",
+      "units": 0.1,
+      "unitPrice": 12.215,
+      "invested": 0.98,
+      "currentValue": 1.22,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "UTI Nifty200 Momentum 30 Index Fund Direct Growth",
+      "units": 23.35,
+      "unitPrice": 21.7922,
+      "invested": 499.98,
+      "currentValue": 508.85,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Nifty India Digital Index Fund Direct Growth",
+      "units": 10.65,
+      "unitPrice": 8.8643,
+      "invested": 100,
+      "currentValue": 94.4,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Nifty Midcap 150 Momentum 50 Index Fund Direct Growth",
+      "units": 21.81,
+      "unitPrice": 9.798,
+      "invested": 200,
+      "currentValue": 213.69,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Quant Small Cap Fund Growth Option Direct Plan",
+      "units": 3.76,
+      "unitPrice": 314.2098,
+      "invested": 999.95,
+      "currentValue": 1181.43,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Infrastructure Fund - Direct Plan - Growth",
+      "units": 1.82,
+      "unitPrice": 58.883,
+      "invested": 100,
+      "currentValue": 107.17,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Invesco India Smallcap Fund Direct Growth",
+      "units": 11.01,
+      "unitPrice": 54.26,
+      "invested": 499.98,
+      "currentValue": 597.4,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Digital India Fund Direct Growth",
+      "units": 1.76,
+      "unitPrice": 50.4727,
+      "invested": 100,
+      "currentValue": 88.83,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Axis Gold and Silver Passive FOF Direct Growth",
+      "units": 18.24,
+      "unitPrice": 11.166,
+      "invested": 200,
+      "currentValue": 203.67,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Samco Overnight Fund Direct Growth",
+      "units": 0.01,
+      "unitPrice": 1252.5277,
+      "invested": 10.75,
+      "currentValue": 12.53,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Flexi Cap Fund -Direct Plan - Growth Option",
+      "units": 0.04,
+      "unitPrice": 2297.127,
+      "invested": 100,
+      "currentValue": 91.89,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Active Momentum Fund Direct Growth",
+      "units": 8.38,
+      "unitPrice": 13.4168,
+      "invested": 100,
+      "currentValue": 112.43,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund Direct Growth",
+      "units": 62.18,
+      "unitPrice": 8.6002,
+      "invested": 499.98,
+      "currentValue": 534.76,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Invesco India Overnight Fund Direct Growth",
+      "units": 0.01,
+      "unitPrice": 1386.8453,
+      "invested": 9.52,
+      "currentValue": 13.87,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Navi BSE Sensex Index Fund Direct Growth",
+      "units": 0.86,
+      "unitPrice": 12.1615,
+      "invested": 8.98,
+      "currentValue": 10.46,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Gold ETF FOF Direct Plan Growth",
+      "units": 2.22,
+      "unitPrice": 48.9203,
+      "invested": 100,
+      "currentValue": 108.6,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Ultra Short Duration Fund Direct Growth",
+      "units": 0.37,
+      "unitPrice": 16.5432,
+      "invested": 5.04,
+      "currentValue": 6.12,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "SBI Nifty Smallcap 250 Index Fund Direct Growth",
+      "units": 28.3,
+      "unitPrice": 20.0045,
+      "invested": 499.98,
+      "currentValue": 566.13,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Canara Robeco Small Cap Fund Direct Growth",
+      "units": 24.01,
+      "unitPrice": 46.42,
+      "invested": 999.95,
+      "currentValue": 1114.54,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Axis Small Cap Fund Direct Growth",
+      "units": 0.84,
+      "unitPrice": 136.58,
+      "invested": 100,
+      "currentValue": 114.73,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Business Cycle Fund Direct Growth",
+      "units": 5.04,
+      "unitPrice": 20.7855,
+      "invested": 100,
+      "currentValue": 104.76,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Business Cycle Fund Direct Growth",
+      "units": 39.52,
+      "unitPrice": 13.0508,
+      "invested": 499.98,
+      "currentValue": 515.77,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Flexi Cap Fund Direct Growth",
+      "units": 5.68,
+      "unitPrice": 18.2539,
+      "invested": 100,
+      "currentValue": 103.68,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Silver ETF Fund of Fund (FOF) Direct Growth",
+      "units": 2.5,
+      "unitPrice": 35.9754,
+      "invested": 100,
+      "currentValue": 89.94,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "DSP Value Fund Direct Plan Growth",
+      "units": 4.21,
+      "unitPrice": 25.106,
+      "invested": 100,
+      "currentValue": 105.7,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Active Momentum Fund Direct Growth",
+      "units": 9.44,
+      "unitPrice": 11.17,
+      "invested": 100,
+      "currentValue": 105.44,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Franklin India Technology Fund Direct Growth",
+      "units": 0.85,
+      "unitPrice": 543.4085,
+      "invested": 499.98,
+      "currentValue": 461.9,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Shriram ELSS Tax Saver Fund Direct Growth",
+      "units": 25.3,
+      "unitPrice": 24.1241,
+      "invested": 499.98,
+      "currentValue": 610.34,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Nifty India Digital ETF Fund of Fund Direct Growth",
+      "units": 9.85,
+      "unitPrice": 14.1826,
+      "invested": 149.99,
+      "currentValue": 139.7,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF FoF Dir Growth",
+      "units": 10.5,
+      "unitPrice": 10.772,
+      "invested": 100,
+      "currentValue": 113.11,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Groww Nifty Total Market Index Fund Direct Growth",
+      "units": 0.26,
+      "unitPrice": 14.2711,
+      "invested": 2.71,
+      "currentValue": 3.71,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Business Cycle Fund Direct Growth",
+      "units": 9.81,
+      "unitPrice": 10.217,
+      "invested": 100,
+      "currentValue": 100.23,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bajaj Consumption Fund Direct Growth",
+      "units": 52.77,
+      "unitPrice": 9.683,
+      "invested": 499.98,
+      "currentValue": 510.97,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss Business Cycle Fund Direct Growth",
+      "units": 10.92,
+      "unitPrice": 9.4768,
+      "invested": 100,
+      "currentValue": 103.49,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "SBI Silver ETF Fund of Fund Direct Growth",
+      "units": 18.07,
+      "unitPrice": 25.2041,
+      "invested": 499.98,
+      "currentValue": 455.44,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Axis Nifty500 Momentum 50 Index Fund Direct Growth",
+      "units": 9.35,
+      "unitPrice": 11.4662,
+      "invested": 100,
+      "currentValue": 107.21,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss Gold and Silver ETF Fund of Fund Direct Growth",
+      "units": 5.77,
+      "unitPrice": 34.832,
+      "invested": 200,
+      "currentValue": 200.98,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Old Bridge Focused Fund Direct Growth",
+      "units": 0.25,
+      "unitPrice": 14.29,
+      "invested": 2.52,
+      "currentValue": 3.57,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF FoF Dir Growth",
+      "units": 10.5,
+      "unitPrice": 10.772,
+      "invested": 100,
+      "currentValue": 113.11,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "PGIM India CRISIL IBX Gilt Index - Apr 2028 Fund Direct Growth",
+      "units": 0.11,
+      "unitPrice": 12.8735,
+      "invested": 1.13,
+      "currentValue": 1.42,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Mirae Asset Gold Silver Passive FoF Direct Growth",
+      "units": 5.84,
+      "unitPrice": 17.173,
+      "invested": 100,
+      "currentValue": 100.29,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Shriram Multi Sector Rotation Fund Direct Growth",
+      "units": 63.56,
+      "unitPrice": 8.4783,
+      "invested": 513.36,
+      "currentValue": 538.88,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Active Momentum Fund Direct Growth",
+      "units": 41.14,
+      "unitPrice": 14.2924,
+      "invested": 499.98,
+      "currentValue": 587.99,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Franklin India Equity Savings Fund Direct Growth",
+      "units": 0.36,
+      "unitPrice": 18.8336,
+      "invested": 5.61,
+      "currentValue": 6.78,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Small Cap Fund Direct Growth",
+      "units": 36.2,
+      "unitPrice": 17.6679,
+      "invested": 499.98,
+      "currentValue": 639.58,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Flexicap Fund Direct Plan Growth",
+      "units": 7.45,
+      "unitPrice": 71.3425,
+      "invested": 499.98,
+      "currentValue": 531.5,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Nifty 500 Value 50 Index Fund Direct Growth",
+      "units": 18.25,
+      "unitPrice": 11.5304,
+      "invested": 200,
+      "currentValue": 210.43,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "WhiteOak Capital Digital Bharat Fund Direct Growth",
+      "units": 9.32,
+      "unitPrice": 10.648,
+      "invested": 100,
+      "currentValue": 99.24,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HSBC Business Cycles Direct Growth",
+      "units": 22.06,
+      "unitPrice": 49.2232,
+      "invested": 999.96,
+      "currentValue": 1085.86,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "UTI Nifty 500 Value 50 Index Fund Direct Growth",
+      "units": 23.22,
+      "unitPrice": 22.6578,
+      "invested": 499.98,
+      "currentValue": 526.11,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "The Wealth Company Flexi Cap Fund Direct Growth",
+      "units": 39.52,
+      "unitPrice": 10.2783,
+      "invested": 400.88,
+      "currentValue": 406.2,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Flexicap Fund Direct Growth",
+      "units": 4.84,
+      "unitPrice": 22.31,
+      "invested": 100,
+      "currentValue": 107.98,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "NJ Balanced Advantage Fund Direct Growth",
+      "units": 7.83,
+      "unitPrice": 14.81,
+      "invested": 100.01,
+      "currentValue": 115.96,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund Direct Growth",
+      "units": 11.13,
+      "unitPrice": 9.2819,
+      "invested": 100,
+      "currentValue": 103.31,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Technology Fund Direct Growth",
+      "units": 7.08,
+      "unitPrice": 12.555,
+      "invested": 100,
+      "currentValue": 88.89,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "JM Flexicap Fund (Direct) Growth Option",
+      "units": 0.92,
+      "unitPrice": 117.2173,
+      "invested": 100,
+      "currentValue": 107.84,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Nifty200 Value 30 Index Fund Direct Growth",
+      "units": 9.24,
+      "unitPrice": 11.2364,
+      "invested": 100,
+      "currentValue": 103.82,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "JioBlackRock Flexi Cap Fund Direct Growth",
+      "units": 48.83,
+      "unitPrice": 10.1994,
+      "invested": 499.98,
+      "currentValue": 498.04,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss Technology Fund Direct Growth",
+      "units": 7.96,
+      "unitPrice": 13.5048,
+      "invested": 100.01,
+      "currentValue": 107.5,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Gold Silver Passive FOF Direct Growth",
+      "units": 12.81,
+      "unitPrice": 15.5,
+      "invested": 200,
+      "currentValue": 198.56,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Nifty 200 Momentum 30 Index Fund Direct Growth",
+      "units": 32.41,
+      "unitPrice": 15.6712,
+      "invested": 499.98,
+      "currentValue": 507.9,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Axis Flexi Cap Fund Direct Growth",
+      "units": 3.38,
+      "unitPrice": 32.04,
+      "invested": 100,
+      "currentValue": 108.3,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bank of India Short Term Income Fund Direct Plan Growth",
+      "units": 0.39,
+      "unitPrice": 31.0494,
+      "invested": 9.97,
+      "currentValue": 12.11,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Small Cap Fund Direct Growth",
+      "units": 1.99,
+      "unitPrice": 56.925,
+      "invested": 100,
+      "currentValue": 113.28,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Infrastructure & Economic Reform Fund- Direct Plan- Growth Option",
+      "units": 1.33,
+      "unitPrice": 84.658,
+      "invested": 100,
+      "currentValue": 112.6,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Flexicap Fund Direct Growth",
+      "units": 2.05,
+      "unitPrice": 98.505,
+      "invested": 200,
+      "currentValue": 201.94,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Small Cap Fund - Direct Plan - Growth Plan",
+      "units": 0.55,
+      "unitPrice": 209.3661,
+      "invested": 100,
+      "currentValue": 115.15,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Abakkus Flexi Cap Direct Growth",
+      "units": 50,
+      "unitPrice": 11.317,
+      "invested": 499.98,
+      "currentValue": 565.85,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal BSE Enhanced Value Index Fund Direct Growth",
+      "units": 35.11,
+      "unitPrice": 28.0044,
+      "invested": 999.75,
+      "currentValue": 983.23,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Silver ETF Fund of Fund Direct Growth",
+      "units": 2.87,
+      "unitPrice": 31.5125,
+      "invested": 100,
+      "currentValue": 90.44,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "JioBlackRock Nifty Smallcap 250 Index Fund Direct Growth",
+      "units": 52.16,
+      "unitPrice": 10.8781,
+      "invested": 499.98,
+      "currentValue": 567.4,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Business Cycle Fund Direct Growth",
+      "units": 5.04,
+      "unitPrice": 20.7855,
+      "invested": 100,
+      "currentValue": 104.76,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Small Cap Fund-Direct Growth Option",
+      "units": 1.29,
+      "unitPrice": 162.811,
+      "invested": 200,
+      "currentValue": 210.03,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Infrastructure Fund Direct Plan Growth",
+      "units": 0.48,
+      "unitPrice": 223.39,
+      "invested": 100,
+      "currentValue": 107.23,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "JM Value Fund (Direct) - Growth",
+      "units": 0.95,
+      "unitPrice": 110.3845,
+      "invested": 100,
+      "currentValue": 104.87,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss US Technology Equity Fund of Fund Direct Growth",
+      "units": 5.65,
+      "unitPrice": 41.1723,
+      "invested": 200,
+      "currentValue": 232.62,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Zerodha Nifty LargeMidcap 250 Index Fund Direct Growth",
+      "units": 0.37,
+      "unitPrice": 14.6791,
+      "invested": 3.86,
+      "currentValue": 5.43,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Small Cap Direct Growth",
+      "units": 0.35,
+      "unitPrice": 328.127,
+      "invested": 100,
+      "currentValue": 114.84,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Value Fund Direct Plan Growth",
+      "units": 0.18,
+      "unitPrice": 515.78,
+      "invested": 100,
+      "currentValue": 92.84,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Gold ETF Fund of Fund Direct Growth",
+      "units": 6.92,
+      "unitPrice": 23.4697,
+      "invested": 149.99,
+      "currentValue": 162.41,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Union Gilt Fund Direct Growth",
+      "units": 0.36,
+      "unitPrice": 12.6775,
+      "invested": 3.91,
+      "currentValue": 4.56,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Business Cycle Fund Direct Growth",
+      "units": 18.53,
+      "unitPrice": 26.72,
+      "invested": 499.98,
+      "currentValue": 495.12,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Infrastructure Fund -Direct Plan - Growth Option",
+      "units": 1.93,
+      "unitPrice": 52.846,
+      "invested": 100,
+      "currentValue": 101.99,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Silver ETF Fund of Fund Direct Growth",
+      "units": 4.39,
+      "unitPrice": 30.9399,
+      "invested": 149.99,
+      "currentValue": 135.83,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "SBI Small Cap Fund Direct Plan Growth",
+      "units": 2.66,
+      "unitPrice": 214.394,
+      "invested": 499.98,
+      "currentValue": 570.29,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Sundaram Nifty 100 Equal Wgt Dir Gr",
+      "units": 0.61,
+      "unitPrice": 199.8286,
+      "invested": 100,
+      "currentValue": 121.9,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Capitalmind Flexi Cap Fund Direct Growth",
+      "units": 49.36,
+      "unitPrice": 10.4332,
+      "invested": 503.95,
+      "currentValue": 514.98,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Liquid Fund (MOFLF) Direct Monthly Payout of Inc Dis cum cptl wdrl",
+      "units": 0.06,
+      "unitPrice": 10.0525,
+      "invested": 0.61,
+      "currentValue": 0.6,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "WhiteOak Capital Balanced Hybrid Fund Direct Growth",
+      "units": 1,
+      "unitPrice": 14.03,
+      "invested": 10.31,
+      "currentValue": 14.03,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC NIFTY200 Momentum 30 Index Fund Direct Growth",
+      "units": 9.65,
+      "unitPrice": 10.5269,
+      "invested": 100,
+      "currentValue": 101.58,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Navi Liquid Fund Direct Plan Growth Option",
+      "units": 0.39,
+      "unitPrice": 30.495,
+      "invested": 10,
+      "currentValue": 11.89,
+      "broker": "DIRECT",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Silver ETF FOF Direct Growth",
+      "units": 11.12,
+      "unitPrice": 36.145,
+      "invested": 492.52,
+      "currentValue": 401.93,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "360 ONE Flexicap Fund Direct Growth",
+      "units": 7.29,
+      "unitPrice": 17.3142,
+      "invested": 114.96,
+      "currentValue": 126.22,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Invesco India Business Cycle Fund Direct Growth",
+      "units": 39.94,
+      "unitPrice": 14.76,
+      "invested": 499.98,
+      "currentValue": 589.51,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "LIC MF Infrastructure Fund Direct Plan Growth Option",
+      "units": 3.62,
+      "unitPrice": 64.4208,
+      "invested": 199.99,
+      "currentValue": 233.2,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Axis Business Cycles Fund Direct Growth",
+      "units": 5.84,
+      "unitPrice": 18.24,
+      "invested": 100,
+      "currentValue": 106.52,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Sundaram Business Cycle Fund Direct Growth",
+      "units": 9.18,
+      "unitPrice": 11.9365,
+      "invested": 100,
+      "currentValue": 109.58,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "LIC MF Short Duration Fund Direct Growth",
+      "units": 0.76,
+      "unitPrice": 16.6718,
+      "invested": 10.27,
+      "currentValue": 12.67,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Nifty 500 Momentum 50 Index Fund Direct Growth",
+      "units": 12.39,
+      "unitPrice": 8.6906,
+      "invested": 100,
+      "currentValue": 107.68,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Nippon India Nifty 50 Value 20 Index Fund Direct Growth",
+      "units": 5.08,
+      "unitPrice": 17.9163,
+      "invested": 100,
+      "currentValue": 91.01,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Nifty500 Multicap Infrastructure 50:30:20 Index Fund Direct Growth",
+      "units": 9.4,
+      "unitPrice": 11.258,
+      "invested": 100,
+      "currentValue": 105.83,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Motilal Oswal Digital India Fund Direct Growth",
+      "units": 48.24,
+      "unitPrice": 10.2972,
+      "invested": 499.98,
+      "currentValue": 496.74,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Navi BSE Sensex Index Fund Direct Growth",
+      "units": 0.91,
+      "unitPrice": 12.1615,
+      "invested": 10,
+      "currentValue": 11.07,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Nifty Midcap 150 Momentum 50 Index Fund Direct Growth",
+      "units": 8.4,
+      "unitPrice": 19.0395,
+      "invested": 149.99,
+      "currentValue": 159.93,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Business Cycle Fund Direct Growth",
+      "units": 5.87,
+      "unitPrice": 18.601,
+      "invested": 100,
+      "currentValue": 109.19,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HSBC Short Duration Fund Direct Plan Growth Option",
+      "units": 0.02,
+      "unitPrice": 29.983,
+      "invested": 0.39,
+      "currentValue": 0.6,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Infrastructure Fund Direct Plan Growth",
+      "units": 0.56,
+      "unitPrice": 199.8278,
+      "invested": 100,
+      "currentValue": 111.9,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Kotak Technology Fund Direct Growth",
+      "units": 8.29,
+      "unitPrice": 10.898,
+      "invested": 100,
+      "currentValue": 90.34,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Liquid Fund Unclaimed Redemption Less than Three Years",
+      "units": 0.07,
+      "unitPrice": 1.8174,
+      "invested": 0.11,
+      "currentValue": 0.13,
+      "broker": "DIRECT",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Silver ETF Fund of Fund Direct Growth",
+      "units": 2.3,
+      "unitPrice": 39.0034,
+      "invested": 100,
+      "currentValue": 89.71,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Long Duration Debt Fund Direct Growth",
+      "units": 0.1,
+      "unitPrice": 12.7217,
+      "invested": 1.05,
+      "currentValue": 1.27,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Aditya Birla Sun Life Flexi Cap Fund Direct Plan Growth",
+      "units": 0.05,
+      "unitPrice": 2232.53,
+      "invested": 100,
+      "currentValue": 111.63,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Zerodha Silver ETF FoF Direct Growth",
+      "units": 4.19,
+      "unitPrice": 21.5243,
+      "invested": 100,
+      "currentValue": 90.19,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "JM Dynamic Bond Fund (Direct) - Growth Option",
+      "units": 0.26,
+      "unitPrice": 46.6157,
+      "invested": 10,
+      "currentValue": 12.12,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund Direct Growth",
+      "units": 1.36,
+      "unitPrice": 13.5968,
+      "invested": 14.97,
+      "currentValue": 18.49,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Business Cycle Fund Direct Growth",
+      "units": 6.58,
+      "unitPrice": 16.06,
+      "invested": 100,
+      "currentValue": 105.67,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Nifty 500 Momentum 50 Index Fund Direct Growth",
+      "units": 11.53,
+      "unitPrice": 9.2816,
+      "invested": 100,
+      "currentValue": 107.02,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Axis Gold Fund Direct Plan Growth option",
+      "units": 2.25,
+      "unitPrice": 48.2334,
+      "invested": 100,
+      "currentValue": 108.53,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "UTI Gold ETF Fund of Fund Direct Growth",
+      "units": 18.96,
+      "unitPrice": 29.4264,
+      "invested": 499.98,
+      "currentValue": 557.92,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "DSP Flexi Cap Fund Direct Plan Growth",
+      "units": 0.86,
+      "unitPrice": 118.346,
+      "invested": 100,
+      "currentValue": 101.78,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Quantum Nifty 50 ETF FOF Direct Growth",
+      "units": 1.53,
+      "unitPrice": 14.5113,
+      "invested": 17.68,
+      "currentValue": 22.2,
+      "broker": "Kuvera",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HDFC Gold ETF Fund of Fund Direct Plan-Growth",
+      "units": 2.27,
+      "unitPrice": 47.6709,
+      "invested": 100,
+      "currentValue": 108.21,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Mahindra Manulife Business Cycle Fund Direct Growth",
+      "units": 31.51,
+      "unitPrice": 16.8263,
+      "invested": 499.98,
+      "currentValue": 530.2,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "HSBC Value Fund Direct Plan Growth Option",
+      "units": 3.96,
+      "unitPrice": 130.7461,
+      "invested": 499.98,
+      "currentValue": 517.75,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Angel One Nifty Total Market Index Fund Direct Growth",
+      "units": 17.38,
+      "unitPrice": 12.0846,
+      "invested": 207.67,
+      "currentValue": 210.03,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Canara Robeco Dynamic Bond Fund Direct Plan Growth",
+      "units": 0.38,
+      "unitPrice": 33.3954,
+      "invested": 10.92,
+      "currentValue": 12.69,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Bandhan Value Fund Direct Plan Growth",
+      "units": 0.59,
+      "unitPrice": 171.414,
+      "invested": 100,
+      "currentValue": 101.13,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "ICICI Prudential Diversified Equity All Cap Omni FOF Direct Growth",
+      "units": 3.74,
+      "unitPrice": 33.4726,
+      "invested": 100,
+      "currentValue": 125.19,
+      "broker": "Jupiter",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Aditya Birla Sun Life Silver ETF Fund of Fund Direct Growth",
+      "units": 2.46,
+      "unitPrice": 36.6763,
+      "invested": 100,
+      "currentValue": 90.22,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Franklin India Opportunities Fund - Direct - Growth",
+      "units": 1.76,
+      "unitPrice": 299.6683,
+      "invested": 499.98,
+      "currentValue": 527.42,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Edelweiss Nifty Midcap150 Momentum 50 Index Fund Direct Growth",
+      "units": 5.59,
+      "unitPrice": 19.1377,
+      "invested": 100,
+      "currentValue": 106.98,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Aditya Birla Sun Life Digital India Fund Direct Plan Growth",
+      "units": 0.5,
+      "unitPrice": 181.83,
+      "invested": 100,
+      "currentValue": 90.92,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Tata Small Cap Fund Direct Growth",
+      "units": 4.9,
+      "unitPrice": 44.1358,
+      "invested": 200,
+      "currentValue": 216.27,
+      "broker": "Groww",
+      "source": "indmoney-seed"
+    },
+    {
+      "assetClass": "mutual-fund",
+      "name": "Taurus Nifty 50 Index Fund-Direct Plan-Growth Option",
+      "units": 0.45,
+      "unitPrice": 49.6605,
+      "invested": 18.11,
+      "currentValue": 22.35,
+      "broker": "DIRECT",
+      "source": "indmoney-seed"
+    }
+  ],
+  "liabilities": []
+}

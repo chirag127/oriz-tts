@@ -1,0 +1,16 @@
+SUBJECT: Make my P2P portfolio visible in Account Aggregator — join AA as an FIP now
+
+Hi LendenClub team,
+
+I am an active lender on your platform. My LendenClub investment is completely invisible in every net-worth aggregator I use (INDmoney and others) because LendenClub does not expose the data anywhere machine-readable. This is unacceptable for a regulated NBFC-P2P in 2026 — my money is real, my returns are real, but I cannot see them alongside my banks, MFs, and stocks.
+
+Fix this. Specifically:
+
+1. Join the Account Aggregator (Sahamati) framework as an FIP so my LendenClub balance, invested amount, outstanding principal, and repayments flow to any AA-enabled app with my consent — exactly like bank and mutual-fund data does today. Every serious financial platform is on AA. You should be too.
+2. Ship a read-only investor API (OAuth, user-consented) exposing: invested amount, current outstanding, escrow/idle funds, repayments received, active/closed/delayed loan counts, and XIRR.
+3. Provide a structured export (CSV + JSON) of my full portfolio and transaction history from the app — not just a PDF I cannot parse.
+4. Actively coordinate with aggregators (INDmoney, and others) to get LendenClub integrated. Reach out to them; do not wait.
+
+P2P is a genuine asset class and RBI-registered platforms should not be black boxes. Please confirm your AA/FIP roadmap and a timeline.
+
+Chirag Singhal

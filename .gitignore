@@ -6,3 +6,10 @@ dist
 .env
 .env.*
 !.env.example
+
+# Claude Code machine/session state; keep committed project rules/settings explicit.
+.claude/worktrees/
+.claude/settings.local.json
+.claude/scheduled_tasks.json
+.agents/skills-archive/
+

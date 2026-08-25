@@ -1,0 +1,32 @@
+Hi INDmoney team,
+
+Specific request about your INDmoney MCP server (the Model Context Protocol server at mcp.indmoney.com that lets AI assistants access my INDmoney data with my consent).
+
+Right now the MCP exposes only a NARROW slice of my data:
+- networth_snapshot, networth_holdings, networth_allocation_breakdown (balances + holdings)
+- market data / option chain / stock details / SIPs / watchlist
+
+But the MCP does NOT expose the transaction-level and analytics data the app itself has. Please add MCP tools/endpoints for EVERYTHING available, so an AI agent can work with my full financial picture:
+
+Bank / Account Aggregator:
+1. bank transactions — full statement per linked account (date, amount, dr/cr, narration, balance)
+2. consolidated cross-bank passbook + a charges/fees breakdown tool
+3. all accounts under a CIF (some are missing today, e.g. not all my PNB accounts)
+4. FD/RD details + maturity, standing instructions, EMIs
+
+Investments:
+5. mutual-fund analytics (rolling returns, risk ratios, overlap, expense/AUM history, category rank)
+6. Indian-stock fundamentals (shareholding/pledge/FII-DII trend, financials, ratios, peer compare)
+7. US-stock data (estimates, filings, institutional holdings, ETF holdings)
+8. transaction/order history for stocks + MF (buys/sells, not just current holdings)
+
+Other:
+9. liabilities (loans, cards), EPF/PPF/NPS, insurance, crypto, gold — whatever the app tracks
+10. capital-gains / tax report data
+11. historical net-worth time series
+
+Principle: any data the INDmoney app can show me with my consent should also be reachable via the MCP, with the same consent. The MCP is currently balance-only; please expand it to the full dataset so AI tooling can actually help me manage my finances.
+
+Please confirm which of these can be added to the MCP and a rough timeline.
+
+Chirag Singhal

@@ -1,0 +1,20 @@
+SUBJECT: Bank of Maharashtra account linking fails — OTP never arrives (Account Aggregator)
+
+Dear Bank of Maharashtra Grievance/Customer Service team,
+
+I am trying to link my Bank of Maharashtra account to a third-party finance aggregator via the Account Aggregator (AA) framework, and the linking fails at the OTP step: the OTP is NEVER delivered to me, so I cannot complete consent and my BOM account cannot be aggregated at all.
+
+Details:
+- Issue: AA/consent linking OTP for Bank of Maharashtra is not delivered (SMS/email OTP never arrives).
+- Impact: my BOM account is invisible in every aggregator I use, unlike my other banks which link fine.
+- This appears to be a BOM-side AA/FIP or OTP-delivery integration problem, not the aggregator's.
+
+Requesting:
+1. Fix OTP delivery in the Account Aggregator linking flow for Bank of Maharashtra.
+2. Confirm BOM is correctly onboarded as an FIP on the AA network so accounts can be fetched with consent.
+3. If there's a known workaround to link BOM via AA today, please share it.
+
+Please confirm receipt and a resolution timeline.
+
+Regards,
+Chirag Singhal

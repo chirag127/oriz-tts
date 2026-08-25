@@ -1,0 +1,55 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Government Colleges",
+    "description": "Government colleges and universities with state, type, and NAAC rating",
+    "version": "1.0.0",
+    "license": {
+      "name": "CC-BY-4.0"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://chirag127.github.io/govt-colleges",
+      "description": "GitHub Pages"
+    }
+  ],
+  "paths": {
+    "/data.json": {
+      "get": {
+        "summary": "Government Colleges data",
+        "description": "Government colleges and universities with state, type, and NAAC rating",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/colleges": {
+      "get": {
+        "summary": "Government Colleges",
+        "description": "Government colleges and universities with state, type, and NAAC rating",
+        "responses": {
+          "200": {
+            "description": "JSON response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

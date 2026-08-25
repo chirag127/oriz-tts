@@ -9,6 +9,13 @@
     "preview": "astro preview",
     "check": "astro check",
     "check:submodules": "node scripts/check-submodules.mjs",
+    "audit:repos": "node scripts/repo-audit.mjs",
+    "api:discover": "node scripts/playwright-discover.mjs",
+    "api:refresh": "node scripts/refresh-static-api.mjs",
+    "api:factory": "node scripts/api-repo-factory.mjs",
+    "api:pilot": "node scripts/api-repo-factory.mjs --pilot",
+    "api:pilot:dry": "node scripts/api-repo-factory.mjs --dry-run --pilot",
+    "api:publish": "node scripts/publish-api-repos.mjs --all",
     "test": "vitest run",
     "deploy": "astro build && wrangler pages deploy dist --project-name oriz-tts --branch main --commit-dirty=true"
   },

@@ -1,0 +1,16 @@
+SUBJECT: Expose my i2iFunding portfolio to Account Aggregator + investor API — join AA as an FIP
+
+Hi i2iFunding team,
+
+I am an active lender on i2iFunding with a substantial invested amount across 100+ loans. This entire portfolio is invisible in every net-worth aggregator I use (INDmoney and others) because i2iFunding exposes no machine-readable data feed. I can see it only by logging into your app. That is a real gap for a serious lender.
+
+Requesting, firmly:
+
+1. Join the Account Aggregator (Sahamati) framework as an FIP so my i2iFunding invested amount, outstanding principal, escrow/available funds, and repayments flow to any AA-enabled app with my consent — like bank/MF data does today.
+2. Ship a read-only, user-consented investor API (OAuth) exposing exactly what your app already computes: total invested, active-on-loan principal, escrow/available funds, total received-to-date, active/closed loan counts, average interest rate, XIRR.
+3. Provide a proper CSV + JSON export of full portfolio + loan-level transaction history in-app (current exports are hard to parse).
+4. Coordinate directly with aggregators (INDmoney, and others) to get i2iFunding integrated into their net-worth views. Reach out to them.
+
+i2iFunding already has all this data internally — it just needs a consented external surface. Please confirm your AA/FIP roadmap and API timeline.
+
+Chirag Singhal

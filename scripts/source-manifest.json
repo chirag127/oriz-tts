@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "policy": {
+    "discovery": "Playwright is for one-time endpoint discovery and sanitized fixture capture only.",
+    "refresh": "Use direct HTTP in scheduled Actions whenever the source permits it.",
+    "failure": "Never publish empty or malformed data; retain last-known-good output and open/update an issue.",
+    "secrets": "Credentials belong only in GitHub Actions secrets and must never enter fixtures or logs."
+  },
+  "sources": {
+    "india-pincode": {"mode":"direct-http-after-discovery","cadence":"monthly","rateLimit":"1 request/second","auth":"none"},
+    "india-railway-stations": {"mode":"fixture-until-license-verified","cadence":"monthly","rateLimit":"1 request/second","auth":"none"},
+    "india-airports": {"mode":"direct-http-after-discovery","cadence":"monthly","rateLimit":"1 request/second","auth":"none"},
+    "rbi-rates": {"mode":"direct-http-after-discovery","cadence":"daily","rateLimit":"1 request/second","auth":"none"},
+    "ncert-books": {"mode":"direct-http-after-discovery","cadence":"yearly","rateLimit":"1 request/second","auth":"none"}
+  }
+}

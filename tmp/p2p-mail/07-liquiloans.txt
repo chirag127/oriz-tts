@@ -1,0 +1,16 @@
+SUBJECT: Expose my LiquiLoans holdings to Account Aggregator — join AA as an FIP
+
+Hi LiquiLoans team,
+
+I have investments on LiquiLoans (NDX P2P). They are invisible in every net-worth aggregator I use (INDmoney and others) because LiquiLoans exposes no machine-readable data. Real money, real returns, no visibility. Please fix this.
+
+Requesting, firmly:
+
+1. Join the Account Aggregator (Sahamati) framework as an FIP so my LiquiLoans balance, invested amount, outstanding principal, escrow funds, and repayments flow to any AA-enabled app with my consent.
+2. Ship a read-only, user-consented investor API (OAuth): invested amount, current outstanding, idle/escrow funds, repayments, active/closed/delayed/NPA loan counts, XIRR.
+3. Provide CSV + JSON export of full portfolio + transactions in-app — covering partner products too.
+4. Coordinate directly with aggregators (INDmoney, and others) to get LiquiLoans integrated.
+
+Please confirm your AA/FIP roadmap and timeline.
+
+Chirag Singhal

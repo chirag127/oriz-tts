@@ -1,0 +1,19 @@
+Hi INDmoney team,
+
+Feature request for your Account Aggregator (AA) integration.
+
+Right now, for my linked bank accounts, INDmoney shows only the current BALANCE. It does NOT show the TRANSACTIONS. The AA framework (via my consent) can deliver full transaction history for linked accounts — please surface it.
+
+Requests:
+1. Show the full AA transaction feed for every linked bank account — date, amount, debit/credit, description/narration, running balance. Not just the balance snapshot.
+2. A unified, searchable passbook across ALL my linked banks in one timeline (I have 17+ banks linked).
+3. Auto-categorise transactions (spends, income, transfers, charges/fees) and let me filter by category.
+4. Specifically surface BANK CHARGES as their own category — minimum-balance penalties, SMS-alert fees, AMC, ATM charges — so I can see exactly what each bank is deducting across all accounts in one place.
+5. Let me export the transaction history (CSV/JSON) per account and consolidated.
+6. Charge alerts: notify me when a bank debits a fee/penalty.
+
+You already pull balances via AA with my consent; the AA spec also provides transactions. Surfacing them would make INDmoney a true money-tracking app, not just a balance aggregator, and would directly help me spot and dispute wrongful bank charges.
+
+Please confirm if AA transaction display is on the roadmap.
+
+Chirag Singhal

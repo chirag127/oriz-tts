@@ -1,0 +1,21 @@
+Hi Dhan team,
+
+I trade via Dhan and rate it highly — the trading tooling, TradingView charts, options analytics, ₹0 AMC and the 12.49% MTF are genuinely best-in-class among mainstream brokers. Prioritised feedback on gaps that would make it a complete platform:
+
+Mutual funds + portfolio analytics:
+1. Fund overlap / portfolio X-ray — show underlying-holding overlap across my MFs (Kuvera's signature; nobody in the broker space does it well).
+2. Rolling returns + deeper MF analytics — expense-ratio history, AUM trend, category percentile, fund-manager tenure (Value Research / Kuvera level).
+3. Consolidated net-worth view — aggregate external assets (other brokers' holdings, FDs, gold, bonds) into one wealth number, like INDmoney.
+
+Data + reporting:
+4. Full CSV/JSON export of holdings AND transaction history (per-segment + consolidated).
+5. Free consolidated capital-gains / ITR-ready report across equity + F&O + MF.
+6. Family / household portfolio view with consent.
+
+Trading polish:
+7. Options strategy builder + payoff/Greeks depth (Sensibull-level) natively in-app.
+8. Broaden GTT + basket/cover-order coverage; price + indicator alerts.
+
+You already lead on cost + trading UX; adding the MF-analytics + aggregation + reporting layer would make Dhan a true one-stop app. Your open API (DhanHQ) is a real differentiator — please keep investing there. Happy to beta-test.
+
+Chirag Singhal

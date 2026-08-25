@@ -1,0 +1,15 @@
+Dear IndusInd Bank Customer Care / Nodal Officer,
+
+I am reporting a persistent issue on my IndusInd Bank account (registered in my name, Chirag Singhal):
+
+Issue: I receive every transaction SMS alert TWICE. For each single transaction on my account, two identical SMS alerts are delivered to my registered mobile number.
+
+Requests:
+1. Investigate and fix the duplicate transaction-SMS delivery — I should receive exactly ONE alert per transaction.
+2. Confirm I am not being charged twice for SMS alerts due to this duplication; if SMS alerts are chargeable and I was billed for the duplicates, please reverse those charges.
+3. Confirm the fix once the duplicate alerts stop.
+
+Please confirm receipt and a resolution timeline.
+
+Regards,
+Chirag Singhal

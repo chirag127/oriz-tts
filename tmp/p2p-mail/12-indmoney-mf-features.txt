@@ -1,0 +1,25 @@
+SUBJECT: Feature request: MF features competitors have that INDmoney lacks (X-ray, tax harvesting, goals, SWP/STP)
+
+Hi INDmoney team,
+
+I invest in mutual funds through INDmoney and track my full portfolio here. The basics are solid — direct plans, free SIPs, external-folio import, sector/market-cap analytics, family tracking, regular→direct switch. But compared with MF-first platforms (Kuvera, ET Money) INDmoney is missing several mutual-fund features I'd use heavily. Please build these:
+
+1. Fund-overlap / portfolio X-ray. Show how much my funds overlap in underlying holdings (e.g. two large-caps both heavy in the same stocks). Kuvera's signature feature. INDmoney has nothing equivalent — this is the biggest gap.
+
+2. Tax-loss harvesting as a FREE, first-class workflow. Surface loss-harvesting opportunities and LTCG/STCG optimisation in the normal MF flow, not behind a paid tier.
+
+3. Goal-based MF planning engine. Set a target (amount + date) → app computes required SIP → tracks progress and alerts on shortfall. ET Money does this well; INDmoney doesn't.
+
+4. SWP / STP setup + calculators in-app. Systematic Withdrawal and Systematic Transfer plans, with a calculator for retirement/income drawdown.
+
+5. Auto-rebalancing with drift alerts. Alert when my allocation drifts from target and suggest rebalancing trades.
+
+6. Free consolidated capital-gains / ITR-ready report across all my MFs (currently paywalled). Realised + unrealised, STCG/LTCG split, exportable.
+
+7. Full family investment workspace — shared goals + planning + monitoring across family members, not just read-only tracking.
+
+8. Curated model portfolios / fund baskets beyond the screener — themed, risk-profiled baskets with one-tap SIP.
+
+These are all standard on Kuvera/ET Money. Adding them would make INDmoney a genuine one-stop MF platform, not just a tracker. Happy to beta-test.
+
+Chirag Singhal

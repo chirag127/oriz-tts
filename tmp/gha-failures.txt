@@ -1,0 +1,30 @@
+oriz-hash|failure|Dependabot Updates|31669941770
+oriz-pdf|failure|Dependabot Updates|31670161058
+oriz-story-dice|failure|Dependabot Updates|31669910061
+oriz-convert|failure|Dependabot Updates|31670123406
+ws|failure|Dependabot Updates|31627658480
+OmniRoute|failure|Nightly Mutation|31669390301
+sops-lens|failure|ci|31641493949
+janaushadhi-ecommerce-wordpress|failure|MegaLinter|31634323413
+oriz-cards|failure|ci|31634014708
+innercord-internship|failure|CI|31633800626
+oriz-envpact-dashboard-app|failure|CI|31633381200
+oriz-blog|failure|ci|31633324350
+qbittorrent-bitsearch|failure|.github/workflows/megalinter.yml|31632992525
+aktu-cs|failure|MegaLinter|31632622699
+packages|failure|Rebuild on package publish|31647732868
+deploy-kit|failure|lint|31631487874
+bookmark-mind|failure|ci|31631813460
+go-vault|failure|CI|31631556221
+janaushadhi-ecommerce-astro|failure|MegaLinter|31631381752
+janaushadhi-ecommerce-nextjs|failure|Test|31631361517
+portable-toolkit|failure|Dependabot Updates|31630439402
+Witticismdo|failure|Dependabot Updates|31630408862
+chronokeep-bs-ext|failure|Dependabot Updates|31630405262
+oriz-finance-compare|failure|Dependabot Updates|31650708713
+LyricLens-AI-Song-Meaning-Web-App|failure|Dependabot Updates|31630691591
+automation-scripts|failure|Dependabot Updates|31630398501
+youtube-content-automation|failure|Dependabot Updates|31630393283
+oz-tokens-base|failure|Dependabot Updates|31652567148
+morphe-patches|failure|Build and release patched APKs|31668936055
+happy|failure|Dependabot Updates|31631964897

@@ -1,0 +1,16 @@
+SUBJECT: Expose my IndiaP2P holdings to Account Aggregator — join AA as an FIP
+
+Hi IndiaP2P team,
+
+I invest on IndiaP2P. My holdings are invisible in every net-worth aggregator (INDmoney and others) because IndiaP2P publishes no machine-readable data. My capital and returns are real but untrackable alongside the rest of my portfolio. That has to change.
+
+Requesting, firmly:
+
+1. Join the Account Aggregator (Sahamati) framework as an FIP so my IndiaP2P balance, invested amount, outstanding principal, and monthly income flow to any AA-enabled app with my consent — like bank/MF data already does.
+2. Ship a read-only, user-consented investor API (OAuth): invested amount, current outstanding, idle/escrow funds, income received, active/closed/delayed loan counts, XIRR.
+3. Provide CSV + JSON export of my full portfolio and transactions in-app.
+4. Coordinate directly with aggregators (INDmoney, and others) to get IndiaP2P integrated into their net-worth views. Initiate this — don't wait for them.
+
+RBI-registered P2P platforms should not be data black boxes in 2026. Please confirm your AA/FIP roadmap and timeline.
+
+Chirag Singhal

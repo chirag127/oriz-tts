@@ -1,0 +1,14 @@
+SUBJECT: Feature request: read/export API for Value Research MF data (rolling returns, ratios, ratings)
+
+Hi Value Research team,
+
+I rely on Value Research for mutual-fund analysis — rolling returns, category ranks, risk ratios, fund ratings, expense/AUM history. Best-in-class depth. Gap: it's locked in your site/app; I can't pull it into my net-worth aggregator or my own tools.
+
+Requesting:
+1. A read-only, user-consented API exposing fund analytics you already compute (rolling returns, Sharpe/Sortino/alpha/beta, category percentile, VR rating, expense/AUM history, portfolio overlap).
+2. Structured CSV/JSON export of fund data + my portfolio analysis from the UI.
+3. Optionally, partner with aggregators (e.g. INDmoney) to surface Value Research analytics alongside holdings.
+
+An external consented data surface would make Value Research far more useful in a connected portfolio workflow. Is an API planned?
+
+Chirag Singhal

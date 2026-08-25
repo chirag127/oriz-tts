@@ -1,0 +1,62 @@
+SUBJECT: Missing data points across Stocks/MF/US + account bugs (PNB partial, Bank of Maharashtra OTP failing)
+
+Hi INDmoney team,
+
+I use INDmoney to track my full net worth and to research stocks and mutual funds. Two parts below: (A) concrete bugs in MY account that need fixing, and (B) data points you should add that competitors already show.
+
+=== A. ACCOUNT BUGS (my account, please fix) ===
+
+1. Not all my banks are tracked. Several of my bank accounts never appear even after linking. Please widen bank/FIP coverage via the Account Aggregator and let me manually add any bank you can't auto-fetch.
+
+2. PNB is not showing all accounts. INDmoney shows 4 of my Punjab National Bank accounts but I have more PNB accounts that never appear. Multi-account fetch for the same bank is incomplete — please pull ALL accounts under one linked bank, not a subset.
+
+3. Bank of Maharashtra (BOM) — OTP never arrives. When I try to link Bank of Maharashtra, the linking/OTP step fails: the OTP is never delivered, so I cannot add BOM at all. Please fix the BOM AA/OTP integration (or provide a manual-add fallback).
+
+Please confirm you can reproduce these and give a fix timeline.
+
+=== B. MISSING DATA POINTS (add these — competitors have them) ===
+
+Indian stocks (Screener.in / Tickertape / Trendlyne have these, INDmoney doesn't):
+- Promoter pledge % + trend
+- FII/DII/MF holding trend (quarterly changes)
+- Full historical shareholding pattern
+- 3-statement financials incl. cash-flow statement
+- ROCE/ROE 5-10yr trend
+- Peer/sector comparison table
+- Piotroski F-score + forensic/accounting-quality score
+- Credit rating (CRISIL/ICRA)
+- Custom formula screener (any-metric, not just presets)
+- Insider/bulk/block deals
+
+Mutual funds (Value Research / Kuvera / Tickertape have these):
+- Rolling returns (not just point-to-point)
+- Expense-ratio history (trend)
+- Portfolio/stock overlap between funds
+- Fund manager tenure + track record
+- AUM trend over time
+- Full risk ratios: Sharpe, Sortino, alpha, beta, std-dev
+- Downside capture / max drawdown
+- Tracking error vs benchmark
+- Category rank + percentile over time
+
+US stocks (Yahoo Finance / Seeking Alpha / Fidelity have these):
+- Analyst consensus + price-target detail; EPS estimates + revisions
+- Financial statements (10-K/10-Q, 3-statement) + SEC filings feed
+- Insider trades (Form 4) + institutional holdings (13F)
+- Earnings calendar + call transcripts
+- ETF holdings depth + ETF comparison
+- Options chain (and, eventually, US options trading)
+- Limit orders reliably available on US stocks
+- Level-2 quotes / order book
+
+Money-tracking / net-worth (Mint / Kuvera / Jupiter have these):
+- Historical net-worth chart (contribution vs market-movement split)
+- Full net worth incl. P2P lending, crypto, real estate, ESOPs
+- Free consolidated capital-gains / ITR report (currently paywalled)
+- Read-only personal API + full CSV/JSON export
+- Family/shared portfolio workspace (not just tracking)
+- Bill/EMI/renewal reminders + spend categorization
+
+You already have the aggregation backbone — these are additive. The account bugs in section A are the priority. Happy to give more detail or beta-test.
+
+Chirag Singhal
