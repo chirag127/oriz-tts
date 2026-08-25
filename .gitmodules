@@ -629,6 +629,18 @@
 [submodule "repos/zenfocus-bs-ext"]
 	path = repos/zenfocus-bs-ext
 	url = https://github.com/chirag127/zenfocus-bs-ext.git
+[submodule "repos/india-states"]
+	path = repos/india-states
+	url = https://github.com/chirag127/india-states.git
+[submodule "repos/india-holidays"]
+	path = repos/india-holidays
+	url = https://github.com/chirag127/india-holidays.git
+[submodule "repos/mime-types"]
+	path = repos/mime-types
+	url = https://github.com/chirag127/mime-types.git
+[submodule "repos/iso-codes"]
+	path = repos/iso-codes
+	url = https://github.com/chirag127/iso-codes.git
 [submodule "repos/ncert-books"]
 	path = repos/ncert-books
 	url = https://github.com/chirag127/ncert-books.git
@@ -638,24 +650,507 @@
 [submodule "repos/rbi-rates"]
 	path = repos/rbi-rates
 	url = https://github.com/chirag127/rbi-rates.git
-[submodule "repos/india-states"]
-	path = repos/india-states
-	url = https://github.com/chirag127/india-states.git
-[submodule "repos/india-districts"]
-	path = repos/india-districts
-	url = https://github.com/chirag127/india-districts.git
-[submodule "repos/india-pincode"]
-	path = repos/india-pincode
-	url = https://github.com/chirag127/india-pincode.git
-[submodule "repos/india-holidays"]
-	path = repos/india-holidays
-	url = https://github.com/chirag127/india-holidays.git
-[submodule "repos/http-status"]
-	path = repos/http-status
-	url = https://github.com/chirag127/http-status.git
-[submodule "repos/mime-types"]
-	path = repos/mime-types
-	url = https://github.com/chirag127/mime-types.git
-[submodule "repos/iso-codes"]
-	path = repos/iso-codes
-	url = https://github.com/chirag127/iso-codes.git
+[submodule "repos/india-pincodes-by-state"]
+	path = repos/india-pincodes-by-state
+	url = https://github.com/chirag127/india-pincodes-by-state.git
+[submodule "repos/india-parliament"]
+	path = repos/india-parliament
+	url = https://github.com/chirag127/india-parliament.git
+[submodule "repos/india-railway-stations"]
+	path = repos/india-railway-stations
+	url = https://github.com/chirag127/india-railway-stations.git
+[submodule "repos/india-airports"]
+	path = repos/india-airports
+	url = https://github.com/chirag127/india-airports.git
+[submodule "repos/india-isd-codes"]
+	path = repos/india-isd-codes
+	url = https://github.com/chirag127/india-isd-codes.git
+[submodule "repos/india-timezones"]
+	path = repos/india-timezones
+	url = https://github.com/chirag127/india-timezones.git
+[submodule "repos/http-headers"]
+	path = repos/http-headers
+	url = https://github.com/chirag127/http-headers.git
+[submodule "repos/file-extensions"]
+	path = repos/file-extensions
+	url = https://github.com/chirag127/file-extensions.git
+[submodule "repos/programming-languages"]
+	path = repos/programming-languages
+	url = https://github.com/chirag127/programming-languages.git
+[submodule "repos/git-commands"]
+	path = repos/git-commands
+	url = https://github.com/chirag127/git-commands.git
+[submodule "repos/linux-commands"]
+	path = repos/linux-commands
+	url = https://github.com/chirag127/linux-commands.git
+[submodule "repos/sql-functions"]
+	path = repos/sql-functions
+	url = https://github.com/chirag127/sql-functions.git
+[submodule "repos/unicode-blocks"]
+	path = repos/unicode-blocks
+	url = https://github.com/chirag127/unicode-blocks.git
+[submodule "repos/emoji"]
+	path = repos/emoji
+	url = https://github.com/chirag127/emoji.git
+[submodule "repos/timezone-data"]
+	path = repos/timezone-data
+	url = https://github.com/chirag127/timezone-data.git
+[submodule "repos/json-schema-ref"]
+	path = repos/json-schema-ref
+	url = https://github.com/chirag127/json-schema-ref.git
+[submodule "repos/css-properties"]
+	path = repos/css-properties
+	url = https://github.com/chirag127/css-properties.git
+[submodule "repos/html-elements"]
+	path = repos/html-elements
+	url = https://github.com/chirag127/html-elements.git
+[submodule "repos/javascript-builtin"]
+	path = repos/javascript-builtin
+	url = https://github.com/chirag127/javascript-builtin.git
+[submodule "repos/software-licenses"]
+	path = repos/software-licenses
+	url = https://github.com/chirag127/software-licenses.git
+[submodule "repos/regex-tokens"]
+	path = repos/regex-tokens
+	url = https://github.com/chirag127/regex-tokens.git
+[submodule "repos/crypto-algorithms"]
+	path = repos/crypto-algorithms
+	url = https://github.com/chirag127/crypto-algorithms.git
+[submodule "repos/nav-units"]
+	path = repos/nav-units
+	url = https://github.com/chirag127/nav-units.git
+[submodule "repos/ncert-chapters"]
+	path = repos/ncert-chapters
+	url = https://github.com/chirag127/ncert-chapters.git
+[submodule "repos/jee-syllabus"]
+	path = repos/jee-syllabus
+	url = https://github.com/chirag127/jee-syllabus.git
+[submodule "repos/neet-syllabus"]
+	path = repos/neet-syllabus
+	url = https://github.com/chirag127/neet-syllabus.git
+[submodule "repos/gate-syllabus"]
+	path = repos/gate-syllabus
+	url = https://github.com/chirag127/gate-syllabus.git
+[submodule "repos/upsc-syllabus"]
+	path = repos/upsc-syllabus
+	url = https://github.com/chirag127/upsc-syllabus.git
+[submodule "repos/math-formulas"]
+	path = repos/math-formulas
+	url = https://github.com/chirag127/math-formulas.git
+[submodule "repos/physics-formulas"]
+	path = repos/physics-formulas
+	url = https://github.com/chirag127/physics-formulas.git
+[submodule "repos/chemistry-formulas"]
+	path = repos/chemistry-formulas
+	url = https://github.com/chirag127/chemistry-formulas.git
+[submodule "repos/periodic-table"]
+	path = repos/periodic-table
+	url = https://github.com/chirag127/periodic-table.git
+[submodule "repos/programming-concepts"]
+	path = repos/programming-concepts
+	url = https://github.com/chirag127/programming-concepts.git
+[submodule "repos/indian-banks"]
+	path = repos/indian-banks
+	url = https://github.com/chirag127/indian-banks.git
+[submodule "repos/fd-rates"]
+	path = repos/fd-rates
+	url = https://github.com/chirag127/fd-rates.git
+[submodule "repos/savings-rates"]
+	path = repos/savings-rates
+	url = https://github.com/chirag127/savings-rates.git
+[submodule "repos/gst-rates"]
+	path = repos/gst-rates
+	url = https://github.com/chirag127/gst-rates.git
+[submodule "repos/income-tax-slabs"]
+	path = repos/income-tax-slabs
+	url = https://github.com/chirag127/income-tax-slabs.git
+[submodule "repos/tds-rates"]
+	path = repos/tds-rates
+	url = https://github.com/chirag127/tds-rates.git
+[submodule "repos/ipo-calendar"]
+	path = repos/ipo-calendar
+	url = https://github.com/chirag127/ipo-calendar.git
+[submodule "repos/ipo-performance"]
+	path = repos/ipo-performance
+	url = https://github.com/chirag127/ipo-performance.git
+[submodule "repos/mutual-fund-categories"]
+	path = repos/mutual-fund-categories
+	url = https://github.com/chirag127/mutual-fund-categories.git
+[submodule "repos/stock-exchanges"]
+	path = repos/stock-exchanges
+	url = https://github.com/chirag127/stock-exchanges.git
+[submodule "repos/reit-data"]
+	path = repos/reit-data
+	url = https://github.com/chirag127/reit-data.git
+[submodule "repos/currency-rates"]
+	path = repos/currency-rates
+	url = https://github.com/chirag127/currency-rates.git
+[submodule "repos/gsec-rates"]
+	path = repos/gsec-rates
+	url = https://github.com/chirag127/gsec-rates.git
+[submodule "repos/countries"]
+	path = repos/countries
+	url = https://github.com/chirag127/countries.git
+[submodule "repos/currencies"]
+	path = repos/currencies
+	url = https://github.com/chirag127/currencies.git
+[submodule "repos/languages"]
+	path = repos/languages
+	url = https://github.com/chirag127/languages.git
+[submodule "repos/continents"]
+	path = repos/continents
+	url = https://github.com/chirag127/continents.git
+[submodule "repos/country-calling-codes"]
+	path = repos/country-calling-codes
+	url = https://github.com/chirag127/country-calling-codes.git
+[submodule "repos/indian-foods"]
+	path = repos/indian-foods
+	url = https://github.com/chirag127/indian-foods.git
+[submodule "repos/nutrition"]
+	path = repos/nutrition
+	url = https://github.com/chirag127/nutrition.git
+[submodule "repos/indian-spices"]
+	path = repos/indian-spices
+	url = https://github.com/chirag127/indian-spices.git
+[submodule "repos/fruits"]
+	path = repos/fruits
+	url = https://github.com/chirag127/fruits.git
+[submodule "repos/vegetables"]
+	path = repos/vegetables
+	url = https://github.com/chirag127/vegetables.git
+[submodule "repos/indian-crops"]
+	path = repos/indian-crops
+	url = https://github.com/chirag127/indian-crops.git
+[submodule "repos/crop-seasons"]
+	path = repos/crop-seasons
+	url = https://github.com/chirag127/crop-seasons.git
+[submodule "repos/colors"]
+	path = repos/colors
+	url = https://github.com/chirag127/colors.git
+[submodule "repos/quotes"]
+	path = repos/quotes
+	url = https://github.com/chirag127/quotes.git
+[submodule "repos/holiday-world"]
+	path = repos/holiday-world
+	url = https://github.com/chirag127/holiday-world.git
+[submodule "repos/typography-terms"]
+	path = repos/typography-terms
+	url = https://github.com/chirag127/typography-terms.git
+[submodule "repos/smartphones"]
+	path = repos/smartphones
+	url = https://github.com/chirag127/smartphones.git
+[submodule "repos/mobile-chipsets"]
+	path = repos/mobile-chipsets
+	url = https://github.com/chirag127/mobile-chipsets.git
+[submodule "repos/usb-standards"]
+	path = repos/usb-standards
+	url = https://github.com/chirag127/usb-standards.git
+[submodule "repos/wifi-standards"]
+	path = repos/wifi-standards
+	url = https://github.com/chirag127/wifi-standards.git
+[submodule "repos/android-versions"]
+	path = repos/android-versions
+	url = https://github.com/chirag127/android-versions.git
+[submodule "repos/gpus"]
+	path = repos/gpus
+	url = https://github.com/chirag127/gpus.git
+[submodule "repos/display-panels"]
+	path = repos/display-panels
+	url = https://github.com/chirag127/display-panels.git
+[submodule "repos/cricket-ipl"]
+	path = repos/cricket-ipl
+	url = https://github.com/chirag127/cricket-ipl.git
+[submodule "repos/cricket-world-cup"]
+	path = repos/cricket-world-cup
+	url = https://github.com/chirag127/cricket-world-cup.git
+[submodule "repos/book-vault"]
+	path = repos/book-vault
+	url = https://github.com/chirag127/book-vault.git
+[submodule "repos/books-summary"]
+	path = repos/books-summary
+	url = https://github.com/chirag127/books-summary.git
+[submodule "repos/Campaign-Manager"]
+	path = repos/Campaign-Manager
+	url = https://github.com/chirag127/Campaign-Manager.git
+[submodule "repos/happy"]
+	path = repos/happy
+	url = https://github.com/chirag127/happy.git
+[submodule "repos/human-eval"]
+	path = repos/human-eval
+	url = https://github.com/chirag127/human-eval.git
+[submodule "repos/itsm-auto-responder"]
+	path = repos/itsm-auto-responder
+	url = https://github.com/chirag127/itsm-auto-responder.git
+[submodule "repos/lendenclub-helper"]
+	path = repos/lendenclub-helper
+	url = https://github.com/chirag127/lendenclub-helper.git
+[submodule "repos/oriz-dev"]
+	path = repos/oriz-dev
+	url = https://github.com/chirag127/oriz-dev.git
+[submodule "repos/oriz-md"]
+	path = repos/oriz-md
+	url = https://github.com/chirag127/oriz-md.git
+[submodule "repos/oriz-qr"]
+	path = repos/oriz-qr
+	url = https://github.com/chirag127/oriz-qr.git
+[submodule "repos/oriz-tts"]
+	path = repos/oriz-tts
+	url = https://github.com/chirag127/oriz-tts.git
+[submodule "repos/olympics"]
+	path = repos/olympics
+	url = https://github.com/chirag127/olympics.git
+[submodule "repos/india-districts-api"]
+	path = repos/india-districts-api
+	url = https://github.com/chirag127/india-districts-api.git
+[submodule "repos/android-versions-api"]
+	path = repos/android-versions-api
+	url = https://github.com/chirag127/android-versions-api.git
+[submodule "repos/chemistry-formulas-api"]
+	path = repos/chemistry-formulas-api
+	url = https://github.com/chirag127/chemistry-formulas-api.git
+[submodule "repos/colors-api"]
+	path = repos/colors-api
+	url = https://github.com/chirag127/colors-api.git
+[submodule "repos/continents-api"]
+	path = repos/continents-api
+	url = https://github.com/chirag127/continents-api.git
+[submodule "repos/countries-api"]
+	path = repos/countries-api
+	url = https://github.com/chirag127/countries-api.git
+[submodule "repos/country-calling-codes-api"]
+	path = repos/country-calling-codes-api
+	url = https://github.com/chirag127/country-calling-codes-api.git
+[submodule "repos/cricket-ipl-api"]
+	path = repos/cricket-ipl-api
+	url = https://github.com/chirag127/cricket-ipl-api.git
+[submodule "repos/cricket-world-cup-api"]
+	path = repos/cricket-world-cup-api
+	url = https://github.com/chirag127/cricket-world-cup-api.git
+[submodule "repos/crop-seasons-api"]
+	path = repos/crop-seasons-api
+	url = https://github.com/chirag127/crop-seasons-api.git
+[submodule "repos/crypto-algorithms-api"]
+	path = repos/crypto-algorithms-api
+	url = https://github.com/chirag127/crypto-algorithms-api.git
+[submodule "repos/css-properties-api"]
+	path = repos/css-properties-api
+	url = https://github.com/chirag127/css-properties-api.git
+[submodule "repos/currencies-api"]
+	path = repos/currencies-api
+	url = https://github.com/chirag127/currencies-api.git
+[submodule "repos/currency-rates-api"]
+	path = repos/currency-rates-api
+	url = https://github.com/chirag127/currency-rates-api.git
+[submodule "repos/display-panels-api"]
+	path = repos/display-panels-api
+	url = https://github.com/chirag127/display-panels-api.git
+[submodule "repos/emoji-api"]
+	path = repos/emoji-api
+	url = https://github.com/chirag127/emoji-api.git
+[submodule "repos/fd-rates-api"]
+	path = repos/fd-rates-api
+	url = https://github.com/chirag127/fd-rates-api.git
+[submodule "repos/file-extensions-api"]
+	path = repos/file-extensions-api
+	url = https://github.com/chirag127/file-extensions-api.git
+[submodule "repos/fruits-api"]
+	path = repos/fruits-api
+	url = https://github.com/chirag127/fruits-api.git
+[submodule "repos/gate-syllabus-api"]
+	path = repos/gate-syllabus-api
+	url = https://github.com/chirag127/gate-syllabus-api.git
+[submodule "repos/git-commands-api"]
+	path = repos/git-commands-api
+	url = https://github.com/chirag127/git-commands-api.git
+[submodule "repos/govt-colleges-api"]
+	path = repos/govt-colleges-api
+	url = https://github.com/chirag127/govt-colleges-api.git
+[submodule "repos/govt-hospitals-api"]
+	path = repos/govt-hospitals-api
+	url = https://github.com/chirag127/govt-hospitals-api.git
+[submodule "repos/govt-schemes-api"]
+	path = repos/govt-schemes-api
+	url = https://github.com/chirag127/govt-schemes-api.git
+[submodule "repos/gpus-api"]
+	path = repos/gpus-api
+	url = https://github.com/chirag127/gpus-api.git
+[submodule "repos/gsec-rates-api"]
+	path = repos/gsec-rates-api
+	url = https://github.com/chirag127/gsec-rates-api.git
+[submodule "repos/gst-rates-api"]
+	path = repos/gst-rates-api
+	url = https://github.com/chirag127/gst-rates-api.git
+[submodule "repos/holiday-world-api"]
+	path = repos/holiday-world-api
+	url = https://github.com/chirag127/holiday-world-api.git
+[submodule "repos/html-elements-api"]
+	path = repos/html-elements-api
+	url = https://github.com/chirag127/html-elements-api.git
+[submodule "repos/http-headers-api"]
+	path = repos/http-headers-api
+	url = https://github.com/chirag127/http-headers-api.git
+[submodule "repos/http-status-api"]
+	path = repos/http-status-api
+	url = https://github.com/chirag127/http-status-api.git
+[submodule "repos/income-tax-slabs-api"]
+	path = repos/income-tax-slabs-api
+	url = https://github.com/chirag127/income-tax-slabs-api.git
+[submodule "repos/india-airports-api"]
+	path = repos/india-airports-api
+	url = https://github.com/chirag127/india-airports-api.git
+[submodule "repos/india-holidays-api"]
+	path = repos/india-holidays-api
+	url = https://github.com/chirag127/india-holidays-api.git
+[submodule "repos/india-isd-codes-api"]
+	path = repos/india-isd-codes-api
+	url = https://github.com/chirag127/india-isd-codes-api.git
+[submodule "repos/india-parliament-api"]
+	path = repos/india-parliament-api
+	url = https://github.com/chirag127/india-parliament-api.git
+[submodule "repos/india-pincode-api"]
+	path = repos/india-pincode-api
+	url = https://github.com/chirag127/india-pincode-api.git
+[submodule "repos/india-pincodes-by-state-api"]
+	path = repos/india-pincodes-by-state-api
+	url = https://github.com/chirag127/india-pincodes-by-state-api.git
+[submodule "repos/india-railway-stations-api"]
+	path = repos/india-railway-stations-api
+	url = https://github.com/chirag127/india-railway-stations-api.git
+[submodule "repos/india-states-api"]
+	path = repos/india-states-api
+	url = https://github.com/chirag127/india-states-api.git
+[submodule "repos/india-timezones-api"]
+	path = repos/india-timezones-api
+	url = https://github.com/chirag127/india-timezones-api.git
+[submodule "repos/indian-banks-api"]
+	path = repos/indian-banks-api
+	url = https://github.com/chirag127/indian-banks-api.git
+[submodule "repos/indian-crops-api"]
+	path = repos/indian-crops-api
+	url = https://github.com/chirag127/indian-crops-api.git
+[submodule "repos/indian-foods-api"]
+	path = repos/indian-foods-api
+	url = https://github.com/chirag127/indian-foods-api.git
+[submodule "repos/indian-spices-api"]
+	path = repos/indian-spices-api
+	url = https://github.com/chirag127/indian-spices-api.git
+[submodule "repos/ipo-calendar-api"]
+	path = repos/ipo-calendar-api
+	url = https://github.com/chirag127/ipo-calendar-api.git
+[submodule "repos/ipo-performance-api"]
+	path = repos/ipo-performance-api
+	url = https://github.com/chirag127/ipo-performance-api.git
+[submodule "repos/iso-codes-api"]
+	path = repos/iso-codes-api
+	url = https://github.com/chirag127/iso-codes-api.git
+[submodule "repos/javascript-builtin-api"]
+	path = repos/javascript-builtin-api
+	url = https://github.com/chirag127/javascript-builtin-api.git
+[submodule "repos/jee-syllabus-api"]
+	path = repos/jee-syllabus-api
+	url = https://github.com/chirag127/jee-syllabus-api.git
+[submodule "repos/json-schema-ref-api"]
+	path = repos/json-schema-ref-api
+	url = https://github.com/chirag127/json-schema-ref-api.git
+[submodule "repos/languages-api"]
+	path = repos/languages-api
+	url = https://github.com/chirag127/languages-api.git
+[submodule "repos/linux-commands-api"]
+	path = repos/linux-commands-api
+	url = https://github.com/chirag127/linux-commands-api.git
+[submodule "repos/math-formulas-api"]
+	path = repos/math-formulas-api
+	url = https://github.com/chirag127/math-formulas-api.git
+[submodule "repos/mime-types-api"]
+	path = repos/mime-types-api
+	url = https://github.com/chirag127/mime-types-api.git
+[submodule "repos/mobile-chipsets-api"]
+	path = repos/mobile-chipsets-api
+	url = https://github.com/chirag127/mobile-chipsets-api.git
+[submodule "repos/mutual-fund-categories-api"]
+	path = repos/mutual-fund-categories-api
+	url = https://github.com/chirag127/mutual-fund-categories-api.git
+[submodule "repos/nav-units-api"]
+	path = repos/nav-units-api
+	url = https://github.com/chirag127/nav-units-api.git
+[submodule "repos/ncert-books-api"]
+	path = repos/ncert-books-api
+	url = https://github.com/chirag127/ncert-books-api.git
+[submodule "repos/ncert-chapters-api"]
+	path = repos/ncert-chapters-api
+	url = https://github.com/chirag127/ncert-chapters-api.git
+[submodule "repos/neet-syllabus-api"]
+	path = repos/neet-syllabus-api
+	url = https://github.com/chirag127/neet-syllabus-api.git
+[submodule "repos/nutrition-api"]
+	path = repos/nutrition-api
+	url = https://github.com/chirag127/nutrition-api.git
+[submodule "repos/olympics-api"]
+	path = repos/olympics-api
+	url = https://github.com/chirag127/olympics-api.git
+[submodule "repos/periodic-table-api"]
+	path = repos/periodic-table-api
+	url = https://github.com/chirag127/periodic-table-api.git
+[submodule "repos/physics-formulas-api"]
+	path = repos/physics-formulas-api
+	url = https://github.com/chirag127/physics-formulas-api.git
+[submodule "repos/programming-concepts-api"]
+	path = repos/programming-concepts-api
+	url = https://github.com/chirag127/programming-concepts-api.git
+[submodule "repos/programming-languages-api"]
+	path = repos/programming-languages-api
+	url = https://github.com/chirag127/programming-languages-api.git
+[submodule "repos/quotes-api"]
+	path = repos/quotes-api
+	url = https://github.com/chirag127/quotes-api.git
+[submodule "repos/rbi-rates-api"]
+	path = repos/rbi-rates-api
+	url = https://github.com/chirag127/rbi-rates-api.git
+[submodule "repos/regex-tokens-api"]
+	path = repos/regex-tokens-api
+	url = https://github.com/chirag127/regex-tokens-api.git
+[submodule "repos/reit-data-api"]
+	path = repos/reit-data-api
+	url = https://github.com/chirag127/reit-data-api.git
+[submodule "repos/savings-rates-api"]
+	path = repos/savings-rates-api
+	url = https://github.com/chirag127/savings-rates-api.git
+[submodule "repos/si-units-api"]
+	path = repos/si-units-api
+	url = https://github.com/chirag127/si-units-api.git
+[submodule "repos/smartphones-api"]
+	path = repos/smartphones-api
+	url = https://github.com/chirag127/smartphones-api.git
+[submodule "repos/software-licenses-api"]
+	path = repos/software-licenses-api
+	url = https://github.com/chirag127/software-licenses-api.git
+[submodule "repos/sql-functions-api"]
+	path = repos/sql-functions-api
+	url = https://github.com/chirag127/sql-functions-api.git
+[submodule "repos/stock-exchanges-api"]
+	path = repos/stock-exchanges-api
+	url = https://github.com/chirag127/stock-exchanges-api.git
+[submodule "repos/tds-rates-api"]
+	path = repos/tds-rates-api
+	url = https://github.com/chirag127/tds-rates-api.git
+[submodule "repos/timezone-data-api"]
+	path = repos/timezone-data-api
+	url = https://github.com/chirag127/timezone-data-api.git
+[submodule "repos/typography-terms-api"]
+	path = repos/typography-terms-api
+	url = https://github.com/chirag127/typography-terms-api.git
+[submodule "repos/unicode-blocks-api"]
+	path = repos/unicode-blocks-api
+	url = https://github.com/chirag127/unicode-blocks-api.git
+[submodule "repos/upsc-syllabus-api"]
+	path = repos/upsc-syllabus-api
+	url = https://github.com/chirag127/upsc-syllabus-api.git
+[submodule "repos/usb-standards-api"]
+	path = repos/usb-standards-api
+	url = https://github.com/chirag127/usb-standards-api.git
+[submodule "repos/vegetables-api"]
+	path = repos/vegetables-api
+	url = https://github.com/chirag127/vegetables-api.git
+[submodule "repos/wifi-standards-api"]
+	path = repos/wifi-standards-api
+	url = https://github.com/chirag127/wifi-standards-api.git
