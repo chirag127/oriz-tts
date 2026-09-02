@@ -629,6 +629,10 @@
 [submodule "repos/zenfocus-bs-ext"]
 	path = repos/zenfocus-bs-ext
 	url = https://github.com/chirag127/zenfocus-bs-ext.git
+
+[submodule "repos/lendenclub-loan-dashboard"]
+	path = repos/lendenclub-loan-dashboard
+	url = https://github.com/chirag127/lendenclub-loan-dashboard.git
 [submodule "repos/india-states"]
 	path = repos/india-states
 	url = https://github.com/chirag127/india-states.git

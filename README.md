@@ -1,6 +1,6 @@
 # Repository Catalog
 
-Monorepo of 251 submodules, all at flat `repos/<name>` paths.
+Monorepo of 334 submodules, all at flat `repos/<name>` paths.
 Registered in [`.gitmodules`](.gitmodules). Clone everything with:
 
 ```bash
@@ -201,6 +201,7 @@ git submodule update --init --recursive
 | [kirtuclub-downloader](https://github.com/chirag127/kirtuclub-downloader) | Unified Python CLI to download, assemble, OCR, and merge comic PDFs (download → topdf → ocr → merge). |
 | [leak-finder](https://github.com/chirag127/leak-finder) | Local-first CLI that finds money leaks in Indian bank statements (PDFs) |
 | [lendenclub-helper](https://github.com/chirag127/lendenclub-helper) | *No description* |
+| [lendenclub-loan-dashboard](https://github.com/chirag127/lendenclub-loan-dashboard) | LenDenClub manual-lending analytics dashboard — 52 charts (ECharts), 12 KPIs and a sortable 2,993-loan register from the lending report xlsx. Live on GitHub Pages. |
 | [life-cli](https://github.com/chirag127/life-cli) | Personal life-management CLI |
 | [LyricLens-AI-Song-Meaning-Web-App](https://github.com/chirag127/LyricLens-AI-Song-Meaning-Web-App) | Client-side AI song-meaning + multi-source lyrics web app — searches lyrics.ovh, LRCLIB, Genius, and LLM knowledge; explains meanings and searches the web automatically. 100% client-side, BYO free AI key. |
 | [memoria-android](https://github.com/chirag127/memoria-android) | Memoria — Android-native Life Memory OS. Git/Obsidian-vault-backed personal memory, capture & knowledge-extraction. Markdown is the source of truth. |
