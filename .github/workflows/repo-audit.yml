@@ -61,7 +61,7 @@ jobs:
           node -e "const x=require('./repo-inventory.json'); if (!x.repositories.length) process.exit(1); console.log('repositories:', x.repositories.length)"
 
       - name: Secret scan tracked content
-        uses: gitleaks/gitleaks-action@v2
+        uses: gitleaks/gitleaks-action@v3
         continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
