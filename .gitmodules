@@ -1158,3 +1158,6 @@
 [submodule "repos/wifi-standards-api"]
 	path = repos/wifi-standards-api
 	url = https://github.com/chirag127/wifi-standards-api.git
+[submodule "repos/i2i-portfolio-analysis"]
+	path = repos/i2i-portfolio-analysis
+	url = https://github.com/chirag127/i2i-portfolio-analysis.git
