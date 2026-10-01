@@ -37,7 +37,7 @@ jobs:
           git diff --exit-code -- .gitmodules || { echo '::error::Checkout has unexpected .gitmodules changes'; exit 1; }
 
       - name: Setup pnpm for the umbrella project
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v6
         with:
           version: 10
 
